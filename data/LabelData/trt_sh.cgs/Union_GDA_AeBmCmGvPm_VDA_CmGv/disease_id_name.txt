@@ -1,0 +1,285 @@
+disease	diseaseName
+C1292769	Precursor B-cell lymphoblastic leukemia
+C0023467	Leukemia, Myelocytic, Acute
+C0023473	Myeloid Leukemia, Chronic
+C0026764	Multiple Myeloma
+C0002736	Amyotrophic Lateral Sclerosis
+C0003873	Rheumatoid Arthritis
+C0346421	Chronic eosinophilic leukemia
+C0238198	Gastrointestinal Stromal Tumors
+C1540912	Hypereosinophilic syndrome
+C0152171	Idiopathic pulmonary hypertension
+C0085786	Hamman-Rich syndrome
+C0024305	Lymphoma, Non-Hodgkin
+C4524071	Philadelphia positive acute lymphocytic leukaemia
+C0280100	Solid Neoplasm
+C0376545	Hematologic Neoplasms
+C0023434	Chronic Lymphocytic Leukemia
+C0024141	Lupus Erythematosus, Systemic
+C4721414	Mantle cell lymphoma
+C0024301	Lymphoma, Follicular
+C0242647	Mucosa-Associated Lymphoid Tissue Lymphoma
+C0009326	Collagen Diseases
+C0006142	Malignant neoplasm of breast
+C0011854	Diabetes Mellitus, Insulin-Dependent
+C0003872	Arthritis, Psoriatic
+C0004364	Autoimmune Diseases
+C1961099	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma
+C0019829	Hodgkin Disease
+C0149925	Small cell carcinoma of lung
+C0007131	Non-Small Cell Lung Carcinoma
+C0152018	Esophageal carcinoma
+C0024623	Malignant neoplasm of stomach
+C0235974	Pancreatic carcinoma
+C0153594	Malignant neoplasm of testis
+C0376358	Malignant neoplasm of prostate
+C0476089	Endometrial Carcinoma
+C1140680	Malignant neoplasm of ovary
+C0007873	Uterine Cervical Neoplasm
+C0553580	Ewings sarcoma
+C0035412	Rhabdomyosarcoma
+C0206634	Liposarcoma, Myxoid
+C0039101	synovial sarcoma
+C0018923	Hemangiosarcoma
+C0018671	Head and Neck Neoplasms
+C0027651	Neoplasms
+C0018099	Gout
+C0023269	leiomyosarcoma
+C0334463	Malignant Fibrous Histiocytoma
+C0005684	Malignant neoplasm of urinary bladder
+C0024299	Lymphoma
+C0024121	Lung Neoplasms
+C2145472	Urothelial Carcinoma
+C0005426	Biliary Tract Neoplasm
+C0032463	Polycythemia Vera
+C0021051	Immunologic Deficiency Syndromes
+C0011615	Dermatitis, Atopic
+C0026987	Myelofibrosis
+C0263361	Psoriasis vulgaris
+C3495559	Juvenile arthritis
+C0020517	Hypersensitivity
+C0018939	Hematological Disease
+C0009402	Colorectal Carcinoma
+C0007134	Renal Cell Carcinoma
+C0007115	Malignant neoplasm of thyroid
+C0242363	Islet Cell Tumor
+C2239176	Liver carcinoma
+C0238463	Papillary thyroid carcinoma
+C0238462	Medullary carcinoma of thyroid
+C0206682	Follicular thyroid carcinoma
+C0008497	Choriocarcinoma
+C0029463	Osteosarcoma
+C1800706	Idiopathic Pulmonary Fibrosis
+C4551686	Malignant neoplasm of soft tissue
+C0025202	melanoma
+C0017638	Glioma
+C1261473	Sarcoma
+C0017636	Glioblastoma
+C0238461	Anaplastic thyroid carcinoma
+C0029456	Osteoporosis
+C0153690	Secondary malignant neoplasm of bone
+C0432214	Namaqualand hip dysplasia
+C0018133	Graft-vs-Host Disease
+C0011860	Diabetes Mellitus, Non-Insulin-Dependent
+C0524620	Metabolic Syndrome X
+C0345967	Malignant mesothelioma
+C0019693	HIV Infections
+C0342257	Complications of Diabetes Mellitus
+C0021400	Influenza
+C3463824	MYELODYSPLASTIC SYNDROME
+C0023418	leukemia
+C0006413	Burkitt Lymphoma
+C0024419	Waldenstrom Macroglobulinemia
+C0004096	Asthma
+C0023443	Hairy Cell Leukemia
+C0023493	Adult T-Cell Lymphoma/Leukemia
+C0002395	Alzheimer's Disease
+C0030567	Parkinson Disease
+C0010346	Crohn Disease
+C0021390	Inflammatory Bowel Diseases
+C0009324	Ulcerative Colitis
+C0004943	Behcet Syndrome
+C0003851	Arteriosclerosis Obliterans
+C0011570	Mental Depression
+C0005586	Bipolar Disorder
+C0033860	Psoriasis
+C2347126	Microscopic Polyarteritis
+C0152081	Pustular psoriasis
+C1384600	Systemic onset juvenile chronic arthritis
+C0038013	Ankylosing spondylitis
+C0024117	Chronic Obstructive Airway Disease
+C0014544	Epilepsy
+C0242488	Acute Lung Injury
+C0264716	Chronic heart failure
+C0949691	Spondylarthropathies
+C0748052	Erythrodermic psoriasis
+C0085435	Arthritis, Reactive
+C0042384	Vasculitis
+C0079773	Lymphoma, T-Cell, Cutaneous
+C0023487	Acute Promyelocytic Leukemia
+C0027662	Multiple Endocrine Neoplasia
+C0026691	Mucocutaneous Lymph Node Syndrome
+C0596240	Cancer Pain
+C0333559	Infarction, Lacunar
+C0024031	Low Back Pain
+C0234251	Inflammatory pain
+C0040038	Thromboembolism
+C0151744	Myocardial Ischemia
+C1531624	Cardioembolic stroke
+C0007786	Brain Ischemia
+C0740394	Hyperuricemia
+C0013390	Dysmenorrhea
+C0007787	Transient Ischemic Attack
+C1704436	Peripheral Arterial Diseases
+C0030193	Pain
+C0015967	Fever
+C0013274	Patent ductus arteriosus
+C0243026	Sepsis
+C0011881	Diabetic Nephropathy
+C0017531	Angiolymphoid hyperplasia
+C0020542	Pulmonary Hypertension
+C2973725	Pulmonary arterial hypertension
+C0039483	Giant Cell Arteritis
+C0006625	Cachexia
+C0026769	Multiple Sclerosis
+C0001080	Achondroplasia
+C4721806	Carcinoma, Basal Cell
+C0008479	Chondrosarcoma
+C1328479	Pancreatic Endocrine Carcinoma
+C0206754	Neuroendocrine Tumors
+C1458155	Mammary Neoplasms
+C0812413	Malignant Pleural Mesothelioma
+C1168401	Squamous cell carcinoma of the head and neck
+C0242383	Age related macular degeneration
+C0006118	Brain Neoplasms
+C0205768	Subependymal Giant Cell Astrocytoma
+C0241961	Angiomyolipoma of kidney
+C0751674	Lymphangioleiomyomatosis
+C0041341	Tuberous Sclerosis
+C4724394	Metastatic Soft Tissue Sarcoma
+C0018129	Graft Rejection
+C0027819	Neuroblastoma
+C0041182	Trophoblastic Neoplasms
+C0524851	Neurodegenerative Disorders
+C0153452	Malignant neoplasm of gallbladder
+C0019163	Hepatitis B
+C0019196	Hepatitis C
+C0032580	Adenomatous Polyposis Coli
+C0005940	Bone Diseases
+C1861923	Acampomelic Campomelic Dysplasia
+C0037286	Skin Neoplasms
+C0687150	Parathyroid Gland Adenocarcinoma
+C0024137	Lupus Erythematosus, Cutaneous
+C2937421	Prostatic Hyperplasia
+C3658266	Prostatic Cancer, Castration-Resistant
+C0741682	Premenopausal breast cancer
+C0020445	Hypercholesterolemia, Familial
+C0242339	Dyslipidemias
+C0038525	Subarachnoid Hemorrhage
+C0017601	Glaucoma
+C0028840	Ocular Hypertension
+C0027404	Narcolepsy
+C0020649	Hypotension
+C0020651	Hypotension, Orthostatic
+C0025281	Meniere Disease
+C0022104	Irritable Bowel Syndrome
+C3714625	Neuropathic pain
+C0003811	Cardiac Arrhythmia
+C3843755	Gastric or duodenal ulcer
+C0030920	Peptic Ulcer
+C0036341	Schizophrenia
+C0008677	Bronchitis, Chronic
+C0011991	Diarrhea
+C0740441	Acute diarrhea
+C0087012	Ataxia, Spinocerebellar
+C2607914	Allergic rhinitis (disorder)
+C0009766	Allergic Conjunctivitis
+C0002792	anaphylaxis
+C0242422	Parkinsonian Disorders
+C0009443	Common Cold
+C0033771	Prurigo
+C0011609	Drug Eruptions
+C0521465	Toxicoderma
+C0018621	Hay fever
+C0338831	Manic
+C0042109	Urticaria
+C0022577	Keratoconjunctivitis, Vernal
+C0033774	Pruritus
+C0162817	Skin Diseases, Eczematous
+C0014742	Erythema Multiforme
+C0002994	Angioedema
+C0035460	Rhinitis, Vasomotor
+C0026603	Motion Sickness
+C0398650	Immune thrombocytopenic purpura
+C0007194	Hypertrophic Cardiomyopathy
+C0002874	Aplastic Anemia
+C0024143	Lupus Nephritis
+C0026896	Myasthenia Gravis
+C0085655	Polymyositis
+C0027726	Nephrotic Syndrome
+C0206061	Pneumonia, Interstitial
+C0025517	Metabolic Diseases
+C1719672	Severe Sepsis
+C0037231	Sjogren-Larsson Syndrome
+C0036421	Systemic Scleroderma
+C0003864	Arthritis
+C0024115	Lung diseases
+C0035222	Respiratory Distress Syndrome, Adult
+C0242966	Systemic Inflammatory Response Syndrome
+C0020443	Hypercholesterolemia
+C0020538	Hypertensive disease
+C0268731	Renal glomerular disease
+C0020557	Hypertriglyceridemia
+C3665365	Arteriosclerotic cardiovascular disease, NOS
+C0677501	Congenital Nephrogenic Diabetes Insipidus
+C2316212	Cryopyrin-Associated Periodic Syndromes
+C0020428	Hyperaldosteronism
+C1384514	Conn Syndrome
+C0264714	Acute heart failure
+C0002962	Angina Pectoris
+C0002963	Angina Pectoris, Variant
+C0039231	Tachycardia
+C0080203	Tachyarrhythmia
+C0011849	Diabetes Mellitus
+C0011882	Diabetic Neuropathies
+C0027627	Neoplasm Metastasis
+C0015695	Fatty Liver
+C0400966	Non-alcoholic Fatty Liver Disease
+C0026850	Muscular Dystrophy
+C4721555	Autoimmune hepatitis
+C0852036	Pregnancy associated hypertension
+C0031511	Pheochromocytoma
+C4551683	Adrenal Gland Pheochromocytoma
+C0021368	Inflammation
+C0005944	Metabolic Bone Disorder
+C0004238	Atrial Fibrillation
+C0027051	Myocardial Infarction
+C0018824	Heart valve disease
+C1861172	Venous Thromboembolism
+C0524702	Pulmonary Thromboembolisms
+C0272285	Heparin-induced thrombocytopenia
+C0014869	Peptic Esophagitis
+C0262417	Acute on chronic pancreatitis
+C0149871	Deep Vein Thrombosis
+C4544791	PIK3CA related overgrowth syndrome
+C0020514	Hyperprolactinemia
+C3665358	Galactorrhea
+C0033375	Prolactinoma
+C0011884	Diabetic Retinopathy
+C0001206	Acromegaly
+C0013608	Edema, Cardiac
+C0036830	Serum Sickness
+C0007785	Cerebral Infarction
+C0003838	Arterial Occlusive Diseases
+C1833683	NEPHROLITHIASIS, CALCIUM OXALATE
+C0149931	Migraine Disorders
+C0302314	Xanthoma
+C0149521	Pancreatitis, Chronic
+C0001339	Acute pancreatitis
+C0156221	Acute glomerulonephritis
+C0040053	Thrombosis
+C0026946	Mycoses
+C0035309	Retinal Diseases
+C4083212	Alopecia, Male Pattern
+C0085096	Peripheral Vascular Diseases
+C0019080	Hemorrhage

@@ -1,0 +1,1922 @@
+disease_id	entrezgene	type	gene	diseaseName	diseaseType	diseaseClass	diseaseSemanticType	disease_degree
+C1292769	hsa:25	I	ABL1	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:930	I	CD19	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:915	I	CD3D	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:10381	I	TUBB3	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:10383	I	TUBB2C	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:7280	I	TUBB2A	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:84617	I	TUBB6	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:6240	I	RRM1	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:6790	I	AURKA	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:9212	I	AURKB	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:6795	I	AURKC	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:3717	I	JAK2	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:2322	I	FLT3	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:613	I	BCR	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:3614	I	IMPDH1	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:3615	I	IMPDH2	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:3251	I	HPRT1	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:5422	I	POLA1	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:23649	I	POLA2	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:7150	I	TOP1	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:7153	I	TOP2A	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:7155	I	TOP2B	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:5156	I	PDGFRA	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:3815	I	KIT	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:6714	I	SRC	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:3932	I	LCK	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:7525	I	YES1	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:2534	I	FYN	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:1969	I	EPHA2	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C1292769	hsa:5159	I	PDGFRB	Precursor B-cell lymphoblastic leukemia	disease	C04;C20;C15	Neoplastic Process	30
+C0023467	hsa:25	I	ABL1	Leukemia, Myelocytic, Acute	disease	C04	Neoplastic Process	18
+C0023467	hsa:3717	I	JAK2	Leukemia, Myelocytic, Acute	disease	C04	Neoplastic Process	18
+C0023467	hsa:2322	I	FLT3	Leukemia, Myelocytic, Acute	disease	C04	Neoplastic Process	18
+C0023467	hsa:613	I	BCR	Leukemia, Myelocytic, Acute	disease	C04	Neoplastic Process	18
+C0023467	hsa:3815	I	KIT	Leukemia, Myelocytic, Acute	disease	C04	Neoplastic Process	18
+C0023467	hsa:5159	I	PDGFRB	Leukemia, Myelocytic, Acute	disease	C04	Neoplastic Process	18
+C0023467	hsa:7852	I	CXCR4	Leukemia, Myelocytic, Acute	disease	C04	Neoplastic Process	18
+C0023467	hsa:4914	I	NTRK1	Leukemia, Myelocytic, Acute	disease	C04	Neoplastic Process	18
+C0023467	hsa:4916	I	NTRK3	Leukemia, Myelocytic, Acute	disease	C04	Neoplastic Process	18
+C0023467	hsa:5578	I	PRKCA	Leukemia, Myelocytic, Acute	disease	C04	Neoplastic Process	18
+C0023467	hsa:5579	I	PRKCB	Leukemia, Myelocytic, Acute	disease	C04	Neoplastic Process	18
+C0023467	hsa:3791	I	KDR	Leukemia, Myelocytic, Acute	disease	C04	Neoplastic Process	18
+C0023467	hsa:3265	I	HRAS	Leukemia, Myelocytic, Acute	disease	C04	Neoplastic Process	18
+C0023467	hsa:3845	I	KRAS	Leukemia, Myelocytic, Acute	disease	C04	Neoplastic Process	18
+C0023467	hsa:4893	I	NRAS	Leukemia, Myelocytic, Acute	disease	C04	Neoplastic Process	18
+C0023467	hsa:331	I	XIAP	Leukemia, Myelocytic, Acute	disease	C04	Neoplastic Process	18
+C0023467	hsa:6387	I	CXCL12	Leukemia, Myelocytic, Acute	disease	C04	Neoplastic Process	18
+C0023467	hsa:4609	I	MYC	Leukemia, Myelocytic, Acute	disease	C04	Neoplastic Process	18
+C0023473	hsa:25	I	ABL1	Myeloid Leukemia, Chronic	disease	C04;C15	Neoplastic Process	18
+C0023473	hsa:6790	I	AURKA	Myeloid Leukemia, Chronic	disease	C04;C15	Neoplastic Process	18
+C0023473	hsa:9212	I	AURKB	Myeloid Leukemia, Chronic	disease	C04;C15	Neoplastic Process	18
+C0023473	hsa:6795	I	AURKC	Myeloid Leukemia, Chronic	disease	C04;C15	Neoplastic Process	18
+C0023473	hsa:3717	I	JAK2	Myeloid Leukemia, Chronic	disease	C04;C15	Neoplastic Process	18
+C0023473	hsa:2322	I	FLT3	Myeloid Leukemia, Chronic	disease	C04;C15	Neoplastic Process	18
+C0023473	hsa:613	I	BCR	Myeloid Leukemia, Chronic	disease	C04;C15	Neoplastic Process	18
+C0023473	hsa:5156	I	PDGFRA	Myeloid Leukemia, Chronic	disease	C04;C15	Neoplastic Process	18
+C0023473	hsa:3815	I	KIT	Myeloid Leukemia, Chronic	disease	C04;C15	Neoplastic Process	18
+C0023473	hsa:6714	I	SRC	Myeloid Leukemia, Chronic	disease	C04;C15	Neoplastic Process	18
+C0023473	hsa:3932	I	LCK	Myeloid Leukemia, Chronic	disease	C04;C15	Neoplastic Process	18
+C0023473	hsa:7525	I	YES1	Myeloid Leukemia, Chronic	disease	C04;C15	Neoplastic Process	18
+C0023473	hsa:2534	I	FYN	Myeloid Leukemia, Chronic	disease	C04;C15	Neoplastic Process	18
+C0023473	hsa:1969	I	EPHA2	Myeloid Leukemia, Chronic	disease	C04;C15	Neoplastic Process	18
+C0023473	hsa:5159	I	PDGFRB	Myeloid Leukemia, Chronic	disease	C04;C15	Neoplastic Process	18
+C0023473	hsa:4609	I	MYC	Myeloid Leukemia, Chronic	disease	C04;C15	Neoplastic Process	18
+C0023473	hsa:7157	I	TP53	Myeloid Leukemia, Chronic	disease	C04;C15	Neoplastic Process	18
+C0023473	hsa:586	I	BCAT1	Myeloid Leukemia, Chronic	disease	C04;C15	Neoplastic Process	18
+C0026764	hsa:25	I	ABL1	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:6790	I	AURKA	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:9212	I	AURKB	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:3717	I	JAK2	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:2322	I	FLT3	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:613	I	BCR	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:7525	I	YES1	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:4914	I	NTRK1	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:4916	I	NTRK3	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:3265	I	HRAS	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:3845	I	KRAS	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:4893	I	NRAS	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:5693	I	PSMB5	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:7124	I	TNF	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:9734	I	HDAC9	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:9759	I	HDAC4	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:3065	I	HDAC1	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:8841	I	HDAC3	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:3066	I	HDAC2	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:55869	I	HDAC8	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:83933	I	HDAC10	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:51564	I	HDAC7	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:10013	I	HDAC6	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:10014	I	HDAC5	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:79885	I	HDAC11	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:3718	I	JAK3	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:7297	I	TYK2	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:6197	I	RPS6KA3	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:5979	I	RET	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:10461	I	MERTK	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:2932	I	GSK3B	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:5743	I	PTGS2	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:4790	I	NFKB1	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:207	I	AKT1	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:8743	I	TNFSF10	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:8797	I	TNFRSF10A	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:8795	I	TNFRSF10B	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:596	I	BCL2	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:3569	I	IL6	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:6097	I	RORC	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:2261	I	FGFR3	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:1432	I	MAPK14	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:5600	I	MAPK11	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:6300	I	MAPK12	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:5603	I	MAPK13	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:958	I	CD40	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0026764	hsa:4582	I	MUC1	Multiple Myeloma	disease	C04;C20;C15;C14	Neoplastic Process	47
+C0002736	hsa:25	I	ABL1	Amyotrophic Lateral Sclerosis	disease	C18;C10	Disease or Syndrome	7
+C0002736	hsa:3815	I	KIT	Amyotrophic Lateral Sclerosis	disease	C18;C10	Disease or Syndrome	7
+C0002736	hsa:6714	I	SRC	Amyotrophic Lateral Sclerosis	disease	C18;C10	Disease or Syndrome	7
+C0002736	hsa:7040	I	TGFB1	Amyotrophic Lateral Sclerosis	disease	C18;C10	Disease or Syndrome	7
+C0002736	hsa:23435	I	TARDBP	Amyotrophic Lateral Sclerosis	disease	C18;C10	Disease or Syndrome	7
+C0002736	hsa:6647	I	SOD1	Amyotrophic Lateral Sclerosis	disease	C18;C10	Disease or Syndrome	7
+C0002736	hsa:2521	I	FUS	Amyotrophic Lateral Sclerosis	disease	C18;C10	Disease or Syndrome	7
+C0003873	hsa:25	I	ABL1	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:3717	I	JAK2	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:613	I	BCR	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:3614	I	IMPDH1	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:3615	I	IMPDH2	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:6714	I	SRC	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:7124	I	TNF	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:3718	I	JAK3	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:7297	I	TYK2	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:5743	I	PTGS2	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:4790	I	NFKB1	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:3569	I	IL6	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:6097	I	RORC	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:3716	I	JAK1	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:1719	I	DHFR	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:5594	I	MAPK1	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:1436	I	CSF1R	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:471	I	ATIC	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:6850	I	SYK	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:5530	I	PPP3CA	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:4773	I	NFATC2	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:5532	I	PPP3CB	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:5533	I	PPP3CC	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:5534	I	PPP3R1	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:5535	I	PPP3R2	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:10673	I	TNFSF13B	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:3592	I	IL12A	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:3593	I	IL12B	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:3383	I	ICAM1	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:4780	I	NFE2L2	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:3553	I	IL1B	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:3676	I	ITGA4	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:3688	I	ITGB1	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:3554	I	IL1R1	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:7850	I	IL1R2	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:3570	I	IL6R	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:3725	I	JUN	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:3726	I	JUNB	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:2353	I	FOS	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:2355	I	FOSL2	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:8061	I	FOSL1	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:1386	I	ATF2	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:467	I	ATF3	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0003873	hsa:468	I	ATF4	Rheumatoid Arthritis	disease	C17;C05;C20	Disease or Syndrome	44
+C0346421	hsa:25	I	ABL1	Chronic eosinophilic leukemia	disease	C04;C15	Neoplastic Process	4
+C0346421	hsa:613	I	BCR	Chronic eosinophilic leukemia	disease	C04;C15	Neoplastic Process	4
+C0346421	hsa:3815	I	KIT	Chronic eosinophilic leukemia	disease	C04;C15	Neoplastic Process	4
+C0346421	hsa:5159	I	PDGFRB	Chronic eosinophilic leukemia	disease	C04;C15	Neoplastic Process	4
+C0238198	hsa:25	I	ABL1	Gastrointestinal Stromal Tumors	group	C06;C04	Neoplastic Process	20
+C0238198	hsa:2322	I	FLT3	Gastrointestinal Stromal Tumors	group	C06;C04	Neoplastic Process	20
+C0238198	hsa:613	I	BCR	Gastrointestinal Stromal Tumors	group	C06;C04	Neoplastic Process	20
+C0238198	hsa:5156	I	PDGFRA	Gastrointestinal Stromal Tumors	group	C06;C04	Neoplastic Process	20
+C0238198	hsa:3815	I	KIT	Gastrointestinal Stromal Tumors	group	C06;C04	Neoplastic Process	20
+C0238198	hsa:5159	I	PDGFRB	Gastrointestinal Stromal Tumors	group	C06;C04	Neoplastic Process	20
+C0238198	hsa:1803	I	DPP4	Gastrointestinal Stromal Tumors	group	C06;C04	Neoplastic Process	20
+C0238198	hsa:3791	I	KDR	Gastrointestinal Stromal Tumors	group	C06;C04	Neoplastic Process	20
+C0238198	hsa:5979	I	RET	Gastrointestinal Stromal Tumors	group	C06;C04	Neoplastic Process	20
+C0238198	hsa:2064	I	ERBB2	Gastrointestinal Stromal Tumors	group	C06;C04	Neoplastic Process	20
+C0238198	hsa:3326	I	HSP90AB1	Gastrointestinal Stromal Tumors	group	C06;C04	Neoplastic Process	20
+C0238198	hsa:3320	I	HSP90AA1	Gastrointestinal Stromal Tumors	group	C06;C04	Neoplastic Process	20
+C0238198	hsa:7184	I	HSP90B1	Gastrointestinal Stromal Tumors	group	C06;C04	Neoplastic Process	20
+C0238198	hsa:7010	I	TEK	Gastrointestinal Stromal Tumors	group	C06;C04	Neoplastic Process	20
+C0238198	hsa:673	I	BRAF	Gastrointestinal Stromal Tumors	group	C06;C04	Neoplastic Process	20
+C0238198	hsa:2321	I	FLT1	Gastrointestinal Stromal Tumors	group	C06;C04	Neoplastic Process	20
+C0238198	hsa:2324	I	FLT4	Gastrointestinal Stromal Tumors	group	C06;C04	Neoplastic Process	20
+C0238198	hsa:2260	I	FGFR1	Gastrointestinal Stromal Tumors	group	C06;C04	Neoplastic Process	20
+C0238198	hsa:1436	I	CSF1R	Gastrointestinal Stromal Tumors	group	C06;C04	Neoplastic Process	20
+C0238198	hsa:5894	I	RAF1	Gastrointestinal Stromal Tumors	group	C06;C04	Neoplastic Process	20
+C1540912	hsa:25	I	ABL1	Hypereosinophilic syndrome	disease	C15	Disease or Syndrome	5
+C1540912	hsa:613	I	BCR	Hypereosinophilic syndrome	disease	C15	Disease or Syndrome	5
+C1540912	hsa:3815	I	KIT	Hypereosinophilic syndrome	disease	C15	Disease or Syndrome	5
+C1540912	hsa:5159	I	PDGFRB	Hypereosinophilic syndrome	disease	C15	Disease or Syndrome	5
+C1540912	hsa:3567	I	IL5	Hypereosinophilic syndrome	disease	C15	Disease or Syndrome	5
+C0152171	hsa:25	I	ABL1	Idiopathic pulmonary hypertension	disease	C08;C14	Disease or Syndrome	1
+C0085786	hsa:25	I	ABL1	Hamman-Rich syndrome	disease	C23;C01;C08	Disease or Syndrome	2
+C0085786	hsa:613	I	BCR	Hamman-Rich syndrome	disease	C23;C01;C08	Disease or Syndrome	2
+C0024305	hsa:25	I	ABL1	Lymphoma, Non-Hodgkin	disease	C04;C20;C15	Neoplastic Process	18
+C0024305	hsa:930	I	CD19	Lymphoma, Non-Hodgkin	disease	C04;C20;C15	Neoplastic Process	18
+C0024305	hsa:6790	I	AURKA	Lymphoma, Non-Hodgkin	disease	C04;C20;C15	Neoplastic Process	18
+C0024305	hsa:9212	I	AURKB	Lymphoma, Non-Hodgkin	disease	C04;C20;C15	Neoplastic Process	18
+C0024305	hsa:3717	I	JAK2	Lymphoma, Non-Hodgkin	disease	C04;C20;C15	Neoplastic Process	18
+C0024305	hsa:613	I	BCR	Lymphoma, Non-Hodgkin	disease	C04;C20;C15	Neoplastic Process	18
+C0024305	hsa:7525	I	YES1	Lymphoma, Non-Hodgkin	disease	C04;C20;C15	Neoplastic Process	18
+C0024305	hsa:1803	I	DPP4	Lymphoma, Non-Hodgkin	disease	C04;C20;C15	Neoplastic Process	18
+C0024305	hsa:695	I	BTK	Lymphoma, Non-Hodgkin	disease	C04;C20;C15	Neoplastic Process	18
+C0024305	hsa:3718	I	JAK3	Lymphoma, Non-Hodgkin	disease	C04;C20;C15	Neoplastic Process	18
+C0024305	hsa:7297	I	TYK2	Lymphoma, Non-Hodgkin	disease	C04;C20;C15	Neoplastic Process	18
+C0024305	hsa:6197	I	RPS6KA3	Lymphoma, Non-Hodgkin	disease	C04;C20;C15	Neoplastic Process	18
+C0024305	hsa:5979	I	RET	Lymphoma, Non-Hodgkin	disease	C04;C20;C15	Neoplastic Process	18
+C0024305	hsa:10461	I	MERTK	Lymphoma, Non-Hodgkin	disease	C04;C20;C15	Neoplastic Process	18
+C0024305	hsa:2932	I	GSK3B	Lymphoma, Non-Hodgkin	disease	C04;C20;C15	Neoplastic Process	18
+C0024305	hsa:2261	I	FGFR3	Lymphoma, Non-Hodgkin	disease	C04;C20;C15	Neoplastic Process	18
+C0024305	hsa:958	I	CD40	Lymphoma, Non-Hodgkin	disease	C04;C20;C15	Neoplastic Process	18
+C0024305	hsa:914	I	CD2	Lymphoma, Non-Hodgkin	disease	C04;C20;C15	Neoplastic Process	18
+C4524071	hsa:25	I	ABL1	Philadelphia positive acute lymphocytic leukaemia	disease		Neoplastic Process	10
+C4524071	hsa:613	I	BCR	Philadelphia positive acute lymphocytic leukaemia	disease		Neoplastic Process	10
+C4524071	hsa:5156	I	PDGFRA	Philadelphia positive acute lymphocytic leukaemia	disease		Neoplastic Process	10
+C4524071	hsa:3815	I	KIT	Philadelphia positive acute lymphocytic leukaemia	disease		Neoplastic Process	10
+C4524071	hsa:6714	I	SRC	Philadelphia positive acute lymphocytic leukaemia	disease		Neoplastic Process	10
+C4524071	hsa:3932	I	LCK	Philadelphia positive acute lymphocytic leukaemia	disease		Neoplastic Process	10
+C4524071	hsa:7525	I	YES1	Philadelphia positive acute lymphocytic leukaemia	disease		Neoplastic Process	10
+C4524071	hsa:2534	I	FYN	Philadelphia positive acute lymphocytic leukaemia	disease		Neoplastic Process	10
+C4524071	hsa:1969	I	EPHA2	Philadelphia positive acute lymphocytic leukaemia	disease		Neoplastic Process	10
+C4524071	hsa:5159	I	PDGFRB	Philadelphia positive acute lymphocytic leukaemia	disease		Neoplastic Process	10
+C0280100	hsa:25	I	ABL1	Solid Neoplasm	phenotype	C04	Neoplastic Process	17
+C0280100	hsa:6240	I	RRM1	Solid Neoplasm	phenotype	C04	Neoplastic Process	17
+C0280100	hsa:6790	I	AURKA	Solid Neoplasm	phenotype	C04	Neoplastic Process	17
+C0280100	hsa:9212	I	AURKB	Solid Neoplasm	phenotype	C04	Neoplastic Process	17
+C0280100	hsa:3717	I	JAK2	Solid Neoplasm	phenotype	C04	Neoplastic Process	17
+C0280100	hsa:613	I	BCR	Solid Neoplasm	phenotype	C04	Neoplastic Process	17
+C0280100	hsa:7525	I	YES1	Solid Neoplasm	phenotype	C04	Neoplastic Process	17
+C0280100	hsa:7852	I	CXCR4	Solid Neoplasm	phenotype	C04	Neoplastic Process	17
+C0280100	hsa:6387	I	CXCL12	Solid Neoplasm	phenotype	C04	Neoplastic Process	17
+C0280100	hsa:4609	I	MYC	Solid Neoplasm	phenotype	C04	Neoplastic Process	17
+C0280100	hsa:3718	I	JAK3	Solid Neoplasm	phenotype	C04	Neoplastic Process	17
+C0280100	hsa:7297	I	TYK2	Solid Neoplasm	phenotype	C04	Neoplastic Process	17
+C0280100	hsa:6197	I	RPS6KA3	Solid Neoplasm	phenotype	C04	Neoplastic Process	17
+C0280100	hsa:5979	I	RET	Solid Neoplasm	phenotype	C04	Neoplastic Process	17
+C0280100	hsa:10461	I	MERTK	Solid Neoplasm	phenotype	C04	Neoplastic Process	17
+C0280100	hsa:2932	I	GSK3B	Solid Neoplasm	phenotype	C04	Neoplastic Process	17
+C0280100	hsa:238	I	ALK	Solid Neoplasm	phenotype	C04	Neoplastic Process	17
+C0376545	hsa:25	I	ABL1	Hematologic Neoplasms	group	C04;C15	Neoplastic Process	6
+C0376545	hsa:5693	I	PSMB5	Hematologic Neoplasms	group	C04;C15	Neoplastic Process	6
+C0376545	hsa:1719	I	DHFR	Hematologic Neoplasms	group	C04;C15	Neoplastic Process	6
+C0376545	hsa:5689	I	PSMB1	Hematologic Neoplasms	group	C04;C15	Neoplastic Process	6
+C0376545	hsa:5914	I	RARA	Hematologic Neoplasms	group	C04;C15	Neoplastic Process	6
+C0376545	hsa:5371	I	PML	Hematologic Neoplasms	group	C04;C15	Neoplastic Process	6
+C0023434	hsa:930	I	CD19	Chronic Lymphocytic Leukemia	disease	C04;C20;C15	Neoplastic Process	4
+C0023434	hsa:7852	I	CXCR4	Chronic Lymphocytic Leukemia	disease	C04;C20;C15	Neoplastic Process	4
+C0023434	hsa:6387	I	CXCL12	Chronic Lymphocytic Leukemia	disease	C04;C20;C15	Neoplastic Process	4
+C0023434	hsa:695	I	BTK	Chronic Lymphocytic Leukemia	disease	C04;C20;C15	Neoplastic Process	4
+C0024141	hsa:930	I	CD19	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:3717	I	JAK2	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:695	I	BTK	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:3569	I	IL6	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:958	I	CD40	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:3716	I	JAK1	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:3455	I	IFNAR2	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:7292	I	TNFSF4	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:3586	I	IL10	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:6850	I	SYK	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:5530	I	PPP3CA	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:4773	I	NFATC2	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:7099	I	TLR4	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:5532	I	PPP3CB	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:5533	I	PPP3CC	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:5534	I	PPP3R1	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:5535	I	PPP3R2	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:10673	I	TNFSF13B	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:3663	I	IRF5	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:8741	I	TNFSF13	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:3458	I	IFNG	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:51284	I	TLR7	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:51311	I	TLR8	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:54106	I	TLR9	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:3592	I	IL12A	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C0024141	hsa:3593	I	IL12B	Lupus Erythematosus, Systemic	disease	C17;C20	Disease or Syndrome	26
+C4721414	hsa:930	I	CD19	Mantle cell lymphoma	disease	C04;C20;C15	Neoplastic Process	2
+C4721414	hsa:695	I	BTK	Mantle cell lymphoma	disease	C04;C20;C15	Neoplastic Process	2
+C0024301	hsa:930	I	CD19	Lymphoma, Follicular	disease	C04;C20;C15	Neoplastic Process	2
+C0024301	hsa:596	I	BCL2	Lymphoma, Follicular	disease	C04;C20;C15	Neoplastic Process	2
+C0242647	hsa:930	I	CD19	Mucosa-Associated Lymphoid Tissue Lymphoma	disease	C04;C20;C15	Neoplastic Process	1
+C0009326	hsa:930	I	CD19	Collagen Diseases	group	C17	Disease or Syndrome	1
+C0006142	hsa:915	I	CD3D	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:10381	I	TUBB3	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:10383	I	TUBB2C	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:7280	I	TUBB2A	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:84617	I	TUBB6	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:6240	I	RRM1	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:2322	I	FLT3	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:7153	I	TOP2A	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:7155	I	TOP2B	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:3815	I	KIT	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:5159	I	PDGFRB	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:4851	I	NOTCH1	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:4853	I	NOTCH2	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:3791	I	KDR	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:3265	I	HRAS	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:3845	I	KRAS	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:4893	I	NRAS	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:4609	I	MYC	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:7124	I	TNF	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:9734	I	HDAC9	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:9759	I	HDAC4	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:3065	I	HDAC1	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:8841	I	HDAC3	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:3066	I	HDAC2	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:55869	I	HDAC8	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:83933	I	HDAC10	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:51564	I	HDAC7	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:10013	I	HDAC6	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:10014	I	HDAC5	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:958	I	CD40	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:4582	I	MUC1	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:6469	I	SHH	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:50846	I	DHH	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:3480	I	IGF1R	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:7298	I	TYMS	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:1956	I	EGFR	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:7422	I	VEGFA	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:2064	I	ERBB2	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:2475	I	MTOR	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:3326	I	HSP90AB1	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:3320	I	HSP90AA1	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:7184	I	HSP90B1	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:1719	I	DHFR	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:2066	I	ERBB4	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:2321	I	FLT1	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:4072	I	EPCAM	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:3685	I	ITGAV	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:3690	I	ITGB3	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:6774	I	STAT3	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:2065	I	ERBB3	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:1949	I	EFNB3	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:1948	I	EFNB2	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:471	I	ATIC	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:142	I	PARP1	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:10038	I	PARP2	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:672	I	BRCA1	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:675	I	BRCA2	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:2099	I	ESR1	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0006142	hsa:2100	I	ESR2	Malignant neoplasm of breast	disease	C04;C17	Neoplastic Process	59
+C0011854	hsa:915	I	CD3D	Diabetes Mellitus, Insulin-Dependent	disease	C18;C20;C19	Disease or Syndrome	3
+C0011854	hsa:7292	I	TNFSF4	Diabetes Mellitus, Insulin-Dependent	disease	C18;C20;C19	Disease or Syndrome	3
+C0011854	hsa:3458	I	IFNG	Diabetes Mellitus, Insulin-Dependent	disease	C18;C20;C19	Disease or Syndrome	3
+C0003872	hsa:915	I	CD3D	Arthritis, Psoriatic	disease	C17;C05	Disease or Syndrome	8
+C0003872	hsa:7124	I	TNF	Arthritis, Psoriatic	disease	C17;C05	Disease or Syndrome	8
+C0003872	hsa:5530	I	PPP3CA	Arthritis, Psoriatic	disease	C17;C05	Disease or Syndrome	8
+C0003872	hsa:5532	I	PPP3CB	Arthritis, Psoriatic	disease	C17;C05	Disease or Syndrome	8
+C0003872	hsa:5533	I	PPP3CC	Arthritis, Psoriatic	disease	C17;C05	Disease or Syndrome	8
+C0003872	hsa:5534	I	PPP3R1	Arthritis, Psoriatic	disease	C17;C05	Disease or Syndrome	8
+C0003872	hsa:5535	I	PPP3R2	Arthritis, Psoriatic	disease	C17;C05	Disease or Syndrome	8
+C0003872	hsa:3592	I	IL12A	Arthritis, Psoriatic	disease	C17;C05	Disease or Syndrome	8
+C0004364	hsa:915	I	CD3D	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:3717	I	JAK2	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:695	I	BTK	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:3718	I	JAK3	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:7297	I	TYK2	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:4790	I	NFKB1	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:3569	I	IL6	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:6097	I	RORC	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:1432	I	MAPK14	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:5600	I	MAPK11	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:6300	I	MAPK12	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:5603	I	MAPK13	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:958	I	CD40	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:3716	I	JAK1	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:5594	I	MAPK1	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:6774	I	STAT3	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:6850	I	SYK	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:7099	I	TLR4	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:3383	I	ICAM1	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:6772	I	STAT1	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:6773	I	STAT2	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:6775	I	STAT4	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:6776	I	STAT5A	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:6778	I	STAT6	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:3676	I	ITGA4	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:3688	I	ITGB1	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:3689	I	ITGB2	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:6696	I	SPP1	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:3725	I	JUN	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:3726	I	JUNB	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:2353	I	FOS	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:2355	I	FOSL2	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:8061	I	FOSL1	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:1386	I	ATF2	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:467	I	ATF3	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:468	I	ATF4	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C0004364	hsa:3558	I	IL2	Autoimmune Diseases	group	C20	Disease or Syndrome	37
+C1961099	hsa:10381	I	TUBB3	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	disease	C04;C20;C15	Neoplastic Process	9
+C1961099	hsa:10383	I	TUBB2C	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	disease	C04;C20;C15	Neoplastic Process	9
+C1961099	hsa:7280	I	TUBB2A	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	disease	C04;C20;C15	Neoplastic Process	9
+C1961099	hsa:84617	I	TUBB6	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	disease	C04;C20;C15	Neoplastic Process	9
+C1961099	hsa:3614	I	IMPDH1	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	disease	C04;C20;C15	Neoplastic Process	9
+C1961099	hsa:3615	I	IMPDH2	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	disease	C04;C20;C15	Neoplastic Process	9
+C1961099	hsa:4851	I	NOTCH1	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	disease	C04;C20;C15	Neoplastic Process	9
+C1961099	hsa:4853	I	NOTCH2	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	disease	C04;C20;C15	Neoplastic Process	9
+C1961099	hsa:1803	I	DPP4	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	disease	C04;C20;C15	Neoplastic Process	9
+C0019829	hsa:10381	I	TUBB3	Hodgkin Disease	disease	C04;C20;C15	Neoplastic Process	4
+C0019829	hsa:10383	I	TUBB2C	Hodgkin Disease	disease	C04;C20;C15	Neoplastic Process	4
+C0019829	hsa:7280	I	TUBB2A	Hodgkin Disease	disease	C04;C20;C15	Neoplastic Process	4
+C0019829	hsa:84617	I	TUBB6	Hodgkin Disease	disease	C04;C20;C15	Neoplastic Process	4
+C0149925	hsa:10381	I	TUBB3	Small cell carcinoma of lung	disease	C04;C08	Neoplastic Process	13
+C0149925	hsa:10383	I	TUBB2C	Small cell carcinoma of lung	disease	C04;C08	Neoplastic Process	13
+C0149925	hsa:7280	I	TUBB2A	Small cell carcinoma of lung	disease	C04;C08	Neoplastic Process	13
+C0149925	hsa:84617	I	TUBB6	Small cell carcinoma of lung	disease	C04;C08	Neoplastic Process	13
+C0149925	hsa:7150	I	TOP1	Small cell carcinoma of lung	disease	C04;C08	Neoplastic Process	13
+C0149925	hsa:7153	I	TOP2A	Small cell carcinoma of lung	disease	C04;C08	Neoplastic Process	13
+C0149925	hsa:7155	I	TOP2B	Small cell carcinoma of lung	disease	C04;C08	Neoplastic Process	13
+C0149925	hsa:6469	I	SHH	Small cell carcinoma of lung	disease	C04;C08	Neoplastic Process	13
+C0149925	hsa:50846	I	DHH	Small cell carcinoma of lung	disease	C04;C08	Neoplastic Process	13
+C0149925	hsa:5727	I	PTCH1	Small cell carcinoma of lung	disease	C04;C08	Neoplastic Process	13
+C0149925	hsa:3480	I	IGF1R	Small cell carcinoma of lung	disease	C04;C08	Neoplastic Process	13
+C0149925	hsa:7298	I	TYMS	Small cell carcinoma of lung	disease	C04;C08	Neoplastic Process	13
+C0149925	hsa:1022	I	CDK7	Small cell carcinoma of lung	disease	C04;C08	Neoplastic Process	13
+C0007131	hsa:10381	I	TUBB3	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:10383	I	TUBB2C	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:7280	I	TUBB2A	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:84617	I	TUBB6	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:6240	I	RRM1	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:2322	I	FLT3	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:7150	I	TOP1	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:7153	I	TOP2A	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:7155	I	TOP2B	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:3815	I	KIT	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:4914	I	NTRK1	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:4916	I	NTRK3	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:3791	I	KDR	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:3265	I	HRAS	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:3845	I	KRAS	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:4893	I	NRAS	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:5979	I	RET	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:4582	I	MUC1	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:3480	I	IGF1R	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:7298	I	TYMS	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:1956	I	EGFR	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:7422	I	VEGFA	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:4233	I	MET	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:2064	I	ERBB2	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:2475	I	MTOR	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:3326	I	HSP90AB1	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:3320	I	HSP90AA1	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:7184	I	HSP90B1	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:5604	I	MAP2K1	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:5605	I	MAP2K2	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:7010	I	TEK	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:238	I	ALK	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:6098	I	ROS1	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:1719	I	DHFR	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:2066	I	ERBB4	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:2618	I	GART	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:673	I	BRAF	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:4915	I	NTRK2	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:2321	I	FLT1	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:2324	I	FLT4	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:1493	I	CTLA4	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0007131	hsa:4058	I	LTK	Non-Small Cell Lung Carcinoma	disease	C04;C08	Neoplastic Process	42
+C0152018	hsa:10381	I	TUBB3	Esophageal carcinoma	disease	C06;C04	Neoplastic Process	7
+C0152018	hsa:10383	I	TUBB2C	Esophageal carcinoma	disease	C06;C04	Neoplastic Process	7
+C0152018	hsa:7280	I	TUBB2A	Esophageal carcinoma	disease	C06;C04	Neoplastic Process	7
+C0152018	hsa:84617	I	TUBB6	Esophageal carcinoma	disease	C06;C04	Neoplastic Process	7
+C0152018	hsa:5156	I	PDGFRA	Esophageal carcinoma	disease	C06;C04	Neoplastic Process	7
+C0152018	hsa:7298	I	TYMS	Esophageal carcinoma	disease	C06;C04	Neoplastic Process	7
+C0152018	hsa:4072	I	EPCAM	Esophageal carcinoma	disease	C06;C04	Neoplastic Process	7
+C0024623	hsa:10381	I	TUBB3	Malignant neoplasm of stomach	disease	C06;C04	Neoplastic Process	22
+C0024623	hsa:10383	I	TUBB2C	Malignant neoplasm of stomach	disease	C06;C04	Neoplastic Process	22
+C0024623	hsa:7280	I	TUBB2A	Malignant neoplasm of stomach	disease	C06;C04	Neoplastic Process	22
+C0024623	hsa:84617	I	TUBB6	Malignant neoplasm of stomach	disease	C06;C04	Neoplastic Process	22
+C0024623	hsa:2322	I	FLT3	Malignant neoplasm of stomach	disease	C06;C04	Neoplastic Process	22
+C0024623	hsa:7150	I	TOP1	Malignant neoplasm of stomach	disease	C06;C04	Neoplastic Process	22
+C0024623	hsa:3815	I	KIT	Malignant neoplasm of stomach	disease	C06;C04	Neoplastic Process	22
+C0024623	hsa:5159	I	PDGFRB	Malignant neoplasm of stomach	disease	C06;C04	Neoplastic Process	22
+C0024623	hsa:3791	I	KDR	Malignant neoplasm of stomach	disease	C06;C04	Neoplastic Process	22
+C0024623	hsa:4609	I	MYC	Malignant neoplasm of stomach	disease	C06;C04	Neoplastic Process	22
+C0024623	hsa:7298	I	TYMS	Malignant neoplasm of stomach	disease	C06;C04	Neoplastic Process	22
+C0024623	hsa:4233	I	MET	Malignant neoplasm of stomach	disease	C06;C04	Neoplastic Process	22
+C0024623	hsa:2064	I	ERBB2	Malignant neoplasm of stomach	disease	C06;C04	Neoplastic Process	22
+C0024623	hsa:7010	I	TEK	Malignant neoplasm of stomach	disease	C06;C04	Neoplastic Process	22
+C0024623	hsa:1719	I	DHFR	Malignant neoplasm of stomach	disease	C06;C04	Neoplastic Process	22
+C0024623	hsa:4072	I	EPCAM	Malignant neoplasm of stomach	disease	C06;C04	Neoplastic Process	22
+C0024623	hsa:4486	I	MST1R	Malignant neoplasm of stomach	disease	C06;C04	Neoplastic Process	22
+C0024623	hsa:324	I	APC	Malignant neoplasm of stomach	disease	C06;C04	Neoplastic Process	22
+C0024623	hsa:4312	I	MMP1	Malignant neoplasm of stomach	disease	C06;C04	Neoplastic Process	22
+C0024623	hsa:4313	I	MMP2	Malignant neoplasm of stomach	disease	C06;C04	Neoplastic Process	22
+C0024623	hsa:4316	I	MMP7	Malignant neoplasm of stomach	disease	C06;C04	Neoplastic Process	22
+C0024623	hsa:4323	I	MMP14	Malignant neoplasm of stomach	disease	C06;C04	Neoplastic Process	22
+C0235974	hsa:10381	I	TUBB3	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:10383	I	TUBB2C	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:7280	I	TUBB2A	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:84617	I	TUBB6	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:6240	I	RRM1	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:7150	I	TOP1	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:3845	I	KRAS	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:9734	I	HDAC9	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:9759	I	HDAC4	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:3065	I	HDAC1	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:8841	I	HDAC3	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:3066	I	HDAC2	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:55869	I	HDAC8	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:83933	I	HDAC10	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:51564	I	HDAC7	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:10013	I	HDAC6	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:10014	I	HDAC5	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:6469	I	SHH	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:50846	I	DHH	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:5727	I	PTCH1	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:3480	I	IGF1R	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:7298	I	TYMS	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:4233	I	MET	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:4072	I	EPCAM	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:5595	I	MAPK3	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:5594	I	MAPK1	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:3685	I	ITGAV	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:3690	I	ITGB3	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:6774	I	STAT3	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0235974	hsa:22943	I	DKK1	Pancreatic carcinoma	disease	C06;C04;C19	Neoplastic Process	30
+C0153594	hsa:10381	I	TUBB3	Malignant neoplasm of testis	disease	C04;C12;C19	Neoplastic Process	6
+C0153594	hsa:10383	I	TUBB2C	Malignant neoplasm of testis	disease	C04;C12;C19	Neoplastic Process	6
+C0153594	hsa:7280	I	TUBB2A	Malignant neoplasm of testis	disease	C04;C12;C19	Neoplastic Process	6
+C0153594	hsa:84617	I	TUBB6	Malignant neoplasm of testis	disease	C04;C12;C19	Neoplastic Process	6
+C0153594	hsa:7153	I	TOP2A	Malignant neoplasm of testis	disease	C04;C12;C19	Neoplastic Process	6
+C0153594	hsa:7155	I	TOP2B	Malignant neoplasm of testis	disease	C04;C12;C19	Neoplastic Process	6
+C0376358	hsa:10381	I	TUBB3	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:10383	I	TUBB2C	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:7280	I	TUBB2A	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:84617	I	TUBB6	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:3717	I	JAK2	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:4914	I	NTRK1	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:4916	I	NTRK3	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:7124	I	TNF	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:5743	I	PTGS2	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:4790	I	NFKB1	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:207	I	AKT1	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:8743	I	TNFSF10	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:8797	I	TNFRSF10A	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:8795	I	TNFRSF10B	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:3569	I	IL6	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:1432	I	MAPK14	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:5600	I	MAPK11	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:6300	I	MAPK12	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:5603	I	MAPK13	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:5727	I	PTCH1	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:3480	I	IGF1R	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:4072	I	EPCAM	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:3685	I	ITGAV	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:3690	I	ITGB3	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:6774	I	STAT3	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:1949	I	EFNB3	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:1948	I	EFNB2	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:367	I	AR	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:2264	I	FGFR4	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0376358	hsa:6502	I	SKP2	Malignant neoplasm of prostate	disease	C04;C12	Neoplastic Process	30
+C0476089	hsa:10381	I	TUBB3	Endometrial Carcinoma	disease	C04;C13	Neoplastic Process	7
+C0476089	hsa:10383	I	TUBB2C	Endometrial Carcinoma	disease	C04;C13	Neoplastic Process	7
+C0476089	hsa:7280	I	TUBB2A	Endometrial Carcinoma	disease	C04;C13	Neoplastic Process	7
+C0476089	hsa:84617	I	TUBB6	Endometrial Carcinoma	disease	C04;C13	Neoplastic Process	7
+C0476089	hsa:7153	I	TOP2A	Endometrial Carcinoma	disease	C04;C13	Neoplastic Process	7
+C0476089	hsa:7155	I	TOP2B	Endometrial Carcinoma	disease	C04;C13	Neoplastic Process	7
+C0476089	hsa:2263	I	FGFR2	Endometrial Carcinoma	disease	C04;C13	Neoplastic Process	7
+C1140680	hsa:10381	I	TUBB3	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:10383	I	TUBB2C	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:7280	I	TUBB2A	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:84617	I	TUBB6	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:6240	I	RRM1	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:3815	I	KIT	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:5159	I	PDGFRB	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:3791	I	KDR	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:7124	I	TNF	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:3569	I	IL6	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:1432	I	MAPK14	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:5600	I	MAPK11	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:6300	I	MAPK12	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:5603	I	MAPK13	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:3480	I	IGF1R	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:7422	I	VEGFA	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:4072	I	EPCAM	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:3685	I	ITGAV	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:3690	I	ITGB3	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:6774	I	STAT3	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:142	I	PARP1	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:10038	I	PARP2	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:672	I	BRCA1	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C1140680	hsa:675	I	BRCA2	Malignant neoplasm of ovary	disease	C04;C13;C19	Neoplastic Process	24
+C0007873	hsa:10381	I	TUBB3	Uterine Cervical Neoplasm	disease	C04;C13	Neoplastic Process	13
+C0007873	hsa:10383	I	TUBB2C	Uterine Cervical Neoplasm	disease	C04;C13	Neoplastic Process	13
+C0007873	hsa:7280	I	TUBB2A	Uterine Cervical Neoplasm	disease	C04;C13	Neoplastic Process	13
+C0007873	hsa:84617	I	TUBB6	Uterine Cervical Neoplasm	disease	C04;C13	Neoplastic Process	13
+C0007873	hsa:7298	I	TYMS	Uterine Cervical Neoplasm	disease	C04;C13	Neoplastic Process	13
+C0007873	hsa:2064	I	ERBB2	Uterine Cervical Neoplasm	disease	C04;C13	Neoplastic Process	13
+C0007873	hsa:2065	I	ERBB3	Uterine Cervical Neoplasm	disease	C04;C13	Neoplastic Process	13
+C0007873	hsa:7048	I	TGFBR2	Uterine Cervical Neoplasm	disease	C04;C13	Neoplastic Process	13
+C0007873	hsa:142	I	PARP1	Uterine Cervical Neoplasm	disease	C04;C13	Neoplastic Process	13
+C0007873	hsa:10038	I	PARP2	Uterine Cervical Neoplasm	disease	C04;C13	Neoplastic Process	13
+C0007873	hsa:672	I	BRCA1	Uterine Cervical Neoplasm	disease	C04;C13	Neoplastic Process	13
+C0007873	hsa:675	I	BRCA2	Uterine Cervical Neoplasm	disease	C04;C13	Neoplastic Process	13
+C0007873	hsa:841	I	CASP8	Uterine Cervical Neoplasm	disease	C04;C13	Neoplastic Process	13
+C0553580	hsa:10381	I	TUBB3	Ewings sarcoma	disease	C04	Neoplastic Process	10
+C0553580	hsa:10383	I	TUBB2C	Ewings sarcoma	disease	C04	Neoplastic Process	10
+C0553580	hsa:7280	I	TUBB2A	Ewings sarcoma	disease	C04	Neoplastic Process	10
+C0553580	hsa:84617	I	TUBB6	Ewings sarcoma	disease	C04	Neoplastic Process	10
+C0553580	hsa:7153	I	TOP2A	Ewings sarcoma	disease	C04	Neoplastic Process	10
+C0553580	hsa:7155	I	TOP2B	Ewings sarcoma	disease	C04	Neoplastic Process	10
+C0553580	hsa:7852	I	CXCR4	Ewings sarcoma	disease	C04	Neoplastic Process	10
+C0553580	hsa:6387	I	CXCL12	Ewings sarcoma	disease	C04	Neoplastic Process	10
+C0553580	hsa:3480	I	IGF1R	Ewings sarcoma	disease	C04	Neoplastic Process	10
+C0553580	hsa:2130	I	EWSR1	Ewings sarcoma	disease	C04	Neoplastic Process	10
+C0035412	hsa:10381	I	TUBB3	Rhabdomyosarcoma	disease	C04	Neoplastic Process	7
+C0035412	hsa:10383	I	TUBB2C	Rhabdomyosarcoma	disease	C04	Neoplastic Process	7
+C0035412	hsa:7280	I	TUBB2A	Rhabdomyosarcoma	disease	C04	Neoplastic Process	7
+C0035412	hsa:84617	I	TUBB6	Rhabdomyosarcoma	disease	C04	Neoplastic Process	7
+C0035412	hsa:6469	I	SHH	Rhabdomyosarcoma	disease	C04	Neoplastic Process	7
+C0035412	hsa:50846	I	DHH	Rhabdomyosarcoma	disease	C04	Neoplastic Process	7
+C0035412	hsa:5727	I	PTCH1	Rhabdomyosarcoma	disease	C04	Neoplastic Process	7
+C0206634	hsa:10381	I	TUBB3	Liposarcoma, Myxoid	disease	C04	Neoplastic Process	6
+C0206634	hsa:10383	I	TUBB2C	Liposarcoma, Myxoid	disease	C04	Neoplastic Process	6
+C0206634	hsa:7280	I	TUBB2A	Liposarcoma, Myxoid	disease	C04	Neoplastic Process	6
+C0206634	hsa:84617	I	TUBB6	Liposarcoma, Myxoid	disease	C04	Neoplastic Process	6
+C0206634	hsa:7153	I	TOP2A	Liposarcoma, Myxoid	disease	C04	Neoplastic Process	6
+C0206634	hsa:7155	I	TOP2B	Liposarcoma, Myxoid	disease	C04	Neoplastic Process	6
+C0039101	hsa:10381	I	TUBB3	synovial sarcoma	disease	C04	Neoplastic Process	12
+C0039101	hsa:10383	I	TUBB2C	synovial sarcoma	disease	C04	Neoplastic Process	12
+C0039101	hsa:7280	I	TUBB2A	synovial sarcoma	disease	C04	Neoplastic Process	12
+C0039101	hsa:84617	I	TUBB6	synovial sarcoma	disease	C04	Neoplastic Process	12
+C0039101	hsa:7153	I	TOP2A	synovial sarcoma	disease	C04	Neoplastic Process	12
+C0039101	hsa:7155	I	TOP2B	synovial sarcoma	disease	C04	Neoplastic Process	12
+C0039101	hsa:5156	I	PDGFRA	synovial sarcoma	disease	C04	Neoplastic Process	12
+C0039101	hsa:3815	I	KIT	synovial sarcoma	disease	C04	Neoplastic Process	12
+C0039101	hsa:5159	I	PDGFRB	synovial sarcoma	disease	C04	Neoplastic Process	12
+C0039101	hsa:3791	I	KDR	synovial sarcoma	disease	C04	Neoplastic Process	12
+C0039101	hsa:2321	I	FLT1	synovial sarcoma	disease	C04	Neoplastic Process	12
+C0039101	hsa:2324	I	FLT4	synovial sarcoma	disease	C04	Neoplastic Process	12
+C0018923	hsa:10381	I	TUBB3	Hemangiosarcoma	disease	C04	Neoplastic Process	4
+C0018923	hsa:10383	I	TUBB2C	Hemangiosarcoma	disease	C04	Neoplastic Process	4
+C0018923	hsa:7280	I	TUBB2A	Hemangiosarcoma	disease	C04	Neoplastic Process	4
+C0018923	hsa:84617	I	TUBB6	Hemangiosarcoma	disease	C04	Neoplastic Process	4
+C0018671	hsa:10381	I	TUBB3	Head and Neck Neoplasms	group	C04	Neoplastic Process	19
+C0018671	hsa:10383	I	TUBB2C	Head and Neck Neoplasms	group	C04	Neoplastic Process	19
+C0018671	hsa:7280	I	TUBB2A	Head and Neck Neoplasms	group	C04	Neoplastic Process	19
+C0018671	hsa:84617	I	TUBB6	Head and Neck Neoplasms	group	C04	Neoplastic Process	19
+C0018671	hsa:2322	I	FLT3	Head and Neck Neoplasms	group	C04	Neoplastic Process	19
+C0018671	hsa:3815	I	KIT	Head and Neck Neoplasms	group	C04	Neoplastic Process	19
+C0018671	hsa:5159	I	PDGFRB	Head and Neck Neoplasms	group	C04	Neoplastic Process	19
+C0018671	hsa:3791	I	KDR	Head and Neck Neoplasms	group	C04	Neoplastic Process	19
+C0018671	hsa:3265	I	HRAS	Head and Neck Neoplasms	group	C04	Neoplastic Process	19
+C0018671	hsa:3845	I	KRAS	Head and Neck Neoplasms	group	C04	Neoplastic Process	19
+C0018671	hsa:4893	I	NRAS	Head and Neck Neoplasms	group	C04	Neoplastic Process	19
+C0018671	hsa:3480	I	IGF1R	Head and Neck Neoplasms	group	C04	Neoplastic Process	19
+C0018671	hsa:7298	I	TYMS	Head and Neck Neoplasms	group	C04	Neoplastic Process	19
+C0018671	hsa:1956	I	EGFR	Head and Neck Neoplasms	group	C04	Neoplastic Process	19
+C0018671	hsa:4233	I	MET	Head and Neck Neoplasms	group	C04	Neoplastic Process	19
+C0018671	hsa:7010	I	TEK	Head and Neck Neoplasms	group	C04	Neoplastic Process	19
+C0018671	hsa:4072	I	EPCAM	Head and Neck Neoplasms	group	C04	Neoplastic Process	19
+C0018671	hsa:4486	I	MST1R	Head and Neck Neoplasms	group	C04	Neoplastic Process	19
+C0018671	hsa:6774	I	STAT3	Head and Neck Neoplasms	group	C04	Neoplastic Process	19
+C0027651	hsa:10381	I	TUBB3	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:10383	I	TUBB2C	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:7280	I	TUBB2A	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:84617	I	TUBB6	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:3717	I	JAK2	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:5156	I	PDGFRA	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:6714	I	SRC	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:5159	I	PDGFRB	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:4851	I	NOTCH1	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:4853	I	NOTCH2	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:3791	I	KDR	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:3265	I	HRAS	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:3845	I	KRAS	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:4893	I	NRAS	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:331	I	XIAP	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:4609	I	MYC	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:7124	I	TNF	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:9734	I	HDAC9	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:9759	I	HDAC4	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:3065	I	HDAC1	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:8841	I	HDAC3	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:3066	I	HDAC2	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:55869	I	HDAC8	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:83933	I	HDAC10	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:51564	I	HDAC7	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:10013	I	HDAC6	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:10014	I	HDAC5	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:3718	I	JAK3	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:7297	I	TYK2	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:4790	I	NFKB1	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:596	I	BCL2	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:3716	I	JAK1	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:7298	I	TYMS	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:1956	I	EGFR	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:1719	I	DHFR	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:4072	I	EPCAM	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:4312	I	MMP1	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:4316	I	MMP7	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:4323	I	MMP14	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:3685	I	ITGAV	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:3690	I	ITGB3	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:6774	I	STAT3	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:7471	I	WNT1	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:1436	I	CSF1R	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:5894	I	RAF1	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:5228	I	PGF	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:3586	I	IL10	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:6772	I	STAT1	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:6773	I	STAT2	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:6775	I	STAT4	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:6776	I	STAT5A	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:6778	I	STAT6	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:5293	I	PIK3CD	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:2194	I	FASN	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:2034	I	EPAS1	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:5290	I	PIK3CA	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:5291	I	PIK3CB	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:3091	I	HIF1A	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:56034	I	PDGFC	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:983	I	CDK1	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:1017	I	CDK2	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:1019	I	CDK4	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:1021	I	CDK6	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:3832	I	KIF11	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:1062	I	CENPE	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:23533	I	PIK3R5	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:5294	I	PIK3CG	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:5295	I	PIK3R1	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:5296	I	PIK3R2	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:8503	I	PIK3R3	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:1978	I	EIF4EBP1	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:1977	I	EIF4E	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:6198	I	RPS6KB1	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:6199	I	RPS6KB2	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:6194	I	RPS6	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:5728	I	PTEN	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:1786	I	DNMT1	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:1788	I	DNMT3A	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:984	I	CDK11B	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:7076	I	TIMP1	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:10413	I	YAP1	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:25937	I	WWTR1	Neoplasms	group	C04	Neoplastic Process	83
+C0027651	hsa:7874	I	USP7	Neoplasms	group	C04	Neoplastic Process	83
+C0018099	hsa:10381	I	TUBB3	Gout	disease	C16;C18;C05	Disease or Syndrome	6
+C0018099	hsa:10383	I	TUBB2C	Gout	disease	C16;C18;C05	Disease or Syndrome	6
+C0018099	hsa:7280	I	TUBB2A	Gout	disease	C16;C18;C05	Disease or Syndrome	6
+C0018099	hsa:84617	I	TUBB6	Gout	disease	C16;C18;C05	Disease or Syndrome	6
+C0018099	hsa:5743	I	PTGS2	Gout	disease	C16;C18;C05	Disease or Syndrome	6
+C0018099	hsa:3553	I	IL1B	Gout	disease	C16;C18;C05	Disease or Syndrome	6
+C0023269	hsa:10381	I	TUBB3	leiomyosarcoma	disease	C04	Neoplastic Process	12
+C0023269	hsa:10383	I	TUBB2C	leiomyosarcoma	disease	C04	Neoplastic Process	12
+C0023269	hsa:7280	I	TUBB2A	leiomyosarcoma	disease	C04	Neoplastic Process	12
+C0023269	hsa:84617	I	TUBB6	leiomyosarcoma	disease	C04	Neoplastic Process	12
+C0023269	hsa:7153	I	TOP2A	leiomyosarcoma	disease	C04	Neoplastic Process	12
+C0023269	hsa:7155	I	TOP2B	leiomyosarcoma	disease	C04	Neoplastic Process	12
+C0023269	hsa:5156	I	PDGFRA	leiomyosarcoma	disease	C04	Neoplastic Process	12
+C0023269	hsa:3815	I	KIT	leiomyosarcoma	disease	C04	Neoplastic Process	12
+C0023269	hsa:5159	I	PDGFRB	leiomyosarcoma	disease	C04	Neoplastic Process	12
+C0023269	hsa:3791	I	KDR	leiomyosarcoma	disease	C04	Neoplastic Process	12
+C0023269	hsa:2321	I	FLT1	leiomyosarcoma	disease	C04	Neoplastic Process	12
+C0023269	hsa:2324	I	FLT4	leiomyosarcoma	disease	C04	Neoplastic Process	12
+C0334463	hsa:10381	I	TUBB3	Malignant Fibrous Histiocytoma	disease	C04	Neoplastic Process	12
+C0334463	hsa:10383	I	TUBB2C	Malignant Fibrous Histiocytoma	disease	C04	Neoplastic Process	12
+C0334463	hsa:7280	I	TUBB2A	Malignant Fibrous Histiocytoma	disease	C04	Neoplastic Process	12
+C0334463	hsa:84617	I	TUBB6	Malignant Fibrous Histiocytoma	disease	C04	Neoplastic Process	12
+C0334463	hsa:7153	I	TOP2A	Malignant Fibrous Histiocytoma	disease	C04	Neoplastic Process	12
+C0334463	hsa:7155	I	TOP2B	Malignant Fibrous Histiocytoma	disease	C04	Neoplastic Process	12
+C0334463	hsa:5156	I	PDGFRA	Malignant Fibrous Histiocytoma	disease	C04	Neoplastic Process	12
+C0334463	hsa:3815	I	KIT	Malignant Fibrous Histiocytoma	disease	C04	Neoplastic Process	12
+C0334463	hsa:5159	I	PDGFRB	Malignant Fibrous Histiocytoma	disease	C04	Neoplastic Process	12
+C0334463	hsa:3791	I	KDR	Malignant Fibrous Histiocytoma	disease	C04	Neoplastic Process	12
+C0334463	hsa:2321	I	FLT1	Malignant Fibrous Histiocytoma	disease	C04	Neoplastic Process	12
+C0334463	hsa:2324	I	FLT4	Malignant Fibrous Histiocytoma	disease	C04	Neoplastic Process	12
+C0005684	hsa:6240	I	RRM1	Malignant neoplasm of urinary bladder	disease	C04;C13;C12	Neoplastic Process	4
+C0005684	hsa:2261	I	FGFR3	Malignant neoplasm of urinary bladder	disease	C04;C13;C12	Neoplastic Process	4
+C0005684	hsa:2064	I	ERBB2	Malignant neoplasm of urinary bladder	disease	C04;C13;C12	Neoplastic Process	4
+C0005684	hsa:4072	I	EPCAM	Malignant neoplasm of urinary bladder	disease	C04;C13;C12	Neoplastic Process	4
+C0024299	hsa:6240	I	RRM1	Lymphoma	group	C04;C20;C15	Neoplastic Process	14
+C0024299	hsa:3845	I	KRAS	Lymphoma	group	C04;C20;C15	Neoplastic Process	14
+C0024299	hsa:331	I	XIAP	Lymphoma	group	C04;C20;C15	Neoplastic Process	14
+C0024299	hsa:7124	I	TNF	Lymphoma	group	C04;C20;C15	Neoplastic Process	14
+C0024299	hsa:5743	I	PTGS2	Lymphoma	group	C04;C20;C15	Neoplastic Process	14
+C0024299	hsa:4790	I	NFKB1	Lymphoma	group	C04;C20;C15	Neoplastic Process	14
+C0024299	hsa:207	I	AKT1	Lymphoma	group	C04;C20;C15	Neoplastic Process	14
+C0024299	hsa:8743	I	TNFSF10	Lymphoma	group	C04;C20;C15	Neoplastic Process	14
+C0024299	hsa:8797	I	TNFRSF10A	Lymphoma	group	C04;C20;C15	Neoplastic Process	14
+C0024299	hsa:8795	I	TNFRSF10B	Lymphoma	group	C04;C20;C15	Neoplastic Process	14
+C0024299	hsa:238	I	ALK	Lymphoma	group	C04;C20;C15	Neoplastic Process	14
+C0024299	hsa:1719	I	DHFR	Lymphoma	group	C04;C20;C15	Neoplastic Process	14
+C0024299	hsa:6502	I	SKP2	Lymphoma	group	C04;C20;C15	Neoplastic Process	14
+C0024299	hsa:6850	I	SYK	Lymphoma	group	C04;C20;C15	Neoplastic Process	14
+C0024121	hsa:6240	I	RRM1	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:5156	I	PDGFRA	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:3815	I	KIT	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:5159	I	PDGFRB	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:3791	I	KDR	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:4609	I	MYC	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:9734	I	HDAC9	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:9759	I	HDAC4	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:3065	I	HDAC1	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:8841	I	HDAC3	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:3066	I	HDAC2	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:55869	I	HDAC8	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:83933	I	HDAC10	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:51564	I	HDAC7	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:10013	I	HDAC6	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:10014	I	HDAC5	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:79885	I	HDAC11	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:5979	I	RET	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:958	I	CD40	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:4582	I	MUC1	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:6469	I	SHH	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:7298	I	TYMS	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:1956	I	EGFR	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:2064	I	ERBB2	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:5604	I	MAP2K1	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:5605	I	MAP2K2	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:238	I	ALK	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:2066	I	ERBB4	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:2321	I	FLT1	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:2324	I	FLT4	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:4072	I	EPCAM	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:324	I	APC	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:5595	I	MAPK3	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:5594	I	MAPK1	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:6774	I	STAT3	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:22943	I	DKK1	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:2260	I	FGFR1	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:1949	I	EFNB3	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C0024121	hsa:1948	I	EFNB2	Lung Neoplasms	group	C04;C08	Neoplastic Process	39
+C2145472	hsa:6240	I	RRM1	Urothelial Carcinoma	disease	C04;C13;C12	Neoplastic Process	2
+C2145472	hsa:1719	I	DHFR	Urothelial Carcinoma	disease	C04;C13;C12	Neoplastic Process	2
+C0005426	hsa:6240	I	RRM1	Biliary Tract Neoplasm	disease	C06;C04	Neoplastic Process	2
+C0005426	hsa:7298	I	TYMS	Biliary Tract Neoplasm	disease	C06;C04	Neoplastic Process	2
+C0032463	hsa:3717	I	JAK2	Polycythemia Vera	disease	C04;C15	Neoplastic Process	3
+C0032463	hsa:3716	I	JAK1	Polycythemia Vera	disease	C04;C15	Neoplastic Process	3
+C0032463	hsa:6241	I	RRM2	Polycythemia Vera	disease	C04;C15	Neoplastic Process	3
+C0021051	hsa:3717	I	JAK2	Immunologic Deficiency Syndromes	group	C20	Disease or Syndrome	10
+C0021051	hsa:3718	I	JAK3	Immunologic Deficiency Syndromes	group	C20	Disease or Syndrome	10
+C0021051	hsa:7297	I	TYK2	Immunologic Deficiency Syndromes	group	C20	Disease or Syndrome	10
+C0021051	hsa:3716	I	JAK1	Immunologic Deficiency Syndromes	group	C20	Disease or Syndrome	10
+C0021051	hsa:6774	I	STAT3	Immunologic Deficiency Syndromes	group	C20	Disease or Syndrome	10
+C0021051	hsa:6772	I	STAT1	Immunologic Deficiency Syndromes	group	C20	Disease or Syndrome	10
+C0021051	hsa:6773	I	STAT2	Immunologic Deficiency Syndromes	group	C20	Disease or Syndrome	10
+C0021051	hsa:6775	I	STAT4	Immunologic Deficiency Syndromes	group	C20	Disease or Syndrome	10
+C0021051	hsa:6776	I	STAT5A	Immunologic Deficiency Syndromes	group	C20	Disease or Syndrome	10
+C0021051	hsa:6778	I	STAT6	Immunologic Deficiency Syndromes	group	C20	Disease or Syndrome	10
+C0011615	hsa:3717	I	JAK2	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:7124	I	TNF	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:3718	I	JAK3	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:7297	I	TYK2	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:4790	I	NFKB1	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:3716	I	JAK1	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:3567	I	IL5	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:3596	I	IL13	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:5144	I	PDE4D	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:3269	I	HRH1	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:3566	I	IL4R	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:3565	I	IL4	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:3597	I	IL13RA1	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:5530	I	PPP3CA	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:4773	I	NFATC2	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:5532	I	PPP3CB	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:5533	I	PPP3CC	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:5534	I	PPP3R1	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:5535	I	PPP3R2	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:3458	I	IFNG	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:3592	I	IL12A	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:7132	I	TNFRSF1A	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:2034	I	EPAS1	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:85480	I	TSLP	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0011615	hsa:196	I	AHR	Dermatitis, Atopic	disease	C16;C17;C20	Disease or Syndrome	25
+C0026987	hsa:3717	I	JAK2	Myelofibrosis	disease	C23;C04;C15	Neoplastic Process	4
+C0026987	hsa:4914	I	NTRK1	Myelofibrosis	disease	C23;C04;C15	Neoplastic Process	4
+C0026987	hsa:4916	I	NTRK3	Myelofibrosis	disease	C23;C04;C15	Neoplastic Process	4
+C0026987	hsa:3716	I	JAK1	Myelofibrosis	disease	C23;C04;C15	Neoplastic Process	4
+C0263361	hsa:3717	I	JAK2	Psoriasis vulgaris	disease	C17	Disease or Syndrome	14
+C0263361	hsa:7124	I	TNF	Psoriasis vulgaris	disease	C17	Disease or Syndrome	14
+C0263361	hsa:958	I	CD40	Psoriasis vulgaris	disease	C17	Disease or Syndrome	14
+C0263361	hsa:3716	I	JAK1	Psoriasis vulgaris	disease	C17	Disease or Syndrome	14
+C0263361	hsa:3269	I	HRH1	Psoriasis vulgaris	disease	C17	Disease or Syndrome	14
+C0263361	hsa:5530	I	PPP3CA	Psoriasis vulgaris	disease	C17	Disease or Syndrome	14
+C0263361	hsa:4773	I	NFATC2	Psoriasis vulgaris	disease	C17	Disease or Syndrome	14
+C0263361	hsa:5532	I	PPP3CB	Psoriasis vulgaris	disease	C17	Disease or Syndrome	14
+C0263361	hsa:5533	I	PPP3CC	Psoriasis vulgaris	disease	C17	Disease or Syndrome	14
+C0263361	hsa:5534	I	PPP3R1	Psoriasis vulgaris	disease	C17	Disease or Syndrome	14
+C0263361	hsa:5535	I	PPP3R2	Psoriasis vulgaris	disease	C17	Disease or Syndrome	14
+C0263361	hsa:3592	I	IL12A	Psoriasis vulgaris	disease	C17	Disease or Syndrome	14
+C0263361	hsa:7132	I	TNFRSF1A	Psoriasis vulgaris	disease	C17	Disease or Syndrome	14
+C0263361	hsa:914	I	CD2	Psoriasis vulgaris	disease	C17	Disease or Syndrome	14
+C3495559	hsa:3717	I	JAK2	Juvenile arthritis	disease	C17;C05;C20	Disease or Syndrome	15
+C3495559	hsa:7124	I	TNF	Juvenile arthritis	disease	C17;C05;C20	Disease or Syndrome	15
+C3495559	hsa:3718	I	JAK3	Juvenile arthritis	disease	C17;C05;C20	Disease or Syndrome	15
+C3495559	hsa:7297	I	TYK2	Juvenile arthritis	disease	C17;C05;C20	Disease or Syndrome	15
+C3495559	hsa:3569	I	IL6	Juvenile arthritis	disease	C17;C05;C20	Disease or Syndrome	15
+C3495559	hsa:3716	I	JAK1	Juvenile arthritis	disease	C17;C05;C20	Disease or Syndrome	15
+C3495559	hsa:7422	I	VEGFA	Juvenile arthritis	disease	C17;C05;C20	Disease or Syndrome	15
+C3495559	hsa:1719	I	DHFR	Juvenile arthritis	disease	C17;C05;C20	Disease or Syndrome	15
+C3495559	hsa:471	I	ATIC	Juvenile arthritis	disease	C17;C05;C20	Disease or Syndrome	15
+C3495559	hsa:3458	I	IFNG	Juvenile arthritis	disease	C17;C05;C20	Disease or Syndrome	15
+C3495559	hsa:3553	I	IL1B	Juvenile arthritis	disease	C17;C05;C20	Disease or Syndrome	15
+C3495559	hsa:7132	I	TNFRSF1A	Juvenile arthritis	disease	C17;C05;C20	Disease or Syndrome	15
+C3495559	hsa:3570	I	IL6R	Juvenile arthritis	disease	C17;C05;C20	Disease or Syndrome	15
+C3495559	hsa:8792	I	TNFRSF11A	Juvenile arthritis	disease	C17;C05;C20	Disease or Syndrome	15
+C3495559	hsa:3559	I	IL2RA	Juvenile arthritis	disease	C17;C05;C20	Disease or Syndrome	15
+C0020517	hsa:3717	I	JAK2	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:695	I	BTK	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:3718	I	JAK3	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:7297	I	TYK2	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:3716	I	JAK1	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:6774	I	STAT3	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:6915	I	TBXA2R	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:3269	I	HRH1	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:7099	I	TLR4	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:3592	I	IL12A	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:3593	I	IL12B	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:3383	I	ICAM1	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:6772	I	STAT1	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:6773	I	STAT2	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:6775	I	STAT4	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:6776	I	STAT5A	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:6778	I	STAT6	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:3606	I	IL18	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:3725	I	JUN	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:3726	I	JUNB	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:2353	I	FOS	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:2355	I	FOSL2	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:8061	I	FOSL1	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:1386	I	ATF2	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:467	I	ATF3	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:468	I	ATF4	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:85480	I	TSLP	Hypersensitivity	group	C20	Pathologic Function	28
+C0020517	hsa:727	I	C5	Hypersensitivity	group	C20	Pathologic Function	28
+C0018939	hsa:3717	I	JAK2	Hematological Disease	group	C15	Disease or Syndrome	10
+C0018939	hsa:3718	I	JAK3	Hematological Disease	group	C15	Disease or Syndrome	10
+C0018939	hsa:7297	I	TYK2	Hematological Disease	group	C15	Disease or Syndrome	10
+C0018939	hsa:3716	I	JAK1	Hematological Disease	group	C15	Disease or Syndrome	10
+C0018939	hsa:6774	I	STAT3	Hematological Disease	group	C15	Disease or Syndrome	10
+C0018939	hsa:6772	I	STAT1	Hematological Disease	group	C15	Disease or Syndrome	10
+C0018939	hsa:6773	I	STAT2	Hematological Disease	group	C15	Disease or Syndrome	10
+C0018939	hsa:6775	I	STAT4	Hematological Disease	group	C15	Disease or Syndrome	10
+C0018939	hsa:6776	I	STAT5A	Hematological Disease	group	C15	Disease or Syndrome	10
+C0018939	hsa:6778	I	STAT6	Hematological Disease	group	C15	Disease or Syndrome	10
+C0009402	hsa:2322	I	FLT3	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:7150	I	TOP1	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:7153	I	TOP2A	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:7155	I	TOP2B	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:3815	I	KIT	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:5159	I	PDGFRB	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:1803	I	DPP4	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:3791	I	KDR	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:3845	I	KRAS	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:5979	I	RET	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:958	I	CD40	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:3480	I	IGF1R	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:7298	I	TYMS	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:1956	I	EGFR	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:7422	I	VEGFA	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:2064	I	ERBB2	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:5604	I	MAP2K1	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:5605	I	MAP2K2	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:7010	I	TEK	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:673	I	BRAF	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:2321	I	FLT1	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:2324	I	FLT4	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:1493	I	CTLA4	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:4072	I	EPCAM	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:324	I	APC	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:5595	I	MAPK3	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:5594	I	MAPK1	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:6774	I	STAT3	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:2260	I	FGFR1	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:7471	I	WNT1	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:1436	I	CSF1R	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:2065	I	ERBB3	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:1949	I	EFNB3	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:1948	I	EFNB2	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:7040	I	TGFB1	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:7046	I	TGFBR1	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:7048	I	TGFBR2	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:23043	I	TNIK	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:5894	I	RAF1	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:7423	I	VEGFB	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:5228	I	PGF	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:4907	I	NT5E	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0009402	hsa:688	I	KLF5	Colorectal Carcinoma	disease	C06;C04	Neoplastic Process	43
+C0007134	hsa:2322	I	FLT3	Renal Cell Carcinoma	disease	C04;C13;C12	Neoplastic Process	22
+C0007134	hsa:3815	I	KIT	Renal Cell Carcinoma	disease	C04;C13;C12	Neoplastic Process	22
+C0007134	hsa:5159	I	PDGFRB	Renal Cell Carcinoma	disease	C04;C13;C12	Neoplastic Process	22
+C0007134	hsa:1803	I	DPP4	Renal Cell Carcinoma	disease	C04;C13;C12	Neoplastic Process	22
+C0007134	hsa:3791	I	KDR	Renal Cell Carcinoma	disease	C04;C13;C12	Neoplastic Process	22
+C0007134	hsa:5979	I	RET	Renal Cell Carcinoma	disease	C04;C13;C12	Neoplastic Process	22
+C0007134	hsa:3569	I	IL6	Renal Cell Carcinoma	disease	C04;C13;C12	Neoplastic Process	22
+C0007134	hsa:958	I	CD40	Renal Cell Carcinoma	disease	C04;C13;C12	Neoplastic Process	22
+C0007134	hsa:7422	I	VEGFA	Renal Cell Carcinoma	disease	C04;C13;C12	Neoplastic Process	22
+C0007134	hsa:4233	I	MET	Renal Cell Carcinoma	disease	C04;C13;C12	Neoplastic Process	22
+C0007134	hsa:2475	I	MTOR	Renal Cell Carcinoma	disease	C04;C13;C12	Neoplastic Process	22
+C0007134	hsa:7010	I	TEK	Renal Cell Carcinoma	disease	C04;C13;C12	Neoplastic Process	22
+C0007134	hsa:1719	I	DHFR	Renal Cell Carcinoma	disease	C04;C13;C12	Neoplastic Process	22
+C0007134	hsa:673	I	BRAF	Renal Cell Carcinoma	disease	C04;C13;C12	Neoplastic Process	22
+C0007134	hsa:2321	I	FLT1	Renal Cell Carcinoma	disease	C04;C13;C12	Neoplastic Process	22
+C0007134	hsa:2324	I	FLT4	Renal Cell Carcinoma	disease	C04;C13;C12	Neoplastic Process	22
+C0007134	hsa:1493	I	CTLA4	Renal Cell Carcinoma	disease	C04;C13;C12	Neoplastic Process	22
+C0007134	hsa:4072	I	EPCAM	Renal Cell Carcinoma	disease	C04;C13;C12	Neoplastic Process	22
+C0007134	hsa:4486	I	MST1R	Renal Cell Carcinoma	disease	C04;C13;C12	Neoplastic Process	22
+C0007134	hsa:1436	I	CSF1R	Renal Cell Carcinoma	disease	C04;C13;C12	Neoplastic Process	22
+C0007134	hsa:5894	I	RAF1	Renal Cell Carcinoma	disease	C04;C13;C12	Neoplastic Process	22
+C0007134	hsa:471	I	ATIC	Renal Cell Carcinoma	disease	C04;C13;C12	Neoplastic Process	22
+C0007115	hsa:2322	I	FLT3	Malignant neoplasm of thyroid	disease	C04;C19	Neoplastic Process	16
+C0007115	hsa:3815	I	KIT	Malignant neoplasm of thyroid	disease	C04;C19	Neoplastic Process	16
+C0007115	hsa:5159	I	PDGFRB	Malignant neoplasm of thyroid	disease	C04;C19	Neoplastic Process	16
+C0007115	hsa:1803	I	DPP4	Malignant neoplasm of thyroid	disease	C04;C19	Neoplastic Process	16
+C0007115	hsa:3791	I	KDR	Malignant neoplasm of thyroid	disease	C04;C19	Neoplastic Process	16
+C0007115	hsa:3265	I	HRAS	Malignant neoplasm of thyroid	disease	C04;C19	Neoplastic Process	16
+C0007115	hsa:5979	I	RET	Malignant neoplasm of thyroid	disease	C04;C19	Neoplastic Process	16
+C0007115	hsa:2261	I	FGFR3	Malignant neoplasm of thyroid	disease	C04;C19	Neoplastic Process	16
+C0007115	hsa:1956	I	EGFR	Malignant neoplasm of thyroid	disease	C04;C19	Neoplastic Process	16
+C0007115	hsa:673	I	BRAF	Malignant neoplasm of thyroid	disease	C04;C19	Neoplastic Process	16
+C0007115	hsa:2321	I	FLT1	Malignant neoplasm of thyroid	disease	C04;C19	Neoplastic Process	16
+C0007115	hsa:2324	I	FLT4	Malignant neoplasm of thyroid	disease	C04;C19	Neoplastic Process	16
+C0007115	hsa:2260	I	FGFR1	Malignant neoplasm of thyroid	disease	C04;C19	Neoplastic Process	16
+C0007115	hsa:5894	I	RAF1	Malignant neoplasm of thyroid	disease	C04;C19	Neoplastic Process	16
+C0007115	hsa:2264	I	FGFR4	Malignant neoplasm of thyroid	disease	C04;C19	Neoplastic Process	16
+C0007115	hsa:2263	I	FGFR2	Malignant neoplasm of thyroid	disease	C04;C19	Neoplastic Process	16
+C0242363	hsa:2322	I	FLT3	Islet Cell Tumor	disease	C06;C04;C19	Neoplastic Process	10
+C0242363	hsa:5156	I	PDGFRA	Islet Cell Tumor	disease	C06;C04;C19	Neoplastic Process	10
+C0242363	hsa:3815	I	KIT	Islet Cell Tumor	disease	C06;C04;C19	Neoplastic Process	10
+C0242363	hsa:5159	I	PDGFRB	Islet Cell Tumor	disease	C06;C04;C19	Neoplastic Process	10
+C0242363	hsa:3791	I	KDR	Islet Cell Tumor	disease	C06;C04;C19	Neoplastic Process	10
+C0242363	hsa:5979	I	RET	Islet Cell Tumor	disease	C06;C04;C19	Neoplastic Process	10
+C0242363	hsa:2475	I	MTOR	Islet Cell Tumor	disease	C06;C04;C19	Neoplastic Process	10
+C0242363	hsa:2321	I	FLT1	Islet Cell Tumor	disease	C06;C04;C19	Neoplastic Process	10
+C0242363	hsa:2324	I	FLT4	Islet Cell Tumor	disease	C06;C04;C19	Neoplastic Process	10
+C0242363	hsa:1436	I	CSF1R	Islet Cell Tumor	disease	C06;C04;C19	Neoplastic Process	10
+C2239176	hsa:2322	I	FLT3	Liver carcinoma	disease	C06;C04	Neoplastic Process	17
+C2239176	hsa:3815	I	KIT	Liver carcinoma	disease	C06;C04	Neoplastic Process	17
+C2239176	hsa:5159	I	PDGFRB	Liver carcinoma	disease	C06;C04	Neoplastic Process	17
+C2239176	hsa:3791	I	KDR	Liver carcinoma	disease	C06;C04	Neoplastic Process	17
+C2239176	hsa:4893	I	NRAS	Liver carcinoma	disease	C06;C04	Neoplastic Process	17
+C2239176	hsa:5979	I	RET	Liver carcinoma	disease	C06;C04	Neoplastic Process	17
+C2239176	hsa:7298	I	TYMS	Liver carcinoma	disease	C06;C04	Neoplastic Process	17
+C2239176	hsa:7422	I	VEGFA	Liver carcinoma	disease	C06;C04	Neoplastic Process	17
+C2239176	hsa:5604	I	MAP2K1	Liver carcinoma	disease	C06;C04	Neoplastic Process	17
+C2239176	hsa:5605	I	MAP2K2	Liver carcinoma	disease	C06;C04	Neoplastic Process	17
+C2239176	hsa:673	I	BRAF	Liver carcinoma	disease	C06;C04	Neoplastic Process	17
+C2239176	hsa:324	I	APC	Liver carcinoma	disease	C06;C04	Neoplastic Process	17
+C2239176	hsa:2260	I	FGFR1	Liver carcinoma	disease	C06;C04	Neoplastic Process	17
+C2239176	hsa:1949	I	EFNB3	Liver carcinoma	disease	C06;C04	Neoplastic Process	17
+C2239176	hsa:1948	I	EFNB2	Liver carcinoma	disease	C06;C04	Neoplastic Process	17
+C2239176	hsa:5313	I	PKLR	Liver carcinoma	disease	C06;C04	Neoplastic Process	17
+C2239176	hsa:255738	I	PCSK9	Liver carcinoma	disease	C06;C04	Neoplastic Process	17
+C0238463	hsa:2322	I	FLT3	Papillary thyroid carcinoma	disease	C04;C19	Neoplastic Process	10
+C0238463	hsa:3815	I	KIT	Papillary thyroid carcinoma	disease	C04;C19	Neoplastic Process	10
+C0238463	hsa:5159	I	PDGFRB	Papillary thyroid carcinoma	disease	C04;C19	Neoplastic Process	10
+C0238463	hsa:3791	I	KDR	Papillary thyroid carcinoma	disease	C04;C19	Neoplastic Process	10
+C0238463	hsa:5979	I	RET	Papillary thyroid carcinoma	disease	C04;C19	Neoplastic Process	10
+C0238463	hsa:673	I	BRAF	Papillary thyroid carcinoma	disease	C04;C19	Neoplastic Process	10
+C0238463	hsa:2321	I	FLT1	Papillary thyroid carcinoma	disease	C04;C19	Neoplastic Process	10
+C0238463	hsa:2324	I	FLT4	Papillary thyroid carcinoma	disease	C04;C19	Neoplastic Process	10
+C0238463	hsa:2260	I	FGFR1	Papillary thyroid carcinoma	disease	C04;C19	Neoplastic Process	10
+C0238463	hsa:5894	I	RAF1	Papillary thyroid carcinoma	disease	C04;C19	Neoplastic Process	10
+C0238462	hsa:2322	I	FLT3	Medullary carcinoma of thyroid	disease	C04;C19	Neoplastic Process	10
+C0238462	hsa:3815	I	KIT	Medullary carcinoma of thyroid	disease	C04;C19	Neoplastic Process	10
+C0238462	hsa:3791	I	KDR	Medullary carcinoma of thyroid	disease	C04;C19	Neoplastic Process	10
+C0238462	hsa:5979	I	RET	Medullary carcinoma of thyroid	disease	C04;C19	Neoplastic Process	10
+C0238462	hsa:1956	I	EGFR	Medullary carcinoma of thyroid	disease	C04;C19	Neoplastic Process	10
+C0238462	hsa:4233	I	MET	Medullary carcinoma of thyroid	disease	C04;C19	Neoplastic Process	10
+C0238462	hsa:7010	I	TEK	Medullary carcinoma of thyroid	disease	C04;C19	Neoplastic Process	10
+C0238462	hsa:2321	I	FLT1	Medullary carcinoma of thyroid	disease	C04;C19	Neoplastic Process	10
+C0238462	hsa:2324	I	FLT4	Medullary carcinoma of thyroid	disease	C04;C19	Neoplastic Process	10
+C0238462	hsa:2260	I	FGFR1	Medullary carcinoma of thyroid	disease	C04;C19	Neoplastic Process	10
+C0206682	hsa:2322	I	FLT3	Follicular thyroid carcinoma	disease	C04	Neoplastic Process	9
+C0206682	hsa:3815	I	KIT	Follicular thyroid carcinoma	disease	C04	Neoplastic Process	9
+C0206682	hsa:5159	I	PDGFRB	Follicular thyroid carcinoma	disease	C04	Neoplastic Process	9
+C0206682	hsa:3791	I	KDR	Follicular thyroid carcinoma	disease	C04	Neoplastic Process	9
+C0206682	hsa:5979	I	RET	Follicular thyroid carcinoma	disease	C04	Neoplastic Process	9
+C0206682	hsa:673	I	BRAF	Follicular thyroid carcinoma	disease	C04	Neoplastic Process	9
+C0206682	hsa:2324	I	FLT4	Follicular thyroid carcinoma	disease	C04	Neoplastic Process	9
+C0206682	hsa:2260	I	FGFR1	Follicular thyroid carcinoma	disease	C04	Neoplastic Process	9
+C0206682	hsa:5894	I	RAF1	Follicular thyroid carcinoma	disease	C04	Neoplastic Process	9
+C0008497	hsa:7153	I	TOP2A	Choriocarcinoma	disease	C04;C13	Neoplastic Process	1
+C0029463	hsa:7153	I	TOP2A	Osteosarcoma	disease	C04	Neoplastic Process	4
+C0029463	hsa:7155	I	TOP2B	Osteosarcoma	disease	C04	Neoplastic Process	4
+C0029463	hsa:2475	I	MTOR	Osteosarcoma	disease	C04	Neoplastic Process	4
+C0029463	hsa:1719	I	DHFR	Osteosarcoma	disease	C04	Neoplastic Process	4
+C1800706	hsa:5156	I	PDGFRA	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:5159	I	PDGFRB	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:3791	I	KDR	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:7124	I	TNF	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:207	I	AKT1	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:3569	I	IL6	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:2261	I	FGFR3	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:2475	I	MTOR	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:2321	I	FLT1	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:2324	I	FLT4	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:3685	I	ITGAV	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:2260	I	FGFR1	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:1436	I	CSF1R	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:7040	I	TGFB1	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:2263	I	FGFR2	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:9475	I	ROCK2	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:3596	I	IL13	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:3586	I	IL10	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:3458	I	IFNG	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:3553	I	IL1B	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:6347	I	CCL2	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:2247	I	FGF2	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:1490	I	CTGF	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:53831	I	GPR84	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:3958	I	LGALS3	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:7052	I	TGM2	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:5599	I	MAPK8	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:5601	I	MAPK9	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:5602	I	MAPK10	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:5290	I	PIK3CA	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:5291	I	PIK3CB	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:5292	I	PIM1	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:208	I	AKT2	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C1800706	hsa:10000	I	AKT3	Idiopathic Pulmonary Fibrosis	disease	C08	Disease or Syndrome	34
+C4551686	hsa:5156	I	PDGFRA	Malignant neoplasm of soft tissue	group	C04	Neoplastic Process	6
+C4551686	hsa:3815	I	KIT	Malignant neoplasm of soft tissue	group	C04	Neoplastic Process	6
+C4551686	hsa:5159	I	PDGFRB	Malignant neoplasm of soft tissue	group	C04	Neoplastic Process	6
+C4551686	hsa:3791	I	KDR	Malignant neoplasm of soft tissue	group	C04	Neoplastic Process	6
+C4551686	hsa:2321	I	FLT1	Malignant neoplasm of soft tissue	group	C04	Neoplastic Process	6
+C4551686	hsa:2324	I	FLT4	Malignant neoplasm of soft tissue	group	C04	Neoplastic Process	6
+C0025202	hsa:3815	I	KIT	melanoma	disease	C04	Neoplastic Process	15
+C0025202	hsa:5159	I	PDGFRB	melanoma	disease	C04	Neoplastic Process	15
+C0025202	hsa:3791	I	KDR	melanoma	disease	C04	Neoplastic Process	15
+C0025202	hsa:4893	I	NRAS	melanoma	disease	C04	Neoplastic Process	15
+C0025202	hsa:596	I	BCL2	melanoma	disease	C04	Neoplastic Process	15
+C0025202	hsa:958	I	CD40	melanoma	disease	C04	Neoplastic Process	15
+C0025202	hsa:5604	I	MAP2K1	melanoma	disease	C04	Neoplastic Process	15
+C0025202	hsa:5605	I	MAP2K2	melanoma	disease	C04	Neoplastic Process	15
+C0025202	hsa:673	I	BRAF	melanoma	disease	C04	Neoplastic Process	15
+C0025202	hsa:1493	I	CTLA4	melanoma	disease	C04	Neoplastic Process	15
+C0025202	hsa:3685	I	ITGAV	melanoma	disease	C04	Neoplastic Process	15
+C0025202	hsa:3690	I	ITGB3	melanoma	disease	C04	Neoplastic Process	15
+C0025202	hsa:6774	I	STAT3	melanoma	disease	C04	Neoplastic Process	15
+C0025202	hsa:6934	I	TCF7L2	melanoma	disease	C04	Neoplastic Process	15
+C0025202	hsa:4286	I	MITF	melanoma	disease	C04	Neoplastic Process	15
+C0017638	hsa:3815	I	KIT	Glioma	disease	C04	Neoplastic Process	6
+C0017638	hsa:3791	I	KDR	Glioma	disease	C04	Neoplastic Process	6
+C0017638	hsa:6469	I	SHH	Glioma	disease	C04	Neoplastic Process	6
+C0017638	hsa:50846	I	DHH	Glioma	disease	C04	Neoplastic Process	6
+C0017638	hsa:5727	I	PTCH1	Glioma	disease	C04	Neoplastic Process	6
+C0017638	hsa:7422	I	VEGFA	Glioma	disease	C04	Neoplastic Process	6
+C1261473	hsa:3815	I	KIT	Sarcoma	group	C04	Neoplastic Process	5
+C1261473	hsa:5159	I	PDGFRB	Sarcoma	group	C04	Neoplastic Process	5
+C1261473	hsa:3791	I	KDR	Sarcoma	group	C04	Neoplastic Process	5
+C1261473	hsa:3480	I	IGF1R	Sarcoma	group	C04	Neoplastic Process	5
+C1261473	hsa:1719	I	DHFR	Sarcoma	group	C04	Neoplastic Process	5
+C0017636	hsa:3815	I	KIT	Glioblastoma	disease	C04	Neoplastic Process	11
+C0017636	hsa:7852	I	CXCR4	Glioblastoma	disease	C04	Neoplastic Process	11
+C0017636	hsa:3791	I	KDR	Glioblastoma	disease	C04	Neoplastic Process	11
+C0017636	hsa:3265	I	HRAS	Glioblastoma	disease	C04	Neoplastic Process	11
+C0017636	hsa:3845	I	KRAS	Glioblastoma	disease	C04	Neoplastic Process	11
+C0017636	hsa:4893	I	NRAS	Glioblastoma	disease	C04	Neoplastic Process	11
+C0017636	hsa:6387	I	CXCL12	Glioblastoma	disease	C04	Neoplastic Process	11
+C0017636	hsa:7422	I	VEGFA	Glioblastoma	disease	C04	Neoplastic Process	11
+C0017636	hsa:3685	I	ITGAV	Glioblastoma	disease	C04	Neoplastic Process	11
+C0017636	hsa:3690	I	ITGB3	Glioblastoma	disease	C04	Neoplastic Process	11
+C0017636	hsa:6608	I	SMO	Glioblastoma	disease	C04	Neoplastic Process	11
+C0238461	hsa:3815	I	KIT	Anaplastic thyroid carcinoma	disease	C04	Neoplastic Process	9
+C0238461	hsa:3791	I	KDR	Anaplastic thyroid carcinoma	disease	C04	Neoplastic Process	9
+C0238461	hsa:5979	I	RET	Anaplastic thyroid carcinoma	disease	C04	Neoplastic Process	9
+C0238461	hsa:2261	I	FGFR3	Anaplastic thyroid carcinoma	disease	C04	Neoplastic Process	9
+C0238461	hsa:2321	I	FLT1	Anaplastic thyroid carcinoma	disease	C04	Neoplastic Process	9
+C0238461	hsa:2324	I	FLT4	Anaplastic thyroid carcinoma	disease	C04	Neoplastic Process	9
+C0238461	hsa:2260	I	FGFR1	Anaplastic thyroid carcinoma	disease	C04	Neoplastic Process	9
+C0238461	hsa:2264	I	FGFR4	Anaplastic thyroid carcinoma	disease	C04	Neoplastic Process	9
+C0238461	hsa:2263	I	FGFR2	Anaplastic thyroid carcinoma	disease	C04	Neoplastic Process	9
+C0029456	hsa:6714	I	SRC	Osteoporosis	disease	C18;C05	Disease or Syndrome	14
+C0029456	hsa:695	I	BTK	Osteoporosis	disease	C18;C05	Disease or Syndrome	14
+C0029456	hsa:3685	I	ITGAV	Osteoporosis	disease	C18;C05	Disease or Syndrome	14
+C0029456	hsa:3690	I	ITGB3	Osteoporosis	disease	C18;C05	Disease or Syndrome	14
+C0029456	hsa:22943	I	DKK1	Osteoporosis	disease	C18;C05	Disease or Syndrome	14
+C0029456	hsa:1436	I	CSF1R	Osteoporosis	disease	C18;C05	Disease or Syndrome	14
+C0029456	hsa:2224	I	FDPS	Osteoporosis	disease	C18;C05	Disease or Syndrome	14
+C0029456	hsa:1513	I	CTSK	Osteoporosis	disease	C18;C05	Disease or Syndrome	14
+C0029456	hsa:8792	I	TNFRSF11A	Osteoporosis	disease	C18;C05	Disease or Syndrome	14
+C0029456	hsa:90	I	ACVR1	Osteoporosis	disease	C18;C05	Disease or Syndrome	14
+C0029456	hsa:91	I	ACVR1B	Osteoporosis	disease	C18;C05	Disease or Syndrome	14
+C0029456	hsa:130399	I	ACVR1C	Osteoporosis	disease	C18;C05	Disease or Syndrome	14
+C0029456	hsa:92	I	ACVR2A	Osteoporosis	disease	C18;C05	Disease or Syndrome	14
+C0029456	hsa:93	I	ACVR2B	Osteoporosis	disease	C18;C05	Disease or Syndrome	14
+C0153690	hsa:6714	I	SRC	Secondary malignant neoplasm of bone	disease	C23;C04;C05	Neoplastic Process	2
+C0153690	hsa:2224	I	FDPS	Secondary malignant neoplasm of bone	disease	C23;C04;C05	Neoplastic Process	2
+C0432214	hsa:4851	I	NOTCH1	Namaqualand hip dysplasia	disease	C16;C05	Disease or Syndrome	3
+C0432214	hsa:5743	I	PTGS2	Namaqualand hip dysplasia	disease	C16;C05	Disease or Syndrome	3
+C0432214	hsa:2034	I	EPAS1	Namaqualand hip dysplasia	disease	C16;C05	Disease or Syndrome	3
+C0018133	hsa:1803	I	DPP4	Graft-vs-Host Disease	disease	C20	Disease or Syndrome	7
+C0018133	hsa:5530	I	PPP3CA	Graft-vs-Host Disease	disease	C20	Disease or Syndrome	7
+C0018133	hsa:4773	I	NFATC2	Graft-vs-Host Disease	disease	C20	Disease or Syndrome	7
+C0018133	hsa:5532	I	PPP3CB	Graft-vs-Host Disease	disease	C20	Disease or Syndrome	7
+C0018133	hsa:5533	I	PPP3CC	Graft-vs-Host Disease	disease	C20	Disease or Syndrome	7
+C0018133	hsa:5534	I	PPP3R1	Graft-vs-Host Disease	disease	C20	Disease or Syndrome	7
+C0018133	hsa:5535	I	PPP3R2	Graft-vs-Host Disease	disease	C20	Disease or Syndrome	7
+C0011860	hsa:1803	I	DPP4	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:6387	I	CXCL12	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:7124	I	TNF	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:3569	I	IL6	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:5530	I	PPP3CA	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:4773	I	NFATC2	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:3553	I	IL1B	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:2548	I	GAA	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:231	I	AKR1B1	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:3554	I	IL1R1	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:6804	I	STX1A	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:5950	I	RBP4	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:6347	I	CCL2	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:5105	I	PCK1	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:5106	I	PCK2	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:2203	I	FBP1	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:2538	I	G6PC	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:5836	I	PYGL	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:6720	I	SREBF1	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:6721	I	SREBF2	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:2194	I	FASN	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:2673	I	GFPT1	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:9945	I	GFPT2	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:5770	I	PTPN1	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:79071	I	ELOVL6	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0011860	hsa:440275	I	EIF2AK4	Diabetes Mellitus, Non-Insulin-Dependent	disease	C18;C19	Disease or Syndrome	26
+C0524620	hsa:1803	I	DPP4	Metabolic Syndrome X	disease	C18	Disease or Syndrome	18
+C0524620	hsa:7124	I	TNF	Metabolic Syndrome X	disease	C18	Disease or Syndrome	18
+C0524620	hsa:6335	I	SCN9A	Metabolic Syndrome X	disease	C18	Disease or Syndrome	18
+C0524620	hsa:7099	I	TLR4	Metabolic Syndrome X	disease	C18	Disease or Syndrome	18
+C0524620	hsa:775	I	CACNA1C	Metabolic Syndrome X	disease	C18	Disease or Syndrome	18
+C0524620	hsa:5950	I	RBP4	Metabolic Syndrome X	disease	C18	Disease or Syndrome	18
+C0524620	hsa:6347	I	CCL2	Metabolic Syndrome X	disease	C18	Disease or Syndrome	18
+C0524620	hsa:5105	I	PCK1	Metabolic Syndrome X	disease	C18	Disease or Syndrome	18
+C0524620	hsa:5106	I	PCK2	Metabolic Syndrome X	disease	C18	Disease or Syndrome	18
+C0524620	hsa:2194	I	FASN	Metabolic Syndrome X	disease	C18	Disease or Syndrome	18
+C0524620	hsa:776	I	CACNA1D	Metabolic Syndrome X	disease	C18	Disease or Syndrome	18
+C0524620	hsa:391013	I	PLA2G2C	Metabolic Syndrome X	disease	C18	Disease or Syndrome	18
+C0524620	hsa:5320	I	PLA2G2A	Metabolic Syndrome X	disease	C18	Disease or Syndrome	18
+C0524620	hsa:81579	I	PLA2G12A	Metabolic Syndrome X	disease	C18	Disease or Syndrome	18
+C0524620	hsa:84647	I	PLA2G12B	Metabolic Syndrome X	disease	C18	Disease or Syndrome	18
+C0524620	hsa:5054	I	SERPINE1	Metabolic Syndrome X	disease	C18	Disease or Syndrome	18
+C0524620	hsa:4886	I	NPY1R	Metabolic Syndrome X	disease	C18	Disease or Syndrome	18
+C0524620	hsa:857	I	CAV1	Metabolic Syndrome X	disease	C18	Disease or Syndrome	18
+C0345967	hsa:1803	I	DPP4	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	1
+C0019693	hsa:7852	I	CXCR4	HIV Infections	group	C01;C20	Disease or Syndrome	3
+C0019693	hsa:6387	I	CXCL12	HIV Infections	group	C01;C20	Disease or Syndrome	3
+C0019693	hsa:9833	I	MELK	HIV Infections	group	C01;C20	Disease or Syndrome	3
+C0342257	hsa:5579	I	PRKCB	Complications of Diabetes Mellitus	group	C19	Disease or Syndrome	1
+C0021400	hsa:3265	I	HRAS	Influenza	disease	C01;C08	Disease or Syndrome	8
+C0021400	hsa:3845	I	KRAS	Influenza	disease	C01;C08	Disease or Syndrome	8
+C0021400	hsa:4893	I	NRAS	Influenza	disease	C01;C08	Disease or Syndrome	8
+C0021400	hsa:775	I	CACNA1C	Influenza	disease	C01;C08	Disease or Syndrome	8
+C0021400	hsa:5293	I	PIK3CD	Influenza	disease	C01;C08	Disease or Syndrome	8
+C0021400	hsa:1213	I	CLTC	Influenza	disease	C01;C08	Disease or Syndrome	8
+C0021400	hsa:1211	I	CLTA	Influenza	disease	C01;C08	Disease or Syndrome	8
+C0021400	hsa:1212	I	CLTB	Influenza	disease	C01;C08	Disease or Syndrome	8
+C3463824	hsa:3265	I	HRAS	MYELODYSPLASTIC SYNDROME	group	C15	Neoplastic Process	10
+C3463824	hsa:3845	I	KRAS	MYELODYSPLASTIC SYNDROME	group	C15	Neoplastic Process	10
+C3463824	hsa:4893	I	NRAS	MYELODYSPLASTIC SYNDROME	group	C15	Neoplastic Process	10
+C3463824	hsa:7124	I	TNF	MYELODYSPLASTIC SYNDROME	group	C15	Neoplastic Process	10
+C3463824	hsa:5743	I	PTGS2	MYELODYSPLASTIC SYNDROME	group	C15	Neoplastic Process	10
+C3463824	hsa:4790	I	NFKB1	MYELODYSPLASTIC SYNDROME	group	C15	Neoplastic Process	10
+C3463824	hsa:207	I	AKT1	MYELODYSPLASTIC SYNDROME	group	C15	Neoplastic Process	10
+C3463824	hsa:8743	I	TNFSF10	MYELODYSPLASTIC SYNDROME	group	C15	Neoplastic Process	10
+C3463824	hsa:8797	I	TNFRSF10A	MYELODYSPLASTIC SYNDROME	group	C15	Neoplastic Process	10
+C3463824	hsa:8795	I	TNFRSF10B	MYELODYSPLASTIC SYNDROME	group	C15	Neoplastic Process	10
+C0023418	hsa:3265	I	HRAS	leukemia	disease	C04	Neoplastic Process	7
+C0023418	hsa:3845	I	KRAS	leukemia	disease	C04	Neoplastic Process	7
+C0023418	hsa:4893	I	NRAS	leukemia	disease	C04	Neoplastic Process	7
+C0023418	hsa:331	I	XIAP	leukemia	disease	C04	Neoplastic Process	7
+C0023418	hsa:596	I	BCL2	leukemia	disease	C04	Neoplastic Process	7
+C0023418	hsa:1719	I	DHFR	leukemia	disease	C04	Neoplastic Process	7
+C0023418	hsa:471	I	ATIC	leukemia	disease	C04	Neoplastic Process	7
+C0006413	hsa:4609	I	MYC	Burkitt Lymphoma	disease	C04;C01;C20;C15	Neoplastic Process	1
+C0024419	hsa:695	I	BTK	Waldenstrom Macroglobulinemia	disease	C04;C20;C15;C14	Neoplastic Process	1
+C0004096	hsa:695	I	BTK	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:7124	I	TNF	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:5743	I	PTGS2	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:4790	I	NFKB1	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:1432	I	MAPK14	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:5600	I	MAPK11	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:6300	I	MAPK12	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:5603	I	MAPK13	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:5594	I	MAPK1	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:135	I	ADORA2A	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:1128	I	CHRM1	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:1131	I	CHRM3	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:3567	I	IL5	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:3596	I	IL13	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:6915	I	TBXA2R	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:5144	I	PDE4D	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:3269	I	HRH1	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:3566	I	IL4R	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:3565	I	IL4	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:27199	I	OXGR1	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:3597	I	IL13RA1	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:6696	I	SPP1	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:85480	I	TSLP	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:727	I	C5	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:3576	I	IL8	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:9021	I	SOCS3	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:1577	I	CYP3A5	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0004096	hsa:8784	I	TNFRSF18	Asthma	disease	C08;C20	Disease or Syndrome	28
+C0023443	hsa:100	I	ADA	Hairy Cell Leukemia	disease	C04;C20;C15	Neoplastic Process	1
+C0023493	hsa:100	I	ADA	Adult T-Cell Lymphoma/Leukemia	disease	C04;C20;C15	Neoplastic Process	1
+C0002395	hsa:7124	I	TNF	Alzheimer's Disease	disease	C10;F03	Disease or Syndrome	12
+C0002395	hsa:3479	I	IGF1	Alzheimer's Disease	disease	C10;F03	Disease or Syndrome	12
+C0002395	hsa:5734	I	PTGER4	Alzheimer's Disease	disease	C10;F03	Disease or Syndrome	12
+C0002395	hsa:23621	I	BACE1	Alzheimer's Disease	disease	C10;F03	Disease or Syndrome	12
+C0002395	hsa:3146	I	HMGB1	Alzheimer's Disease	disease	C10;F03	Disease or Syndrome	12
+C0002395	hsa:1508	I	CTSB	Alzheimer's Disease	disease	C10;F03	Disease or Syndrome	12
+C0002395	hsa:348	I	APOE	Alzheimer's Disease	disease	C10;F03	Disease or Syndrome	12
+C0002395	hsa:351	I	APP	Alzheimer's Disease	disease	C10;F03	Disease or Syndrome	12
+C0002395	hsa:5663	I	PSEN1	Alzheimer's Disease	disease	C10;F03	Disease or Syndrome	12
+C0002395	hsa:5664	I	PSEN2	Alzheimer's Disease	disease	C10;F03	Disease or Syndrome	12
+C0002395	hsa:6093	I	ROCK1	Alzheimer's Disease	disease	C10;F03	Disease or Syndrome	12
+C0002395	hsa:9475	I	ROCK2	Alzheimer's Disease	disease	C10;F03	Disease or Syndrome	12
+C0030567	hsa:7124	I	TNF	Parkinson Disease	disease	C10	Disease or Syndrome	11
+C0030567	hsa:1312	I	COMT	Parkinson Disease	disease	C10	Disease or Syndrome	11
+C0030567	hsa:4129	I	MAOB	Parkinson Disease	disease	C10	Disease or Syndrome	11
+C0030567	hsa:135	I	ADORA2A	Parkinson Disease	disease	C10	Disease or Syndrome	11
+C0030567	hsa:6335	I	SCN9A	Parkinson Disease	disease	C10	Disease or Syndrome	11
+C0030567	hsa:1128	I	CHRM1	Parkinson Disease	disease	C10	Disease or Syndrome	11
+C0030567	hsa:1131	I	CHRM3	Parkinson Disease	disease	C10	Disease or Syndrome	11
+C0030567	hsa:1644	I	DDC	Parkinson Disease	disease	C10	Disease or Syndrome	11
+C0030567	hsa:120892	I	LRRK2	Parkinson Disease	disease	C10	Disease or Syndrome	11
+C0030567	hsa:6622	I	SNCA	Parkinson Disease	disease	C10	Disease or Syndrome	11
+C0030567	hsa:3269	I	HRH1	Parkinson Disease	disease	C10	Disease or Syndrome	11
+C0010346	hsa:7124	I	TNF	Crohn Disease	disease	C06	Disease or Syndrome	12
+C0010346	hsa:4790	I	NFKB1	Crohn Disease	disease	C06	Disease or Syndrome	12
+C0010346	hsa:958	I	CD40	Crohn Disease	disease	C06	Disease or Syndrome	12
+C0010346	hsa:3716	I	JAK1	Crohn Disease	disease	C06	Disease or Syndrome	12
+C0010346	hsa:3458	I	IFNG	Crohn Disease	disease	C06	Disease or Syndrome	12
+C0010346	hsa:3592	I	IL12A	Crohn Disease	disease	C06	Disease or Syndrome	12
+C0010346	hsa:3593	I	IL12B	Crohn Disease	disease	C06	Disease or Syndrome	12
+C0010346	hsa:3676	I	ITGA4	Crohn Disease	disease	C06	Disease or Syndrome	12
+C0010346	hsa:7132	I	TNFRSF1A	Crohn Disease	disease	C06	Disease or Syndrome	12
+C0010346	hsa:3688	I	ITGB1	Crohn Disease	disease	C06	Disease or Syndrome	12
+C0010346	hsa:3689	I	ITGB2	Crohn Disease	disease	C06	Disease or Syndrome	12
+C0010346	hsa:3606	I	IL18	Crohn Disease	disease	C06	Disease or Syndrome	12
+C0021390	hsa:7124	I	TNF	Inflammatory Bowel Diseases	group	C06	Disease or Syndrome	18
+C0021390	hsa:4790	I	NFKB1	Inflammatory Bowel Diseases	group	C06	Disease or Syndrome	18
+C0021390	hsa:3569	I	IL6	Inflammatory Bowel Diseases	group	C06	Disease or Syndrome	18
+C0021390	hsa:6097	I	RORC	Inflammatory Bowel Diseases	group	C06	Disease or Syndrome	18
+C0021390	hsa:958	I	CD40	Inflammatory Bowel Diseases	group	C06	Disease or Syndrome	18
+C0021390	hsa:7292	I	TNFSF4	Inflammatory Bowel Diseases	group	C06	Disease or Syndrome	18
+C0021390	hsa:5530	I	PPP3CA	Inflammatory Bowel Diseases	group	C06	Disease or Syndrome	18
+C0021390	hsa:5532	I	PPP3CB	Inflammatory Bowel Diseases	group	C06	Disease or Syndrome	18
+C0021390	hsa:5533	I	PPP3CC	Inflammatory Bowel Diseases	group	C06	Disease or Syndrome	18
+C0021390	hsa:5534	I	PPP3R1	Inflammatory Bowel Diseases	group	C06	Disease or Syndrome	18
+C0021390	hsa:5535	I	PPP3R2	Inflammatory Bowel Diseases	group	C06	Disease or Syndrome	18
+C0021390	hsa:3458	I	IFNG	Inflammatory Bowel Diseases	group	C06	Disease or Syndrome	18
+C0021390	hsa:3592	I	IL12A	Inflammatory Bowel Diseases	group	C06	Disease or Syndrome	18
+C0021390	hsa:3593	I	IL12B	Inflammatory Bowel Diseases	group	C06	Disease or Syndrome	18
+C0021390	hsa:3676	I	ITGA4	Inflammatory Bowel Diseases	group	C06	Disease or Syndrome	18
+C0021390	hsa:7132	I	TNFRSF1A	Inflammatory Bowel Diseases	group	C06	Disease or Syndrome	18
+C0021390	hsa:3606	I	IL18	Inflammatory Bowel Diseases	group	C06	Disease or Syndrome	18
+C0021390	hsa:149233	I	IL23R	Inflammatory Bowel Diseases	group	C06	Disease or Syndrome	18
+C0009324	hsa:7124	I	TNF	Ulcerative Colitis	disease	C06	Disease or Syndrome	12
+C0009324	hsa:3718	I	JAK3	Ulcerative Colitis	disease	C06	Disease or Syndrome	12
+C0009324	hsa:3716	I	JAK1	Ulcerative Colitis	disease	C06	Disease or Syndrome	12
+C0009324	hsa:3596	I	IL13	Ulcerative Colitis	disease	C06	Disease or Syndrome	12
+C0009324	hsa:5530	I	PPP3CA	Ulcerative Colitis	disease	C06	Disease or Syndrome	12
+C0009324	hsa:5532	I	PPP3CB	Ulcerative Colitis	disease	C06	Disease or Syndrome	12
+C0009324	hsa:5533	I	PPP3CC	Ulcerative Colitis	disease	C06	Disease or Syndrome	12
+C0009324	hsa:5534	I	PPP3R1	Ulcerative Colitis	disease	C06	Disease or Syndrome	12
+C0009324	hsa:5535	I	PPP3R2	Ulcerative Colitis	disease	C06	Disease or Syndrome	12
+C0009324	hsa:3592	I	IL12A	Ulcerative Colitis	disease	C06	Disease or Syndrome	12
+C0009324	hsa:3676	I	ITGA4	Ulcerative Colitis	disease	C06	Disease or Syndrome	12
+C0009324	hsa:7132	I	TNFRSF1A	Ulcerative Colitis	disease	C06	Disease or Syndrome	12
+C0004943	hsa:7124	I	TNF	Behcet Syndrome	disease	C16;C11;C17;C07;C14	Disease or Syndrome	9
+C0004943	hsa:5144	I	PDE4D	Behcet Syndrome	disease	C16;C11;C17;C07;C14	Disease or Syndrome	9
+C0004943	hsa:5530	I	PPP3CA	Behcet Syndrome	disease	C16;C11;C17;C07;C14	Disease or Syndrome	9
+C0004943	hsa:5532	I	PPP3CB	Behcet Syndrome	disease	C16;C11;C17;C07;C14	Disease or Syndrome	9
+C0004943	hsa:5533	I	PPP3CC	Behcet Syndrome	disease	C16;C11;C17;C07;C14	Disease or Syndrome	9
+C0004943	hsa:5534	I	PPP3R1	Behcet Syndrome	disease	C16;C11;C17;C07;C14	Disease or Syndrome	9
+C0004943	hsa:5535	I	PPP3R2	Behcet Syndrome	disease	C16;C11;C17;C07;C14	Disease or Syndrome	9
+C0004943	hsa:6775	I	STAT4	Behcet Syndrome	disease	C16;C11;C17;C07;C14	Disease or Syndrome	9
+C0004943	hsa:3553	I	IL1B	Behcet Syndrome	disease	C16;C11;C17;C07;C14	Disease or Syndrome	9
+C0003851	hsa:7124	I	TNF	Arteriosclerosis Obliterans	disease	C14	Disease or Syndrome	13
+C0003851	hsa:1128	I	CHRM1	Arteriosclerosis Obliterans	disease	C14	Disease or Syndrome	13
+C0003851	hsa:1131	I	CHRM3	Arteriosclerosis Obliterans	disease	C14	Disease or Syndrome	13
+C0003851	hsa:7292	I	TNFSF4	Arteriosclerosis Obliterans	disease	C14	Disease or Syndrome	13
+C0003851	hsa:3383	I	ICAM1	Arteriosclerosis Obliterans	disease	C14	Disease or Syndrome	13
+C0003851	hsa:3156	I	HMGCR	Arteriosclerosis Obliterans	disease	C14	Disease or Syndrome	13
+C0003851	hsa:4547	I	MTTP	Arteriosclerosis Obliterans	disease	C14	Disease or Syndrome	13
+C0003851	hsa:38	I	ACAT1	Arteriosclerosis Obliterans	disease	C14	Disease or Syndrome	13
+C0003851	hsa:39	I	ACAT2	Arteriosclerosis Obliterans	disease	C14	Disease or Syndrome	13
+C0003851	hsa:6347	I	CCL2	Arteriosclerosis Obliterans	disease	C14	Disease or Syndrome	13
+C0003851	hsa:6720	I	SREBF1	Arteriosclerosis Obliterans	disease	C14	Disease or Syndrome	13
+C0003851	hsa:185	I	AGTR1	Arteriosclerosis Obliterans	disease	C14	Disease or Syndrome	13
+C0003851	hsa:4047	I	LSS	Arteriosclerosis Obliterans	disease	C14	Disease or Syndrome	13
+C0011570	hsa:7124	I	TNF	Mental Depression	disease	F01	Mental or Behavioral Dysfunction	4
+C0011570	hsa:150	I	ADRA2A	Mental Depression	disease	F01	Mental or Behavioral Dysfunction	4
+C0011570	hsa:152	I	ADRA2C	Mental Depression	disease	F01	Mental or Behavioral Dysfunction	4
+C0011570	hsa:3358	I	HTR2C	Mental Depression	disease	F01	Mental or Behavioral Dysfunction	4
+C0005586	hsa:7124	I	TNF	Bipolar Disorder	disease	F03	Mental or Behavioral Dysfunction	7
+C0005586	hsa:1128	I	CHRM1	Bipolar Disorder	disease	F03	Mental or Behavioral Dysfunction	7
+C0005586	hsa:1131	I	CHRM3	Bipolar Disorder	disease	F03	Mental or Behavioral Dysfunction	7
+C0005586	hsa:3269	I	HRH1	Bipolar Disorder	disease	F03	Mental or Behavioral Dysfunction	7
+C0005586	hsa:150	I	ADRA2A	Bipolar Disorder	disease	F03	Mental or Behavioral Dysfunction	7
+C0005586	hsa:152	I	ADRA2C	Bipolar Disorder	disease	F03	Mental or Behavioral Dysfunction	7
+C0005586	hsa:3358	I	HTR2C	Bipolar Disorder	disease	F03	Mental or Behavioral Dysfunction	7
+C0033860	hsa:7124	I	TNF	Psoriasis	disease	C17	Disease or Syndrome	15
+C0033860	hsa:3718	I	JAK3	Psoriasis	disease	C17	Disease or Syndrome	15
+C0033860	hsa:7297	I	TYK2	Psoriasis	disease	C17	Disease or Syndrome	15
+C0033860	hsa:6097	I	RORC	Psoriasis	disease	C17	Disease or Syndrome	15
+C0033860	hsa:958	I	CD40	Psoriasis	disease	C17	Disease or Syndrome	15
+C0033860	hsa:3716	I	JAK1	Psoriasis	disease	C17	Disease or Syndrome	15
+C0033860	hsa:3592	I	IL12A	Psoriasis	disease	C17	Disease or Syndrome	15
+C0033860	hsa:3593	I	IL12B	Psoriasis	disease	C17	Disease or Syndrome	15
+C0033860	hsa:3676	I	ITGA4	Psoriasis	disease	C17	Disease or Syndrome	15
+C0033860	hsa:7132	I	TNFRSF1A	Psoriasis	disease	C17	Disease or Syndrome	15
+C0033860	hsa:3688	I	ITGB1	Psoriasis	disease	C17	Disease or Syndrome	15
+C0033860	hsa:3689	I	ITGB2	Psoriasis	disease	C17	Disease or Syndrome	15
+C0033860	hsa:965	I	CD58	Psoriasis	disease	C17	Disease or Syndrome	15
+C0033860	hsa:914	I	CD2	Psoriasis	disease	C17	Disease or Syndrome	15
+C0033860	hsa:6364	I	CCL20	Psoriasis	disease	C17	Disease or Syndrome	15
+C2347126	hsa:7124	I	TNF	Microscopic Polyarteritis	disease	C20;C10;C14	Disease or Syndrome	1
+C0152081	hsa:7124	I	TNF	Pustular psoriasis	disease	C17	Disease or Syndrome	6
+C0152081	hsa:5530	I	PPP3CA	Pustular psoriasis	disease	C17	Disease or Syndrome	6
+C0152081	hsa:5532	I	PPP3CB	Pustular psoriasis	disease	C17	Disease or Syndrome	6
+C0152081	hsa:5533	I	PPP3CC	Pustular psoriasis	disease	C17	Disease or Syndrome	6
+C0152081	hsa:5534	I	PPP3R1	Pustular psoriasis	disease	C17	Disease or Syndrome	6
+C0152081	hsa:5535	I	PPP3R2	Pustular psoriasis	disease	C17	Disease or Syndrome	6
+C1384600	hsa:7124	I	TNF	Systemic onset juvenile chronic arthritis	disease	C17;C05;C20	Disease or Syndrome	4
+C1384600	hsa:3569	I	IL6	Systemic onset juvenile chronic arthritis	disease	C17;C05;C20	Disease or Syndrome	4
+C1384600	hsa:3553	I	IL1B	Systemic onset juvenile chronic arthritis	disease	C17;C05;C20	Disease or Syndrome	4
+C1384600	hsa:3606	I	IL18	Systemic onset juvenile chronic arthritis	disease	C17;C05;C20	Disease or Syndrome	4
+C0038013	hsa:7124	I	TNF	Ankylosing spondylitis	disease	C05	Disease or Syndrome	3
+C0038013	hsa:5743	I	PTGS2	Ankylosing spondylitis	disease	C05	Disease or Syndrome	3
+C0038013	hsa:7132	I	TNFRSF1A	Ankylosing spondylitis	disease	C05	Disease or Syndrome	3
+C0024117	hsa:7124	I	TNF	Chronic Obstructive Airway Disease	disease	C08	Disease or Syndrome	13
+C0024117	hsa:6335	I	SCN9A	Chronic Obstructive Airway Disease	disease	C08	Disease or Syndrome	13
+C0024117	hsa:1128	I	CHRM1	Chronic Obstructive Airway Disease	disease	C08	Disease or Syndrome	13
+C0024117	hsa:1131	I	CHRM3	Chronic Obstructive Airway Disease	disease	C08	Disease or Syndrome	13
+C0024117	hsa:3567	I	IL5	Chronic Obstructive Airway Disease	disease	C08	Disease or Syndrome	13
+C0024117	hsa:5144	I	PDE4D	Chronic Obstructive Airway Disease	disease	C08	Disease or Syndrome	13
+C0024117	hsa:760	I	CA2	Chronic Obstructive Airway Disease	disease	C08	Disease or Syndrome	13
+C0024117	hsa:771	I	CA12	Chronic Obstructive Airway Disease	disease	C08	Disease or Syndrome	13
+C0024117	hsa:136	I	ADORA2B	Chronic Obstructive Airway Disease	disease	C08	Disease or Syndrome	13
+C0024117	hsa:3576	I	IL8	Chronic Obstructive Airway Disease	disease	C08	Disease or Syndrome	13
+C0024117	hsa:2908	I	NR3C1	Chronic Obstructive Airway Disease	disease	C08	Disease or Syndrome	13
+C0024117	hsa:3551	I	IKBKB	Chronic Obstructive Airway Disease	disease	C08	Disease or Syndrome	13
+C0024117	hsa:3579	I	CXCR2	Chronic Obstructive Airway Disease	disease	C08	Disease or Syndrome	13
+C0014544	hsa:7124	I	TNF	Epilepsy	disease	C10	Disease or Syndrome	21
+C0014544	hsa:9734	I	HDAC9	Epilepsy	disease	C10	Disease or Syndrome	21
+C0014544	hsa:9759	I	HDAC4	Epilepsy	disease	C10	Disease or Syndrome	21
+C0014544	hsa:3065	I	HDAC1	Epilepsy	disease	C10	Disease or Syndrome	21
+C0014544	hsa:8841	I	HDAC3	Epilepsy	disease	C10	Disease or Syndrome	21
+C0014544	hsa:3066	I	HDAC2	Epilepsy	disease	C10	Disease or Syndrome	21
+C0014544	hsa:55869	I	HDAC8	Epilepsy	disease	C10	Disease or Syndrome	21
+C0014544	hsa:83933	I	HDAC10	Epilepsy	disease	C10	Disease or Syndrome	21
+C0014544	hsa:51564	I	HDAC7	Epilepsy	disease	C10	Disease or Syndrome	21
+C0014544	hsa:10013	I	HDAC6	Epilepsy	disease	C10	Disease or Syndrome	21
+C0014544	hsa:10014	I	HDAC5	Epilepsy	disease	C10	Disease or Syndrome	21
+C0014544	hsa:3146	I	HMGB1	Epilepsy	disease	C10	Disease or Syndrome	21
+C0014544	hsa:6335	I	SCN9A	Epilepsy	disease	C10	Disease or Syndrome	21
+C0014544	hsa:3553	I	IL1B	Epilepsy	disease	C10	Disease or Syndrome	21
+C0014544	hsa:775	I	CACNA1C	Epilepsy	disease	C10	Disease or Syndrome	21
+C0014544	hsa:760	I	CA2	Epilepsy	disease	C10	Disease or Syndrome	21
+C0014544	hsa:771	I	CA12	Epilepsy	disease	C10	Disease or Syndrome	21
+C0014544	hsa:776	I	CACNA1D	Epilepsy	disease	C10	Disease or Syndrome	21
+C0014544	hsa:9900	I	SV2A	Epilepsy	disease	C10	Disease or Syndrome	21
+C0014544	hsa:18	I	ABAT	Epilepsy	disease	C10	Disease or Syndrome	21
+C0014544	hsa:7915	I	ALDH5A1	Epilepsy	disease	C10	Disease or Syndrome	21
+C0242488	hsa:7124	I	TNF	Acute Lung Injury	disease	C08	Injury or Poisoning	1
+C0264716	hsa:7124	I	TNF	Chronic heart failure	disease	C14	Disease or Syndrome	2
+C0264716	hsa:57657	I	HCN3	Chronic heart failure	disease	C14	Disease or Syndrome	2
+C0949691	hsa:7124	I	TNF	Spondylarthropathies	group	C05	Disease or Syndrome	1
+C0748052	hsa:7124	I	TNF	Erythrodermic psoriasis	disease	C17	Disease or Syndrome	6
+C0748052	hsa:5530	I	PPP3CA	Erythrodermic psoriasis	disease	C17	Disease or Syndrome	6
+C0748052	hsa:5532	I	PPP3CB	Erythrodermic psoriasis	disease	C17	Disease or Syndrome	6
+C0748052	hsa:5533	I	PPP3CC	Erythrodermic psoriasis	disease	C17	Disease or Syndrome	6
+C0748052	hsa:5534	I	PPP3R1	Erythrodermic psoriasis	disease	C17	Disease or Syndrome	6
+C0748052	hsa:5535	I	PPP3R2	Erythrodermic psoriasis	disease	C17	Disease or Syndrome	6
+C0085435	hsa:7124	I	TNF	Arthritis, Reactive	disease	C01;C05	Disease or Syndrome	3
+C0085435	hsa:6775	I	STAT4	Arthritis, Reactive	disease	C01;C05	Disease or Syndrome	3
+C0085435	hsa:3553	I	IL1B	Arthritis, Reactive	disease	C01;C05	Disease or Syndrome	3
+C0042384	hsa:7124	I	TNF	Vasculitis	disease	C14	Disease or Syndrome	1
+C0079773	hsa:9734	I	HDAC9	Lymphoma, T-Cell, Cutaneous	disease	C04;C20;C15	Neoplastic Process	12
+C0079773	hsa:9759	I	HDAC4	Lymphoma, T-Cell, Cutaneous	disease	C04;C20;C15	Neoplastic Process	12
+C0079773	hsa:3065	I	HDAC1	Lymphoma, T-Cell, Cutaneous	disease	C04;C20;C15	Neoplastic Process	12
+C0079773	hsa:8841	I	HDAC3	Lymphoma, T-Cell, Cutaneous	disease	C04;C20;C15	Neoplastic Process	12
+C0079773	hsa:3066	I	HDAC2	Lymphoma, T-Cell, Cutaneous	disease	C04;C20;C15	Neoplastic Process	12
+C0079773	hsa:55869	I	HDAC8	Lymphoma, T-Cell, Cutaneous	disease	C04;C20;C15	Neoplastic Process	12
+C0079773	hsa:83933	I	HDAC10	Lymphoma, T-Cell, Cutaneous	disease	C04;C20;C15	Neoplastic Process	12
+C0079773	hsa:51564	I	HDAC7	Lymphoma, T-Cell, Cutaneous	disease	C04;C20;C15	Neoplastic Process	12
+C0079773	hsa:10013	I	HDAC6	Lymphoma, T-Cell, Cutaneous	disease	C04;C20;C15	Neoplastic Process	12
+C0079773	hsa:10014	I	HDAC5	Lymphoma, T-Cell, Cutaneous	disease	C04;C20;C15	Neoplastic Process	12
+C0079773	hsa:79885	I	HDAC11	Lymphoma, T-Cell, Cutaneous	disease	C04;C20;C15	Neoplastic Process	12
+C0079773	hsa:914	I	CD2	Lymphoma, T-Cell, Cutaneous	disease	C04;C20;C15	Neoplastic Process	12
+C0023487	hsa:9734	I	HDAC9	Acute Promyelocytic Leukemia	disease	C04	Neoplastic Process	10
+C0023487	hsa:9759	I	HDAC4	Acute Promyelocytic Leukemia	disease	C04	Neoplastic Process	10
+C0023487	hsa:3065	I	HDAC1	Acute Promyelocytic Leukemia	disease	C04	Neoplastic Process	10
+C0023487	hsa:8841	I	HDAC3	Acute Promyelocytic Leukemia	disease	C04	Neoplastic Process	10
+C0023487	hsa:3066	I	HDAC2	Acute Promyelocytic Leukemia	disease	C04	Neoplastic Process	10
+C0023487	hsa:55869	I	HDAC8	Acute Promyelocytic Leukemia	disease	C04	Neoplastic Process	10
+C0023487	hsa:83933	I	HDAC10	Acute Promyelocytic Leukemia	disease	C04	Neoplastic Process	10
+C0023487	hsa:51564	I	HDAC7	Acute Promyelocytic Leukemia	disease	C04	Neoplastic Process	10
+C0023487	hsa:10013	I	HDAC6	Acute Promyelocytic Leukemia	disease	C04	Neoplastic Process	10
+C0023487	hsa:10014	I	HDAC5	Acute Promyelocytic Leukemia	disease	C04	Neoplastic Process	10
+C0027662	hsa:5979	I	RET	Multiple Endocrine Neoplasia	disease	C16;C04;C19	Neoplastic Process	1
+C0026691	hsa:5743	I	PTGS2	Mucocutaneous Lymph Node Syndrome	disease	C17;C15;C14	Disease or Syndrome	1
+C0596240	hsa:5743	I	PTGS2	Cancer Pain	phenotype	C23	Sign or Symptom	1
+C0333559	hsa:5743	I	PTGS2	Infarction, Lacunar	disease	C23;C10;C14	Disease or Syndrome	1
+C0024031	hsa:5743	I	PTGS2	Low Back Pain	phenotype	C23	Sign or Symptom	1
+C0234251	hsa:5743	I	PTGS2	Inflammatory pain	phenotype	C23	Sign or Symptom	1
+C0040038	hsa:5743	I	PTGS2	Thromboembolism	phenotype	C14	Pathologic Function	5
+C0040038	hsa:2147	I	F2	Thromboembolism	phenotype	C14	Pathologic Function	5
+C0040038	hsa:2155	I	F7	Thromboembolism	phenotype	C14	Pathologic Function	5
+C0040038	hsa:2159	I	F10	Thromboembolism	phenotype	C14	Pathologic Function	5
+C0040038	hsa:64805	I	P2RY12	Thromboembolism	phenotype	C14	Pathologic Function	5
+C0151744	hsa:5743	I	PTGS2	Myocardial Ischemia	disease	C14	Disease or Syndrome	8
+C0151744	hsa:2147	I	F2	Myocardial Ischemia	disease	C14	Disease or Syndrome	8
+C0151744	hsa:2155	I	F7	Myocardial Ischemia	disease	C14	Disease or Syndrome	8
+C0151744	hsa:2159	I	F10	Myocardial Ischemia	disease	C14	Disease or Syndrome	8
+C0151744	hsa:185	I	AGTR1	Myocardial Ischemia	disease	C14	Disease or Syndrome	8
+C0151744	hsa:776	I	CACNA1D	Myocardial Ischemia	disease	C14	Disease or Syndrome	8
+C0151744	hsa:64805	I	P2RY12	Myocardial Ischemia	disease	C14	Disease or Syndrome	8
+C0151744	hsa:154	I	ADRB2	Myocardial Ischemia	disease	C14	Disease or Syndrome	8
+C1531624	hsa:5743	I	PTGS2	Cardioembolic stroke	disease		Disease or Syndrome	6
+C1531624	hsa:2147	I	F2	Cardioembolic stroke	disease		Disease or Syndrome	6
+C1531624	hsa:2155	I	F7	Cardioembolic stroke	disease		Disease or Syndrome	6
+C1531624	hsa:2159	I	F10	Cardioembolic stroke	disease		Disease or Syndrome	6
+C1531624	hsa:1728	I	NQO1	Cardioembolic stroke	disease		Disease or Syndrome	6
+C1531624	hsa:79001	I	VKORC1	Cardioembolic stroke	disease		Disease or Syndrome	6
+C0007786	hsa:5743	I	PTGS2	Brain Ischemia	disease	C10;C14	Disease or Syndrome	2
+C0007786	hsa:64805	I	P2RY12	Brain Ischemia	disease	C10;C14	Disease or Syndrome	2
+C0740394	hsa:5743	I	PTGS2	Hyperuricemia	disease	C23	Disease or Syndrome	1
+C0013390	hsa:5743	I	PTGS2	Dysmenorrhea	phenotype	C23	Disease or Syndrome	1
+C0007787	hsa:5743	I	PTGS2	Transient Ischemic Attack	disease	C10;C14	Disease or Syndrome	2
+C0007787	hsa:64805	I	P2RY12	Transient Ischemic Attack	disease	C10;C14	Disease or Syndrome	2
+C1704436	hsa:5743	I	PTGS2	Peripheral Arterial Diseases	group	C14	Disease or Syndrome	4
+C1704436	hsa:2147	I	F2	Peripheral Arterial Diseases	group	C14	Disease or Syndrome	4
+C1704436	hsa:64805	I	P2RY12	Peripheral Arterial Diseases	group	C14	Disease or Syndrome	4
+C1704436	hsa:3358	I	HTR2C	Peripheral Arterial Diseases	group	C14	Disease or Syndrome	4
+C0030193	hsa:5743	I	PTGS2	Pain	phenotype	C23	Sign or Symptom	1
+C0015967	hsa:5743	I	PTGS2	Fever	phenotype	C23	Sign or Symptom	1
+C0013274	hsa:5743	I	PTGS2	Patent ductus arteriosus	disease	C16;C14	Congenital Abnormality	1
+C0243026	hsa:4790	I	NFKB1	Sepsis	disease	C23;C01	Disease or Syndrome	1
+C0011881	hsa:3569	I	IL6	Diabetic Nephropathy	disease	C13;C12;C19	Disease or Syndrome	2
+C0011881	hsa:185	I	AGTR1	Diabetic Nephropathy	disease	C13;C12;C19	Disease or Syndrome	2
+C0017531	hsa:3569	I	IL6	Angiolymphoid hyperplasia	disease	C20;C15	Disease or Syndrome	2
+C0017531	hsa:3570	I	IL6R	Angiolymphoid hyperplasia	disease	C20;C15	Disease or Syndrome	2
+C0020542	hsa:3569	I	IL6	Pulmonary Hypertension	phenotype	C08	Pathologic Function	6
+C0020542	hsa:6093	I	ROCK1	Pulmonary Hypertension	phenotype	C08	Pathologic Function	6
+C0020542	hsa:9475	I	ROCK2	Pulmonary Hypertension	phenotype	C08	Pathologic Function	6
+C0020542	hsa:1910	I	EDNRB	Pulmonary Hypertension	phenotype	C08	Pathologic Function	6
+C0020542	hsa:23411	I	SIRT1	Pulmonary Hypertension	phenotype	C08	Pathologic Function	6
+C0020542	hsa:9451	I	EIF2AK3	Pulmonary Hypertension	phenotype	C08	Pathologic Function	6
+C2973725	hsa:3569	I	IL6	Pulmonary arterial hypertension	disease	C08;C14	Disease or Syndrome	6
+C2973725	hsa:6093	I	ROCK1	Pulmonary arterial hypertension	disease	C08;C14	Disease or Syndrome	6
+C2973725	hsa:9475	I	ROCK2	Pulmonary arterial hypertension	disease	C08;C14	Disease or Syndrome	6
+C2973725	hsa:1910	I	EDNRB	Pulmonary arterial hypertension	disease	C08;C14	Disease or Syndrome	6
+C2973725	hsa:23411	I	SIRT1	Pulmonary arterial hypertension	disease	C08;C14	Disease or Syndrome	6
+C2973725	hsa:9451	I	EIF2AK3	Pulmonary arterial hypertension	disease	C08;C14	Disease or Syndrome	6
+C0039483	hsa:3569	I	IL6	Giant Cell Arteritis	disease	C17;C20;C10;C14	Disease or Syndrome	1
+C0006625	hsa:3569	I	IL6	Cachexia	phenotype	C23	Sign or Symptom	1
+C0026769	hsa:6097	I	RORC	Multiple Sclerosis	disease	C20;C10	Disease or Syndrome	20
+C0026769	hsa:1493	I	CTLA4	Multiple Sclerosis	disease	C20;C10	Disease or Syndrome	20
+C0026769	hsa:3592	I	IL12A	Multiple Sclerosis	disease	C20;C10	Disease or Syndrome	20
+C0026769	hsa:3593	I	IL12B	Multiple Sclerosis	disease	C20;C10	Disease or Syndrome	20
+C0026769	hsa:3676	I	ITGA4	Multiple Sclerosis	disease	C20;C10	Disease or Syndrome	20
+C0026769	hsa:3688	I	ITGB1	Multiple Sclerosis	disease	C20;C10	Disease or Syndrome	20
+C0026769	hsa:9817	I	KEAP1	Multiple Sclerosis	disease	C20;C10	Disease or Syndrome	20
+C0026769	hsa:3105	I	HLA-A	Multiple Sclerosis	disease	C20;C10	Disease or Syndrome	20
+C0026769	hsa:3106	I	HLA-B	Multiple Sclerosis	disease	C20;C10	Disease or Syndrome	20
+C0026769	hsa:3108	I	HLA-DMA	Multiple Sclerosis	disease	C20;C10	Disease or Syndrome	20
+C0026769	hsa:3109	I	HLA-DMB	Multiple Sclerosis	disease	C20;C10	Disease or Syndrome	20
+C0026769	hsa:3113	I	HLA-DPA1	Multiple Sclerosis	disease	C20;C10	Disease or Syndrome	20
+C0026769	hsa:3115	I	HLA-DPB1	Multiple Sclerosis	disease	C20;C10	Disease or Syndrome	20
+C0026769	hsa:3117	I	HLA-DQA1	Multiple Sclerosis	disease	C20;C10	Disease or Syndrome	20
+C0026769	hsa:3119	I	HLA-DQB1	Multiple Sclerosis	disease	C20;C10	Disease or Syndrome	20
+C0026769	hsa:3122	I	HLA-DRA	Multiple Sclerosis	disease	C20;C10	Disease or Syndrome	20
+C0026769	hsa:3123	I	HLA-DRB1	Multiple Sclerosis	disease	C20;C10	Disease or Syndrome	20
+C0026769	hsa:3125	I	HLA-DRB3	Multiple Sclerosis	disease	C20;C10	Disease or Syndrome	20
+C0026769	hsa:3126	I	HLA-DRB4	Multiple Sclerosis	disease	C20;C10	Disease or Syndrome	20
+C0026769	hsa:3127	I	HLA-DRB5	Multiple Sclerosis	disease	C20;C10	Disease or Syndrome	20
+C0001080	hsa:2261	I	FGFR3	Achondroplasia	disease	C16;C05	Congenital Abnormality	1
+C4721806	hsa:6469	I	SHH	Carcinoma, Basal Cell	disease	C04	Neoplastic Process	4
+C4721806	hsa:50846	I	DHH	Carcinoma, Basal Cell	disease	C04	Neoplastic Process	4
+C4721806	hsa:5727	I	PTCH1	Carcinoma, Basal Cell	disease	C04	Neoplastic Process	4
+C4721806	hsa:6608	I	SMO	Carcinoma, Basal Cell	disease	C04	Neoplastic Process	4
+C0008479	hsa:3480	I	IGF1R	Chondrosarcoma	disease	C04	Neoplastic Process	1
+C1328479	hsa:3480	I	IGF1R	Pancreatic Endocrine Carcinoma	disease	C06;C04;C19	Neoplastic Process	1
+C0206754	hsa:3480	I	IGF1R	Neuroendocrine Tumors	group	C04	Neoplastic Process	1
+C1458155	hsa:3480	I	IGF1R	Mammary Neoplasms	group	C04;C17	Neoplastic Process	4
+C1458155	hsa:2064	I	ERBB2	Mammary Neoplasms	group	C04;C17	Neoplastic Process	4
+C1458155	hsa:2099	I	ESR1	Mammary Neoplasms	group	C04;C17	Neoplastic Process	4
+C1458155	hsa:2100	I	ESR2	Mammary Neoplasms	group	C04;C17	Neoplastic Process	4
+C0812413	hsa:7298	I	TYMS	Malignant Pleural Mesothelioma	disease	C04;C08	Neoplastic Process	3
+C0812413	hsa:1719	I	DHFR	Malignant Pleural Mesothelioma	disease	C04;C08	Neoplastic Process	3
+C0812413	hsa:1493	I	CTLA4	Malignant Pleural Mesothelioma	disease	C04;C08	Neoplastic Process	3
+C1168401	hsa:1956	I	EGFR	Squamous cell carcinoma of the head and neck	disease	C04	Neoplastic Process	1
+C0242383	hsa:7422	I	VEGFA	Age related macular degeneration	disease	C11	Disease or Syndrome	3
+C0242383	hsa:7423	I	VEGFB	Age related macular degeneration	disease	C11	Disease or Syndrome	3
+C0242383	hsa:5228	I	PGF	Age related macular degeneration	disease	C11	Disease or Syndrome	3
+C0006118	hsa:7422	I	VEGFA	Brain Neoplasms	group	C04;C10	Neoplastic Process	2
+C0006118	hsa:6774	I	STAT3	Brain Neoplasms	group	C04;C10	Neoplastic Process	2
+C0205768	hsa:2475	I	MTOR	Subependymal Giant Cell Astrocytoma	disease	C04	Neoplastic Process	1
+C0241961	hsa:2475	I	MTOR	Angiomyolipoma of kidney	disease	C04;C13;C12	Neoplastic Process	1
+C0751674	hsa:2475	I	MTOR	Lymphangioleiomyomatosis	disease	C04;C20;C15	Neoplastic Process	1
+C0041341	hsa:2475	I	MTOR	Tuberous Sclerosis	disease	C16;C04;C10	Neoplastic Process	2
+C0041341	hsa:7471	I	WNT1	Tuberous Sclerosis	disease	C16;C04;C10	Neoplastic Process	2
+C4724394	hsa:2475	I	MTOR	Metastatic Soft Tissue Sarcoma	disease		Neoplastic Process	1
+C0018129	hsa:2475	I	MTOR	Graft Rejection	phenotype		Organ or Tissue Function	7
+C0018129	hsa:5530	I	PPP3CA	Graft Rejection	phenotype		Organ or Tissue Function	7
+C0018129	hsa:5532	I	PPP3CB	Graft Rejection	phenotype		Organ or Tissue Function	7
+C0018129	hsa:5533	I	PPP3CC	Graft Rejection	phenotype		Organ or Tissue Function	7
+C0018129	hsa:5534	I	PPP3R1	Graft Rejection	phenotype		Organ or Tissue Function	7
+C0018129	hsa:5535	I	PPP3R2	Graft Rejection	phenotype		Organ or Tissue Function	7
+C0018129	hsa:3559	I	IL2RA	Graft Rejection	phenotype		Organ or Tissue Function	7
+C0027819	hsa:238	I	ALK	Neuroblastoma	disease	C04	Neoplastic Process	1
+C0041182	hsa:1719	I	DHFR	Trophoblastic Neoplasms	group	C04;C13	Neoplastic Process	1
+C0524851	hsa:673	I	BRAF	Neurodegenerative Disorders	group	C10	Disease or Syndrome	1
+C0153452	hsa:4072	I	EPCAM	Malignant neoplasm of gallbladder	disease	C06;C04	Neoplastic Process	1
+C0019163	hsa:4072	I	EPCAM	Hepatitis B	disease	C06;C01	Disease or Syndrome	2
+C0019163	hsa:2237	I	FEN1	Hepatitis B	disease	C06;C01	Disease or Syndrome	2
+C0019196	hsa:4072	I	EPCAM	Hepatitis C	disease	C06;C01	Disease or Syndrome	1
+C0032580	hsa:324	I	APC	Adenomatous Polyposis Coli	disease	C16;C06;C04	Neoplastic Process	2
+C0032580	hsa:7471	I	WNT1	Adenomatous Polyposis Coli	disease	C16;C06;C04	Neoplastic Process	2
+C0005940	hsa:3685	I	ITGAV	Bone Diseases	group	C05	Disease or Syndrome	2
+C0005940	hsa:3690	I	ITGB3	Bone Diseases	group	C05	Disease or Syndrome	2
+C1861923	hsa:6774	I	STAT3	Acampomelic Campomelic Dysplasia	disease	C16;C05	Disease or Syndrome	1
+C0037286	hsa:7471	I	WNT1	Skin Neoplasms	group	C04;C17	Neoplastic Process	1
+C0687150	hsa:7471	I	WNT1	Parathyroid Gland Adenocarcinoma	disease	C04;C19	Neoplastic Process	1
+C0024137	hsa:1436	I	CSF1R	Lupus Erythematosus, Cutaneous	disease	C17	Disease or Syndrome	1
+C2937421	hsa:367	I	AR	Prostatic Hyperplasia	disease	C12	Disease or Syndrome	2
+C2937421	hsa:6715	I	SRD5A1	Prostatic Hyperplasia	disease	C12	Disease or Syndrome	2
+C3658266	hsa:367	I	AR	Prostatic Cancer, Castration-Resistant	disease	C04;C12	Neoplastic Process	1
+C0741682	hsa:2099	I	ESR1	Premenopausal breast cancer	disease		Neoplastic Process	2
+C0741682	hsa:2100	I	ESR2	Premenopausal breast cancer	disease		Neoplastic Process	2
+C0020445	hsa:255738	I	PCSK9	Hypercholesterolemia, Familial	disease	C16;C18	Disease or Syndrome	3
+C0020445	hsa:3156	I	HMGCR	Hypercholesterolemia, Familial	disease	C16;C18	Disease or Syndrome	3
+C0020445	hsa:4547	I	MTTP	Hypercholesterolemia, Familial	disease	C16;C18	Disease or Syndrome	3
+C0242339	hsa:255738	I	PCSK9	Dyslipidemias	group	C18	Disease or Syndrome	7
+C0242339	hsa:3156	I	HMGCR	Dyslipidemias	group	C18	Disease or Syndrome	7
+C0242339	hsa:38	I	ACAT1	Dyslipidemias	group	C18	Disease or Syndrome	7
+C0242339	hsa:39	I	ACAT2	Dyslipidemias	group	C18	Disease or Syndrome	7
+C0242339	hsa:6720	I	SREBF1	Dyslipidemias	group	C18	Disease or Syndrome	7
+C0242339	hsa:6721	I	SREBF2	Dyslipidemias	group	C18	Disease or Syndrome	7
+C0242339	hsa:19	I	ABCA1	Dyslipidemias	group	C18	Disease or Syndrome	7
+C0038525	hsa:6093	I	ROCK1	Subarachnoid Hemorrhage	disease	C23;C10;C14	Disease or Syndrome	2
+C0038525	hsa:9475	I	ROCK2	Subarachnoid Hemorrhage	disease	C23;C10;C14	Disease or Syndrome	2
+C0017601	hsa:6093	I	ROCK1	Glaucoma	disease	C11	Disease or Syndrome	5
+C0017601	hsa:9475	I	ROCK2	Glaucoma	disease	C11	Disease or Syndrome	5
+C0017601	hsa:760	I	CA2	Glaucoma	disease	C11	Disease or Syndrome	5
+C0017601	hsa:771	I	CA12	Glaucoma	disease	C11	Disease or Syndrome	5
+C0017601	hsa:154	I	ADRB2	Glaucoma	disease	C11	Disease or Syndrome	5
+C0028840	hsa:6093	I	ROCK1	Ocular Hypertension	disease	C11	Disease or Syndrome	3
+C0028840	hsa:9475	I	ROCK2	Ocular Hypertension	disease	C11	Disease or Syndrome	3
+C0028840	hsa:154	I	ADRB2	Ocular Hypertension	disease	C11	Disease or Syndrome	3
+C0027404	hsa:4129	I	MAOB	Narcolepsy	disease	C10;F03	Disease or Syndrome	1
+C0020649	hsa:4129	I	MAOB	Hypotension	phenotype	C14	Finding	1
+C0020651	hsa:4129	I	MAOB	Hypotension, Orthostatic	phenotype	C10;C14	Disease or Syndrome	1
+C0025281	hsa:135	I	ADORA2A	Meniere Disease	disease	C09	Disease or Syndrome	5
+C0025281	hsa:3269	I	HRH1	Meniere Disease	disease	C09	Disease or Syndrome	5
+C0025281	hsa:760	I	CA2	Meniere Disease	disease	C09	Disease or Syndrome	5
+C0025281	hsa:771	I	CA12	Meniere Disease	disease	C09	Disease or Syndrome	5
+C0025281	hsa:136	I	ADORA2B	Meniere Disease	disease	C09	Disease or Syndrome	5
+C0022104	hsa:6335	I	SCN9A	Irritable Bowel Syndrome	disease	C06	Disease or Syndrome	3
+C0022104	hsa:1128	I	CHRM1	Irritable Bowel Syndrome	disease	C06	Disease or Syndrome	3
+C0022104	hsa:1131	I	CHRM3	Irritable Bowel Syndrome	disease	C06	Disease or Syndrome	3
+C3714625	hsa:6335	I	SCN9A	Neuropathic pain	phenotype	C23	Finding	3
+C3714625	hsa:775	I	CACNA1C	Neuropathic pain	phenotype	C23	Finding	3
+C3714625	hsa:776	I	CACNA1D	Neuropathic pain	phenotype	C23	Finding	3
+C0003811	hsa:6335	I	SCN9A	Cardiac Arrhythmia	phenotype	C23;C14	Disease or Syndrome	13
+C0003811	hsa:775	I	CACNA1C	Cardiac Arrhythmia	phenotype	C23;C14	Disease or Syndrome	13
+C0003811	hsa:2147	I	F2	Cardiac Arrhythmia	phenotype	C23;C14	Disease or Syndrome	13
+C0003811	hsa:2155	I	F7	Cardiac Arrhythmia	phenotype	C23;C14	Disease or Syndrome	13
+C0003811	hsa:2159	I	F10	Cardiac Arrhythmia	phenotype	C23;C14	Disease or Syndrome	13
+C0003811	hsa:776	I	CACNA1D	Cardiac Arrhythmia	phenotype	C23;C14	Disease or Syndrome	13
+C0003811	hsa:476	I	ATP1A1	Cardiac Arrhythmia	phenotype	C23;C14	Disease or Syndrome	13
+C0003811	hsa:478	I	ATP1A3	Cardiac Arrhythmia	phenotype	C23;C14	Disease or Syndrome	13
+C0003811	hsa:481	I	ATP1B1	Cardiac Arrhythmia	phenotype	C23;C14	Disease or Syndrome	13
+C0003811	hsa:154	I	ADRB2	Cardiac Arrhythmia	phenotype	C23;C14	Disease or Syndrome	13
+C0003811	hsa:5243	I	ABCB1	Cardiac Arrhythmia	phenotype	C23;C14	Disease or Syndrome	13
+C0003811	hsa:3767	I	KCNJ11	Cardiac Arrhythmia	phenotype	C23;C14	Disease or Syndrome	13
+C0003811	hsa:3784	I	KCNQ1	Cardiac Arrhythmia	phenotype	C23;C14	Disease or Syndrome	13
+C3843755	hsa:6335	I	SCN9A	Gastric or duodenal ulcer	disease		Disease or Syndrome	3
+C3843755	hsa:1128	I	CHRM1	Gastric or duodenal ulcer	disease		Disease or Syndrome	3
+C3843755	hsa:1131	I	CHRM3	Gastric or duodenal ulcer	disease		Disease or Syndrome	3
+C0030920	hsa:1128	I	CHRM1	Peptic Ulcer	disease	C06	Disease or Syndrome	2
+C0030920	hsa:1131	I	CHRM3	Peptic Ulcer	disease	C06	Disease or Syndrome	2
+C0036341	hsa:1128	I	CHRM1	Schizophrenia	disease	F03	Mental or Behavioral Dysfunction	6
+C0036341	hsa:1131	I	CHRM3	Schizophrenia	disease	F03	Mental or Behavioral Dysfunction	6
+C0036341	hsa:3269	I	HRH1	Schizophrenia	disease	F03	Mental or Behavioral Dysfunction	6
+C0036341	hsa:150	I	ADRA2A	Schizophrenia	disease	F03	Mental or Behavioral Dysfunction	6
+C0036341	hsa:152	I	ADRA2C	Schizophrenia	disease	F03	Mental or Behavioral Dysfunction	6
+C0036341	hsa:3358	I	HTR2C	Schizophrenia	disease	F03	Mental or Behavioral Dysfunction	6
+C0008677	hsa:1128	I	CHRM1	Bronchitis, Chronic	disease	C01;C08	Disease or Syndrome	3
+C0008677	hsa:1131	I	CHRM3	Bronchitis, Chronic	disease	C01;C08	Disease or Syndrome	3
+C0008677	hsa:3269	I	HRH1	Bronchitis, Chronic	disease	C01;C08	Disease or Syndrome	3
+C0011991	hsa:1131	I	CHRM3	Diarrhea	phenotype	C23	Sign or Symptom	1
+C0740441	hsa:1131	I	CHRM3	Acute diarrhea	disease	C23	Disease or Syndrome	1
+C0087012	hsa:3737	I	KCNA2	Ataxia, Spinocerebellar	disease	C16;C10	Disease or Syndrome	1
+C2607914	hsa:3567	I	IL5	Allergic rhinitis (disorder)	disease	C08;C20;C09	Disease or Syndrome	6
+C2607914	hsa:6915	I	TBXA2R	Allergic rhinitis (disorder)	disease	C08;C20;C09	Disease or Syndrome	6
+C2607914	hsa:5144	I	PDE4D	Allergic rhinitis (disorder)	disease	C08;C20;C09	Disease or Syndrome	6
+C2607914	hsa:3269	I	HRH1	Allergic rhinitis (disorder)	disease	C08;C20;C09	Disease or Syndrome	6
+C2607914	hsa:3565	I	IL4	Allergic rhinitis (disorder)	disease	C08;C20;C09	Disease or Syndrome	6
+C2607914	hsa:6850	I	SYK	Allergic rhinitis (disorder)	disease	C08;C20;C09	Disease or Syndrome	6
+C0009766	hsa:5144	I	PDE4D	Allergic Conjunctivitis	disease	C11;C20	Disease or Syndrome	7
+C0009766	hsa:3269	I	HRH1	Allergic Conjunctivitis	disease	C11;C20	Disease or Syndrome	7
+C0009766	hsa:5530	I	PPP3CA	Allergic Conjunctivitis	disease	C11;C20	Disease or Syndrome	7
+C0009766	hsa:5532	I	PPP3CB	Allergic Conjunctivitis	disease	C11;C20	Disease or Syndrome	7
+C0009766	hsa:5533	I	PPP3CC	Allergic Conjunctivitis	disease	C11;C20	Disease or Syndrome	7
+C0009766	hsa:5534	I	PPP3R1	Allergic Conjunctivitis	disease	C11;C20	Disease or Syndrome	7
+C0009766	hsa:5535	I	PPP3R2	Allergic Conjunctivitis	disease	C11;C20	Disease or Syndrome	7
+C0002792	hsa:3269	I	HRH1	anaphylaxis	phenotype	C20	Disease or Syndrome	1
+C0242422	hsa:3269	I	HRH1	Parkinsonian Disorders	group	C10	Disease or Syndrome	1
+C0009443	hsa:3269	I	HRH1	Common Cold	disease	C01;C08	Disease or Syndrome	1
+C0033771	hsa:3269	I	HRH1	Prurigo	disease	C17	Disease or Syndrome	1
+C0011609	hsa:3269	I	HRH1	Drug Eruptions	group	C17;C20;C25	Disease or Syndrome	1
+C0521465	hsa:3269	I	HRH1	Toxicoderma	disease	C17;C25	Disease or Syndrome	1
+C0018621	hsa:3269	I	HRH1	Hay fever	disease	C08;C20;C09	Disease or Syndrome	1
+C0338831	hsa:3269	I	HRH1	Manic	disease	F03	Mental or Behavioral Dysfunction	1
+C0042109	hsa:3269	I	HRH1	Urticaria	disease	C17;C20	Disease or Syndrome	1
+C0022577	hsa:3269	I	HRH1	Keratoconjunctivitis, Vernal	disease	C11;C20	Disease or Syndrome	6
+C0022577	hsa:5530	I	PPP3CA	Keratoconjunctivitis, Vernal	disease	C11;C20	Disease or Syndrome	6
+C0022577	hsa:5532	I	PPP3CB	Keratoconjunctivitis, Vernal	disease	C11;C20	Disease or Syndrome	6
+C0022577	hsa:5533	I	PPP3CC	Keratoconjunctivitis, Vernal	disease	C11;C20	Disease or Syndrome	6
+C0022577	hsa:5534	I	PPP3R1	Keratoconjunctivitis, Vernal	disease	C11;C20	Disease or Syndrome	6
+C0022577	hsa:5535	I	PPP3R2	Keratoconjunctivitis, Vernal	disease	C11;C20	Disease or Syndrome	6
+C0033774	hsa:3269	I	HRH1	Pruritus	phenotype	C23;C17	Finding	1
+C0162817	hsa:3269	I	HRH1	Skin Diseases, Eczematous	group	C17	Disease or Syndrome	1
+C0014742	hsa:3269	I	HRH1	Erythema Multiforme	disease	C17	Disease or Syndrome	1
+C0002994	hsa:3269	I	HRH1	Angioedema	phenotype	C17;C20;C14	Pathologic Function	2
+C0002994	hsa:727	I	C5	Angioedema	phenotype	C17;C20;C14	Pathologic Function	2
+C0035460	hsa:3269	I	HRH1	Rhinitis, Vasomotor	disease	C08;C09	Disease or Syndrome	1
+C0026603	hsa:3269	I	HRH1	Motion Sickness	disease	C23	Disease or Syndrome	1
+C0398650	hsa:6850	I	SYK	Immune thrombocytopenic purpura	disease	C23;C20;C15	Disease or Syndrome	1
+C0007194	hsa:5530	I	PPP3CA	Hypertrophic Cardiomyopathy	disease	C14	Disease or Syndrome	2
+C0007194	hsa:4773	I	NFATC2	Hypertrophic Cardiomyopathy	disease	C14	Disease or Syndrome	2
+C0002874	hsa:5530	I	PPP3CA	Aplastic Anemia	disease	C15	Disease or Syndrome	6
+C0002874	hsa:4773	I	NFATC2	Aplastic Anemia	disease	C15	Disease or Syndrome	6
+C0002874	hsa:5532	I	PPP3CB	Aplastic Anemia	disease	C15	Disease or Syndrome	6
+C0002874	hsa:5533	I	PPP3CC	Aplastic Anemia	disease	C15	Disease or Syndrome	6
+C0002874	hsa:5534	I	PPP3R1	Aplastic Anemia	disease	C15	Disease or Syndrome	6
+C0002874	hsa:5535	I	PPP3R2	Aplastic Anemia	disease	C15	Disease or Syndrome	6
+C0024143	hsa:5530	I	PPP3CA	Lupus Nephritis	disease	C13;C17;C12;C20	Disease or Syndrome	7
+C0024143	hsa:5532	I	PPP3CB	Lupus Nephritis	disease	C13;C17;C12;C20	Disease or Syndrome	7
+C0024143	hsa:5533	I	PPP3CC	Lupus Nephritis	disease	C13;C17;C12;C20	Disease or Syndrome	7
+C0024143	hsa:5534	I	PPP3R1	Lupus Nephritis	disease	C13;C17;C12;C20	Disease or Syndrome	7
+C0024143	hsa:5535	I	PPP3R2	Lupus Nephritis	disease	C13;C17;C12;C20	Disease or Syndrome	7
+C0024143	hsa:10673	I	TNFSF13B	Lupus Nephritis	disease	C13;C17;C12;C20	Disease or Syndrome	7
+C0024143	hsa:3458	I	IFNG	Lupus Nephritis	disease	C13;C17;C12;C20	Disease or Syndrome	7
+C0026896	hsa:5530	I	PPP3CA	Myasthenia Gravis	disease	C04;C20;C10	Disease or Syndrome	6
+C0026896	hsa:5532	I	PPP3CB	Myasthenia Gravis	disease	C04;C20;C10	Disease or Syndrome	6
+C0026896	hsa:5533	I	PPP3CC	Myasthenia Gravis	disease	C04;C20;C10	Disease or Syndrome	6
+C0026896	hsa:5534	I	PPP3R1	Myasthenia Gravis	disease	C04;C20;C10	Disease or Syndrome	6
+C0026896	hsa:5535	I	PPP3R2	Myasthenia Gravis	disease	C04;C20;C10	Disease or Syndrome	6
+C0026896	hsa:727	I	C5	Myasthenia Gravis	disease	C04;C20;C10	Disease or Syndrome	6
+C0085655	hsa:5530	I	PPP3CA	Polymyositis	disease	C05;C10	Disease or Syndrome	5
+C0085655	hsa:5532	I	PPP3CB	Polymyositis	disease	C05;C10	Disease or Syndrome	5
+C0085655	hsa:5533	I	PPP3CC	Polymyositis	disease	C05;C10	Disease or Syndrome	5
+C0085655	hsa:5534	I	PPP3R1	Polymyositis	disease	C05;C10	Disease or Syndrome	5
+C0085655	hsa:5535	I	PPP3R2	Polymyositis	disease	C05;C10	Disease or Syndrome	5
+C0027726	hsa:5530	I	PPP3CA	Nephrotic Syndrome	group	C13;C12	Disease or Syndrome	6
+C0027726	hsa:4773	I	NFATC2	Nephrotic Syndrome	group	C13;C12	Disease or Syndrome	6
+C0027726	hsa:5532	I	PPP3CB	Nephrotic Syndrome	group	C13;C12	Disease or Syndrome	6
+C0027726	hsa:5533	I	PPP3CC	Nephrotic Syndrome	group	C13;C12	Disease or Syndrome	6
+C0027726	hsa:5534	I	PPP3R1	Nephrotic Syndrome	group	C13;C12	Disease or Syndrome	6
+C0027726	hsa:5535	I	PPP3R2	Nephrotic Syndrome	group	C13;C12	Disease or Syndrome	6
+C0206061	hsa:5530	I	PPP3CA	Pneumonia, Interstitial	disease	C08	Disease or Syndrome	5
+C0206061	hsa:5532	I	PPP3CB	Pneumonia, Interstitial	disease	C08	Disease or Syndrome	5
+C0206061	hsa:5533	I	PPP3CC	Pneumonia, Interstitial	disease	C08	Disease or Syndrome	5
+C0206061	hsa:5534	I	PPP3R1	Pneumonia, Interstitial	disease	C08	Disease or Syndrome	5
+C0206061	hsa:5535	I	PPP3R2	Pneumonia, Interstitial	disease	C08	Disease or Syndrome	5
+C0025517	hsa:7099	I	TLR4	Metabolic Diseases	group	C18	Disease or Syndrome	1
+C1719672	hsa:7099	I	TLR4	Severe Sepsis	disease	C23;C01	Disease or Syndrome	1
+C0037231	hsa:10673	I	TNFSF13B	Sjogren-Larsson Syndrome	disease	C16;C18;C17	Disease or Syndrome	1
+C0036421	hsa:10673	I	TNFSF13B	Systemic Scleroderma	disease	C17	Disease or Syndrome	2
+C0036421	hsa:3570	I	IL6R	Systemic Scleroderma	disease	C17	Disease or Syndrome	2
+C0003864	hsa:3458	I	IFNG	Arthritis	disease	C05	Disease or Syndrome	1
+C0024115	hsa:3592	I	IL12A	Lung diseases	group	C08	Disease or Syndrome	2
+C0024115	hsa:3593	I	IL12B	Lung diseases	group	C08	Disease or Syndrome	2
+C0035222	hsa:3383	I	ICAM1	Respiratory Distress Syndrome, Adult	disease	C08	Disease or Syndrome	2
+C0035222	hsa:727	I	C5	Respiratory Distress Syndrome, Adult	disease	C08	Disease or Syndrome	2
+C0242966	hsa:3383	I	ICAM1	Systemic Inflammatory Response Syndrome	disease	C23	Disease or Syndrome	1
+C0020443	hsa:3156	I	HMGCR	Hypercholesterolemia	disease	C18	Disease or Syndrome	5
+C0020443	hsa:4547	I	MTTP	Hypercholesterolemia	disease	C18	Disease or Syndrome	5
+C0020443	hsa:2222	I	FDFT1	Hypercholesterolemia	disease	C18	Disease or Syndrome	5
+C0020443	hsa:38	I	ACAT1	Hypercholesterolemia	disease	C18	Disease or Syndrome	5
+C0020443	hsa:39	I	ACAT2	Hypercholesterolemia	disease	C18	Disease or Syndrome	5
+C0020538	hsa:3156	I	HMGCR	Hypertensive disease	group	C14	Disease or Syndrome	10
+C0020538	hsa:775	I	CACNA1C	Hypertensive disease	group	C14	Disease or Syndrome	10
+C0020538	hsa:150	I	ADRA2A	Hypertensive disease	group	C14	Disease or Syndrome	10
+C0020538	hsa:152	I	ADRA2C	Hypertensive disease	group	C14	Disease or Syndrome	10
+C0020538	hsa:185	I	AGTR1	Hypertensive disease	group	C14	Disease or Syndrome	10
+C0020538	hsa:776	I	CACNA1D	Hypertensive disease	group	C14	Disease or Syndrome	10
+C0020538	hsa:6558	I	SLC12A2	Hypertensive disease	group	C14	Disease or Syndrome	10
+C0020538	hsa:6337	I	SCNN1A	Hypertensive disease	group	C14	Disease or Syndrome	10
+C0020538	hsa:154	I	ADRB2	Hypertensive disease	group	C14	Disease or Syndrome	10
+C0020538	hsa:4925	I	NUCB2	Hypertensive disease	group	C14	Disease or Syndrome	10
+C0268731	hsa:3156	I	HMGCR	Renal glomerular disease	group	C23;C13;C12	Disease or Syndrome	8
+C0268731	hsa:775	I	CACNA1C	Renal glomerular disease	group	C23;C13;C12	Disease or Syndrome	8
+C0268731	hsa:2147	I	F2	Renal glomerular disease	group	C23;C13;C12	Disease or Syndrome	8
+C0268731	hsa:2155	I	F7	Renal glomerular disease	group	C23;C13;C12	Disease or Syndrome	8
+C0268731	hsa:2159	I	F10	Renal glomerular disease	group	C23;C13;C12	Disease or Syndrome	8
+C0268731	hsa:185	I	AGTR1	Renal glomerular disease	group	C23;C13;C12	Disease or Syndrome	8
+C0268731	hsa:776	I	CACNA1D	Renal glomerular disease	group	C23;C13;C12	Disease or Syndrome	8
+C0268731	hsa:6558	I	SLC12A2	Renal glomerular disease	group	C23;C13;C12	Disease or Syndrome	8
+C0020557	hsa:4547	I	MTTP	Hypertriglyceridemia	phenotype	C18	Disease or Syndrome	1
+C3665365	hsa:2222	I	FDFT1	Arteriosclerotic cardiovascular disease, NOS	disease	C14	Disease or Syndrome	1
+C0677501	hsa:4780	I	NFE2L2	Congenital Nephrogenic Diabetes Insipidus	disease	C13;C12	Disease or Syndrome	1
+C2316212	hsa:3553	I	IL1B	Cryopyrin-Associated Periodic Syndromes	disease	C16;C17	Disease or Syndrome	1
+C0020428	hsa:775	I	CACNA1C	Hyperaldosteronism	disease	C19	Disease or Syndrome	3
+C0020428	hsa:185	I	AGTR1	Hyperaldosteronism	disease	C19	Disease or Syndrome	3
+C0020428	hsa:776	I	CACNA1D	Hyperaldosteronism	disease	C19	Disease or Syndrome	3
+C1384514	hsa:775	I	CACNA1C	Conn Syndrome	disease	C19	Disease or Syndrome	3
+C1384514	hsa:185	I	AGTR1	Conn Syndrome	disease	C19	Disease or Syndrome	3
+C1384514	hsa:776	I	CACNA1D	Conn Syndrome	disease	C19	Disease or Syndrome	3
+C0264714	hsa:775	I	CACNA1C	Acute heart failure	disease	C14	Disease or Syndrome	11
+C0264714	hsa:185	I	AGTR1	Acute heart failure	disease	C14	Disease or Syndrome	11
+C0264714	hsa:776	I	CACNA1D	Acute heart failure	disease	C14	Disease or Syndrome	11
+C0264714	hsa:476	I	ATP1A1	Acute heart failure	disease	C14	Disease or Syndrome	11
+C0264714	hsa:478	I	ATP1A3	Acute heart failure	disease	C14	Disease or Syndrome	11
+C0264714	hsa:481	I	ATP1B1	Acute heart failure	disease	C14	Disease or Syndrome	11
+C0264714	hsa:6558	I	SLC12A2	Acute heart failure	disease	C14	Disease or Syndrome	11
+C0264714	hsa:6337	I	SCNN1A	Acute heart failure	disease	C14	Disease or Syndrome	11
+C0264714	hsa:5585	I	PKN1	Acute heart failure	disease	C14	Disease or Syndrome	11
+C0264714	hsa:5586	I	PKN2	Acute heart failure	disease	C14	Disease or Syndrome	11
+C0264714	hsa:6722	I	SRF	Acute heart failure	disease	C14	Disease or Syndrome	11
+C0002962	hsa:775	I	CACNA1C	Angina Pectoris	phenotype	C23;C14	Sign or Symptom	4
+C0002962	hsa:776	I	CACNA1D	Angina Pectoris	phenotype	C23;C14	Sign or Symptom	4
+C0002962	hsa:154	I	ADRB2	Angina Pectoris	phenotype	C23;C14	Sign or Symptom	4
+C0002962	hsa:57657	I	HCN3	Angina Pectoris	phenotype	C23;C14	Sign or Symptom	4
+C0002963	hsa:775	I	CACNA1C	Angina Pectoris, Variant	disease	C23;C14	Disease or Syndrome	2
+C0002963	hsa:776	I	CACNA1D	Angina Pectoris, Variant	disease	C23;C14	Disease or Syndrome	2
+C0039231	hsa:775	I	CACNA1C	Tachycardia	phenotype	C23;C14	Finding	2
+C0039231	hsa:776	I	CACNA1D	Tachycardia	phenotype	C23;C14	Finding	2
+C0080203	hsa:775	I	CACNA1C	Tachyarrhythmia	phenotype	C23;C14	Finding	2
+C0080203	hsa:776	I	CACNA1D	Tachyarrhythmia	phenotype	C23;C14	Finding	2
+C0011849	hsa:2548	I	GAA	Diabetes Mellitus	group	C18;C19	Disease or Syndrome	1
+C0011882	hsa:231	I	AKR1B1	Diabetic Neuropathies	group	C10;C19	Disease or Syndrome	1
+C0027627	hsa:6347	I	CCL2	Neoplasm Metastasis	phenotype	C23;C04	Neoplastic Process	1
+C0015695	hsa:6720	I	SREBF1	Fatty Liver	disease	C06	Disease or Syndrome	3
+C0015695	hsa:6721	I	SREBF2	Fatty Liver	disease	C06	Disease or Syndrome	3
+C0015695	hsa:2194	I	FASN	Fatty Liver	disease	C06	Disease or Syndrome	3
+C0400966	hsa:2194	I	FASN	Non-alcoholic Fatty Liver Disease	disease	C06	Disease or Syndrome	1
+C0026850	hsa:6696	I	SPP1	Muscular Dystrophy	disease	C16;C05;C10	Disease or Syndrome	1
+C4721555	hsa:6696	I	SPP1	Autoimmune hepatitis	disease	C06	Disease or Syndrome	1
+C0852036	hsa:150	I	ADRA2A	Pregnancy associated hypertension	phenotype	C13;C14	Disease or Syndrome	2
+C0852036	hsa:152	I	ADRA2C	Pregnancy associated hypertension	phenotype	C13;C14	Disease or Syndrome	2
+C0031511	hsa:150	I	ADRA2A	Pheochromocytoma	disease	C04	Neoplastic Process	2
+C0031511	hsa:152	I	ADRA2C	Pheochromocytoma	disease	C04	Neoplastic Process	2
+C4551683	hsa:150	I	ADRA2A	Adrenal Gland Pheochromocytoma	disease	C04;C19	Neoplastic Process	2
+C4551683	hsa:152	I	ADRA2C	Adrenal Gland Pheochromocytoma	disease	C04;C19	Neoplastic Process	2
+C0021368	hsa:3725	I	JUN	Inflammation	phenotype	C23	Pathologic Function	8
+C0021368	hsa:3726	I	JUNB	Inflammation	phenotype	C23	Pathologic Function	8
+C0021368	hsa:2353	I	FOS	Inflammation	phenotype	C23	Pathologic Function	8
+C0021368	hsa:2355	I	FOSL2	Inflammation	phenotype	C23	Pathologic Function	8
+C0021368	hsa:8061	I	FOSL1	Inflammation	phenotype	C23	Pathologic Function	8
+C0021368	hsa:1386	I	ATF2	Inflammation	phenotype	C23	Pathologic Function	8
+C0021368	hsa:467	I	ATF3	Inflammation	phenotype	C23	Pathologic Function	8
+C0021368	hsa:468	I	ATF4	Inflammation	phenotype	C23	Pathologic Function	8
+C0005944	hsa:3725	I	JUN	Metabolic Bone Disorder	group	C18;C05	Disease or Syndrome	8
+C0005944	hsa:3726	I	JUNB	Metabolic Bone Disorder	group	C18;C05	Disease or Syndrome	8
+C0005944	hsa:2353	I	FOS	Metabolic Bone Disorder	group	C18;C05	Disease or Syndrome	8
+C0005944	hsa:2355	I	FOSL2	Metabolic Bone Disorder	group	C18;C05	Disease or Syndrome	8
+C0005944	hsa:8061	I	FOSL1	Metabolic Bone Disorder	group	C18;C05	Disease or Syndrome	8
+C0005944	hsa:1386	I	ATF2	Metabolic Bone Disorder	group	C18;C05	Disease or Syndrome	8
+C0005944	hsa:467	I	ATF3	Metabolic Bone Disorder	group	C18;C05	Disease or Syndrome	8
+C0005944	hsa:468	I	ATF4	Metabolic Bone Disorder	group	C18;C05	Disease or Syndrome	8
+C0004238	hsa:2147	I	F2	Atrial Fibrillation	disease	C23;C14	Disease or Syndrome	3
+C0004238	hsa:2155	I	F7	Atrial Fibrillation	disease	C23;C14	Disease or Syndrome	3
+C0004238	hsa:2159	I	F10	Atrial Fibrillation	disease	C23;C14	Disease or Syndrome	3
+C0027051	hsa:2147	I	F2	Myocardial Infarction	disease	C23;C14	Disease or Syndrome	3
+C0027051	hsa:2155	I	F7	Myocardial Infarction	disease	C23;C14	Disease or Syndrome	3
+C0027051	hsa:2159	I	F10	Myocardial Infarction	disease	C23;C14	Disease or Syndrome	3
+C0018824	hsa:2147	I	F2	Heart valve disease	group	C14	Disease or Syndrome	3
+C0018824	hsa:2155	I	F7	Heart valve disease	group	C14	Disease or Syndrome	3
+C0018824	hsa:2159	I	F10	Heart valve disease	group	C14	Disease or Syndrome	3
+C1861172	hsa:2147	I	F2	Venous Thromboembolism	phenotype	C14	Disease or Syndrome	3
+C1861172	hsa:2155	I	F7	Venous Thromboembolism	phenotype	C14	Disease or Syndrome	3
+C1861172	hsa:2159	I	F10	Venous Thromboembolism	phenotype	C14	Disease or Syndrome	3
+C0524702	hsa:2147	I	F2	Pulmonary Thromboembolisms	disease	C08;C14	Disease or Syndrome	3
+C0524702	hsa:2155	I	F7	Pulmonary Thromboembolisms	disease	C08;C14	Disease or Syndrome	3
+C0524702	hsa:2159	I	F10	Pulmonary Thromboembolisms	disease	C08;C14	Disease or Syndrome	3
+C0272285	hsa:2147	I	F2	Heparin-induced thrombocytopenia	disease	C15	Disease or Syndrome	1
+C0014869	hsa:2147	I	F2	Peptic Esophagitis	disease	C06	Disease or Syndrome	5
+C0014869	hsa:5645	I	PRSS2	Peptic Esophagitis	disease	C06	Disease or Syndrome	5
+C0014869	hsa:5646	I	PRSS3	Peptic Esophagitis	disease	C06	Disease or Syndrome	5
+C0014869	hsa:1504	I	CTRB1	Peptic Esophagitis	disease	C06	Disease or Syndrome	5
+C0014869	hsa:440387	I	CTRB2	Peptic Esophagitis	disease	C06	Disease or Syndrome	5
+C0262417	hsa:2147	I	F2	Acute on chronic pancreatitis	disease	C06	Disease or Syndrome	5
+C0262417	hsa:5645	I	PRSS2	Acute on chronic pancreatitis	disease	C06	Disease or Syndrome	5
+C0262417	hsa:5646	I	PRSS3	Acute on chronic pancreatitis	disease	C06	Disease or Syndrome	5
+C0262417	hsa:1504	I	CTRB1	Acute on chronic pancreatitis	disease	C06	Disease or Syndrome	5
+C0262417	hsa:440387	I	CTRB2	Acute on chronic pancreatitis	disease	C06	Disease or Syndrome	5
+C0149871	hsa:2159	I	F10	Deep Vein Thrombosis	disease	C14	Disease or Syndrome	2
+C0149871	hsa:462	I	SERPINC1	Deep Vein Thrombosis	disease	C14	Disease or Syndrome	2
+C4544791	hsa:5290	I	PIK3CA	PIK3CA related overgrowth syndrome	disease		Disease or Syndrome	1
+C0020514	hsa:5618	I	PRLR	Hyperprolactinemia	disease	C10;C19	Disease or Syndrome	1
+C3665358	hsa:5618	I	PRLR	Galactorrhea	disease	C13;C17	Finding	1
+C0033375	hsa:5618	I	PRLR	Prolactinoma	disease	C04;C10;C19	Neoplastic Process	1
+C0011884	hsa:2053	I	EPHX2	Diabetic Retinopathy	disease	C11;C19;C14	Disease or Syndrome	1
+C0001206	hsa:2690	I	GHR	Acromegaly	disease	C05;C10;C19	Disease or Syndrome	1
+C0013608	hsa:760	I	CA2	Edema, Cardiac	disease	C23;C14	Pathologic Function	4
+C0013608	hsa:771	I	CA12	Edema, Cardiac	disease	C23;C14	Pathologic Function	4
+C0013608	hsa:6558	I	SLC12A2	Edema, Cardiac	disease	C23;C14	Pathologic Function	4
+C0013608	hsa:6337	I	SCNN1A	Edema, Cardiac	disease	C23;C14	Pathologic Function	4
+C0036830	hsa:727	I	C5	Serum Sickness	disease	C17;C20;C25	Disease or Syndrome	1
+C0007785	hsa:64805	I	P2RY12	Cerebral Infarction	disease	C23;C10;C14	Disease or Syndrome	1
+C0003838	hsa:64805	I	P2RY12	Arterial Occlusive Diseases	group	C14	Disease or Syndrome	1
+C1833683	hsa:6558	I	SLC12A2	NEPHROLITHIASIS, CALCIUM OXALATE	disease	C13;C12	Disease or Syndrome	1
+C0149931	hsa:154	I	ADRB2	Migraine Disorders	group	C10	Disease or Syndrome	1
+C0302314	hsa:19	I	ABCA1	Xanthoma	disease	C18	Disease or Syndrome	1
+C0149521	hsa:5645	I	PRSS2	Pancreatitis, Chronic	disease	C06	Disease or Syndrome	4
+C0149521	hsa:5646	I	PRSS3	Pancreatitis, Chronic	disease	C06	Disease or Syndrome	4
+C0149521	hsa:1504	I	CTRB1	Pancreatitis, Chronic	disease	C06	Disease or Syndrome	4
+C0149521	hsa:440387	I	CTRB2	Pancreatitis, Chronic	disease	C06	Disease or Syndrome	4
+C0001339	hsa:5645	I	PRSS2	Acute pancreatitis	disease	C06	Disease or Syndrome	4
+C0001339	hsa:5646	I	PRSS3	Acute pancreatitis	disease	C06	Disease or Syndrome	4
+C0001339	hsa:1504	I	CTRB1	Acute pancreatitis	disease	C06	Disease or Syndrome	4
+C0001339	hsa:440387	I	CTRB2	Acute pancreatitis	disease	C06	Disease or Syndrome	4
+C0156221	hsa:3576	I	IL8	Acute glomerulonephritis	disease	C13;C12	Disease or Syndrome	1
+C0040053	hsa:5054	I	SERPINE1	Thrombosis	phenotype	C14	Pathologic Function	1
+C0026946	hsa:1595	I	CYP51A1	Mycoses	group	C01	Disease or Syndrome	1
+C0035309	hsa:4023	I	LPL	Retinal Diseases	group	C11	Disease or Syndrome	1
+C4083212	hsa:6715	I	SRD5A1	Alopecia, Male Pattern	disease	C23;C17	Disease or Syndrome	1
+C0085096	hsa:109	I	ADCY3	Peripheral Vascular Diseases	group	C14	Disease or Syndrome	3
+C0085096	hsa:111	I	ADCY5	Peripheral Vascular Diseases	group	C14	Disease or Syndrome	3
+C0085096	hsa:115	I	ADCY9	Peripheral Vascular Diseases	group	C14	Disease or Syndrome	3
+C0019080	hsa:3373	I	HYAL1	Hemorrhage	phenotype	C23	Pathologic Function	2
+C0019080	hsa:8692	I	HYAL2	Hemorrhage	phenotype	C23	Pathologic Function	2

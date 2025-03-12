@@ -1,0 +1,13 @@
+name: tresor
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10.6
+  - pandas==2.1.3
+  - numpy=1.26.4
+  - gpyopt==1.2.6
+  - scikit-learn==1.3.2
+  - scipy==1.11.4
+  - matplotlib==3.6.2
+  - seaborn==0.13.0

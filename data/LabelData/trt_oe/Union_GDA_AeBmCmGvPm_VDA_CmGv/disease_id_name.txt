@@ -1,0 +1,152 @@
+disease	diseaseName
+C1292769	Precursor B-cell lymphoblastic leukemia
+C0003873	Rheumatoid Arthritis
+C0021390	Inflammatory Bowel Diseases
+C0162820	Dermatitis, Allergic Contact
+C0011615	Dermatitis, Atopic
+C2607914	Allergic rhinitis (disorder)
+C0011608	Dermatitis Herpetiformis
+C0009324	Ulcerative Colitis
+C0004943	Behcet Syndrome
+C0026769	Multiple Sclerosis
+C0026896	Myasthenia Gravis
+C0001403	Addison Disease
+C0033860	Psoriasis
+C0003872	Arthritis, Psoriatic
+C0263361	Psoriasis vulgaris
+C0027726	Nephrotic Syndrome
+C0152081	Pustular psoriasis
+C3495559	Juvenile arthritis
+C0038013	Ankylosing spondylitis
+C0020517	Hypersensitivity
+C0027651	Neoplasms
+C0596240	Cancer Pain
+C0024299	Lymphoma
+C0022658	Kidney Diseases
+C0009326	Collagen Diseases
+C0001623	Adrenal gland hypofunction
+C0036974	Shock
+C0037274	Dermatologic disorders
+C0027765	nervous system disorder
+C0018939	Hematological Disease
+C0153690	Secondary malignant neoplasm of bone
+C0004096	Asthma
+C0021368	Inflammation
+C0748052	Erythrodermic psoriasis
+C0162817	Skin Diseases, Eczematous
+C0398650	Immune thrombocytopenic purpura
+C0023467	Leukemia, Myelocytic, Acute
+C0006142	Malignant neoplasm of breast
+C0023473	Myeloid Leukemia, Chronic
+C0023443	Hairy Cell Leukemia
+C0026764	Multiple Myeloma
+C0007134	Renal Cell Carcinoma
+C0025202	melanoma
+C0019163	Hepatitis B
+C0524909	Hepatitis B, Chronic
+C0019196	Hepatitis C
+C0524910	Hepatitis C, Chronic
+C0025149	Medulloblastoma
+C0017636	Glioblastoma
+C0007131	Non-Small Cell Lung Carcinoma
+C0235974	Pancreatic carcinoma
+C2239176	Liver carcinoma
+C0009402	Colorectal Carcinoma
+C0085390	Li-Fraumeni Syndrome
+C1261473	Sarcoma
+C0023418	leukemia
+C0006118	Brain Neoplasms
+C0027819	Neuroblastoma
+C0018923	Hemangiosarcoma
+C0018188	Granuloma
+C0026948	Mycosis Fungoides
+C0036920	Sezary Syndrome
+C1140680	Malignant neoplasm of ovary
+C0024121	Lung Neoplasms
+C0002395	Alzheimer's Disease
+C0022104	Irritable Bowel Syndrome
+C0011860	Diabetes Mellitus, Non-Insulin-Dependent
+C0432214	Namaqualand hip dysplasia
+C0011570	Mental Depression
+C0524620	Metabolic Syndrome X
+C0151744	Myocardial Ischemia
+C0030567	Parkinson Disease
+C0002736	Amyotrophic Lateral Sclerosis
+C0037952	Spinocerebellar Degeneration
+C0007820	Cerebrovascular Disorders
+C0087012	Ataxia, Spinocerebellar
+C0018203	Chronic granulomatous disease
+C0029454	Osteopetrosis
+C0027947	Neutropenia
+C0020445	Hypercholesterolemia, Familial
+C0242339	Dyslipidemias
+C0003851	Arteriosclerosis Obliterans
+C0271561	Somatotropin deficiency
+C0265344	Donohue Syndrome
+C0271695	Rabson-Mendenhall Syndrome
+C0342336	Insulin resistance - type A
+C0013338	Pituitary dwarfism
+C0342337	Insulin resistance - type B
+C0271568	Laron Syndrome
+C0020456	Hyperglycemia
+C0000889	Acanthosis Nigricans
+C0011859	Lipoatrophic Diabetes Mellitus
+C0020459	Hyperinsulinism
+C0238402	Pycnodysostosis
+C0010346	Crohn Disease
+C0085435	Arthritis, Reactive
+C0043167	Pertussis
+C0017612	Glaucoma, Open-Angle
+C0025281	Meniere Disease
+C0264714	Acute heart failure
+C0024117	Chronic Obstructive Airway Disease
+C0009443	Common Cold
+C0010200	Coughing
+C0022876	Premature Obstetric Labor
+C0000821	Threatened abortion
+C0006277	Bronchitis
+C0008677	Bronchitis, Chronic
+C0474368	Labor Pain
+C0011854	Diabetes Mellitus, Insulin-Dependent
+C1800706	Idiopathic Pulmonary Fibrosis
+C0020557	Hypertriglyceridemia
+C0035309	Retinal Diseases
+C0023817	Hyperlipoproteinemia Type I
+C0022661	Kidney Failure, Chronic
+C0020676	Hypothyroidism
+C0085096	Peripheral Vascular Diseases
+C0400966	Non-alcoholic Fatty Liver Disease
+C0035372	Rett Syndrome
+C0002874	Aplastic Anemia
+C0029456	Osteoporosis
+C0026987	Myelofibrosis
+C0039585	Androgen-Insensitivity Syndrome
+C0028768	Obsessive-Compulsive Disorder
+C0021603	Sleep Initiation and Maintenance Disorders
+C0020538	Hypertensive disease
+C0003469	Anxiety Disorders
+C0270549	Generalized Anxiety Disorder
+C0014544	Epilepsy
+C0007682	CNS disorder
+C0017601	Glaucoma
+C0030446	Paralytic Ileus
+C1306878	Climacteric discomfort
+C0029458	Osteoporosis, Postmenopausal
+C0221392	Atrophic Vaginitis
+C0030920	Peptic Ulcer
+C3843755	Gastric or duodenal ulcer
+C0020635	Hypopituitarism
+C4316995	Primary Hypothyroidism
+C3665349	Secondary hypothyroidism
+C0027145	Myxedema
+C0010308	Congenital Hypothyroidism
+C0018021	Goiter
+C0920350	Autoimmune thyroiditis
+C0155626	Acute myocardial infarction
+C1704436	Peripheral Arterial Diseases
+C0007785	Cerebral Infarction
+C3873363	Acute pulmonary thromboembolism
+C0280100	Solid Neoplasm
+C0398738	Leukocyte adhesion deficiency type 1
+C0032797	Postpartum Hemorrhage
+C0000786	Spontaneous abortion
