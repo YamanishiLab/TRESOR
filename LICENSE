@@ -1,18 +1,20 @@
 TRESOR (ver. 1.0 (240905))
 
 Supplementary codes for
-"Therapeutic target prediction for orphan diseases integrating genome-wide and transcriptome-wide association studies"
+Therapeutic target prediction for orphan diseases integrating genome-wide and transcriptome-wide association studies
 
 Copyright(c)2024 Satoko Namba. All rights reserved.
 
 LICENSING TERMS:
 This program is free of charge for academic research and education purposes.
 However you must obtain a license from the author to use it for commercial purposes.
+Commercial companies are prohibited from using this code or any part of it.
+Even if you are an academic researcher, you are prohibited from using this code or any part of it in collaborative research with commercial companies.
 The software must not be distributed without prior permission of the author.
 
 NO WARRANTY:
-This software is supplied "as is" without warranty of any kind, and its authors disclaim any and all warranties, 
-including but not limited to any implied warranties of merchantability and fitness for a particular purpose, 
+"This software is supplied ""as is"" without warranty of any kind, and its authors disclaim any and all warranties, "
+"including but not limited to any implied warranties of merchantability and fitness for a particular purpose, "
 and any warranties or non infringement.
 The user assumes all liability and responsibility for use of this software and 
 in no event shall its authors be liable for damages of any kind resulting from its use.

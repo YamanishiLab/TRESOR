@@ -358,7 +358,15 @@ This figure shows distributions of gene expression scores of TRESOR and knockdow
 
 ## License :notebook_with_decorative_cover:
 
-This project is licensed under the LICENSE - see the [LICENSE](https://github.com/YamanishiLab/TRESOR/blob/main/LICENSE) file for details
+This project is licensed under the LICENSE - see the [LICENSE](https://github.com/YamanishiLab/TRESOR/blob/main/LICENSE) file for details.
+
+LICENSING TERMS:
+This program is free of charge for academic research and education purposes.
+However you must obtain a license from the author to use it for commercial purposes.
+Commercial companies are prohibited from using this code or any part of it.
+Even if you are an academic researcher, you are prohibited from using this code or any part of it in collaborative research with commercial companies.
+The software must not be distributed without prior permission of the author.
+
 <br>
 
 
