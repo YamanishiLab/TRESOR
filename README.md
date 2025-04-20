@@ -9,12 +9,12 @@
 
 ## Publication/Citation :link:
 
-The study of `Bayesian integrative method` is described in the [manuscript](URL). 
+The study of `Bayesian integrative method` is described in the [manuscript](https://doi.org/10.1038/s41467-025-58464-4). 
 
 ```
 Satoko Namba, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyama Otani, and Yoshihiro Yamanishi. 
 Therapeutic target prediction for orphan diseases integrating genome-wide and transcriptome-wide association studies.
-Nature Communications, page number, 2025.
+Nature Communications, **16**, 3355, 2025.
 ```
 
 <br>
