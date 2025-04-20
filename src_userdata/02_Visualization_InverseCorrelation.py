@@ -121,7 +121,7 @@ pert_type = args.pert_type
 # pert_type = 'trt_oe'
 
 ## Cell type.
-cell_type = args.cll_type
+cell_type = args.cell_type
 # cell_type = "all"
 # cell_type = "MCF7"
 
@@ -289,7 +289,8 @@ tw_df
 # =======================================================
 
 # Load imputed data.
-i_f = f'../data_userdata/LINCS/{pert_type}_original.txt'
+# i_f = f'../data_userdata/LINCS/{pert_type}_original.txt'
+i_f = f'../data_userdata/LINCS/{pert_type}.txt'
 df = pd.read_csv(i_f, sep = '\t')
 
 

@@ -258,7 +258,7 @@ cd src_userdata
 ./01_InverseCorrelation.py \
 --pert_type trt_sh.cgs \
 --cell_type MCF7 \
---twas_input ../data_userdata/example/twas_C0027662_Thyroid.txt \
+--input_twas ../data_userdata/example/twas_C0027662_Thyroid.txt \
 --out_file ../data_userdata/output/trt_sh.cgs/C0027662_Thyroid_MCF7.txt \
 --col_zscore zscore \
 --col_disease_id disease_id \
@@ -273,7 +273,7 @@ cd src_userdata
 ./01_InverseCorrelation.py \
 --pert_type trt_oe \
 --cell_type MCF7 \
---twas_input ../data_userdata/example/twas_C0027662_Thyroid.txt \
+--input_twas ../data_userdata/example/twas_C0027662_Thyroid.txt \
 --out_file ../data_userdata/output/trt_oe/C0027662_Thyroid_MCF7.txt \
 --col_zscore zscore \
 --col_disease_id disease_id \
@@ -284,7 +284,7 @@ cd src_userdata
 The command line parameters mean:
 
 - `--pert_type` Perturbation type (Thrapeutic target type). "trt_sh.cgs" means inhibitory target prediction, and "trt_oe" means activatory target prediction.
-- `--twas_input` Filie path of TRESOR signatures.
+- `--input_twas` Filie path of TRESOR signatures.
 - `--out_file` File path where results will be saved to.
 - `--col_zscore` Column name including zscores calculated by TWAS analyses (default: zscore).
 - `--col_disease_id` Column name of disease identifier. If you include multiple disease identifiers, inverse signature method is conducted for each disease identifier (default: disease_id).

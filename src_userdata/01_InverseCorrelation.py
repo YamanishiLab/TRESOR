@@ -148,7 +148,8 @@ col_entrezgene = args.col_entrezgene
 # =======================================================
 
 ## Load imputed data.
-i_f = f'../data_userdata/LINCS/{pert_type}_original.txt'
+# i_f = f'../data_userdata/LINCS/{pert_type}_original.txt'
+i_f = f'../data_userdata/LINCS/{pert_type}.txt'
 df = pd.read_csv(i_f, sep = '\t')
 
 ## Select cell line.

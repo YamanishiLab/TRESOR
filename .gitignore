@@ -16,3 +16,5 @@ src_userdata/02_Visualization_InverseCorrelation.ipynb
 src_userdata/.ipynb_checkpoints/*
 data_userdata/LINCS/trt_oe_original.txt
 data_userdata/LINCS/trt_sh.cgs_original.txt
+data_userdata/LINCS/trt_oe.txt
+data_userdata/LINCS/trt_sh.cgs.txt
