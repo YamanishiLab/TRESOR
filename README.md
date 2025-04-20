@@ -249,7 +249,7 @@ The example data is provided in the `data_userdata/example/twas_C0027662_Thyroid
 
 ### 2. Inverse signature method with TRESOR signatures :abacus:
 
-This step calculates inverse correlations between your own TRESOR signatures and target gene perturbed signatures. Here, original genetically perturbed signatures are used. Because target gene perturbation signatures have many missing entries, we recommend imputing these values using a [tensor decomposition algorithm](https://academic.oup.com/bioinformatics/article/35/14/i191/5529149) (Iwata _et al._, _Bioinformatics_, **35**, i191–i199, 2019).
+This step calculates inverse correlations between your own TRESOR signatures and target gene perturbed signatures.
 
 If you want to predict inhibitory targets, run the command as follows.
 
@@ -325,7 +325,7 @@ cd src_userdata
 --tissue_type Thyroid \
 --foc_d C0027662 \
 --foc_p FHL2,BECN1 \
---twas_input ../data_userdata/example/twas_C0027662_Thyroid.txt \
+--input_twas ../data_userdata/example/twas_C0027662_Thyroid.txt \
 --out_dir ../data_userdata/output/trt_sh.cgs/bar_plot \
 --col_zscore zscore \
 --col_disease_id disease_id \
@@ -340,7 +340,7 @@ The command line parameters mean:
 - `--tissue_type` tissue type of TRESOR signature.
 - `--foc_d` disease identifier that is included in your TRESOR signatures and you are interested in (e.g., C0027662).
 - `--foc_p` comma-separated protein names (therapeutic target candidate names) that you are interested in (e.g., FHL2,BECN1).
-- `--twas_input` Filie path of TRESOR signatures.
+- `--input_twas` Filie path of TRESOR signatures.
 - `--out_dir` Directory path where results will be saved to.
 - `--col_zscore` Column name including zscores calculated by TWAS analyses (default: zscore).
 - `--col_disease_id` Column name of disease identifier. If you include multiple disease identifiers, inverse signature method is conducted for each disease identifier (default: disease_id).
